@@ -1,0 +1,465 @@
+ca7275c5c0ebae578d1df3ac7c7c49f4 Beamrider (Europe) (Firebird).png
+7a99ca8eac23877cf9b726e3041d26b9 Exolon (Europe).png
+ddfe5a93556b11367a80eb5a21532afa Eliminator (Hewson Consultants Ltd.) (Europe).png
+988b57adf4efa360759a1bea78678f27 Tapper (USA).png
+28bee6fa75e370aad4839f1bac4d8b19 Neuromancer (USA) (Disk 2 Side B).png
+c3c124bb151e2ba3bb1faad535586047 Ghostbusters II (USA).png
+19b2817995601c8e43446e1a9ba63648 Son of Blagger (Europe).png
+424f4dfd441722e47c1bdd25ffded9dc Skool Daze (Europe).png
+06754c9e78f67c05c639976ff14b973b Flimbo's Quest (Europe).png
+0ad840156e900bee69a4bd6192aa0216 Vendetta (Europe) (Side A).png
+0a3663603892ea4472c20c83ae932d59 Cauldron II - The Pumpkin Strikes Back (Europe).png
+fbf6062b522e537aa4c2e637c3b20878 Kung-Fu Master (USA).png
+12fb882eda7da62aa9c0ee2cbe7c67f7 Turrican (Europe) (Side A).png
+cd92e98083892ac2a9301425c7fd1a1c Hudson Hawk (Europe).png
+6a8ab06a928c63892e231b865a4c8689 Mega-Apocalypse (Europe).png
+63149bc6d0149f0eaa8e7ec32588b844 Joe Blade (Europe).png
+b816489f1dafea95d68cbb20f6efea40 Rollaround (Europe).png
+966bcd12801a38857b81cc916659372a Pyjamarama! (Europe).png
+7b39d89836cfa6536c5d68e5026d7dfd Scooby Doo (Europe).png
+52c2bd7eeb25344ef7800514c67cea5e Daley Thompson's Olympic Challenge (Europe).png
+7386bd4d845c69e66524c852a6d8afd7 Rescue on Fractalus! (USA).png
+77ae2a25b6e1483aecf7c5adc6036da1 CJ's Elephant Antics (Europe).png
+a3ea1ee9b72448211932066dcd88abc9 International Karate+ (Europe).png
+bad5721983aae1a17f604b8cadd00cd0 Myth - History in the Making (Europe) (Disk 2) (Docs).png
+6736d8b74b0fa737cd7a80120710e5e7 Beyond the Forbidden Forrest (USA).png
+1d94e3573444dea5e1c1f4764c97659d Olympic Skier (Europe).png
+8b7ae00276ce38cc97aa43f6c40813d5 Ghosts'n Goblins (Europe).png
+f866d9cde0136ba1bef1f6af336a74e4 Park Patrol (Europe).png
+c6335fe590af3950bbcb734d39e99875 R-Type (USA) (Disk 1 Side A).png
+edbdd5ebdacf69cd06cbbb5814e43a67 Pogo Joe (USA).png
+edf502766bd9b4fc2b203e0784b43766 Avenger (Gremlin Graphics Software Ltd.) (Europe).png
+294edd84ce1f09c1c3fa0589d9b76b59 Pole Position (USA).png
+15b714a0d0afa58b3edb1928cbd463d4 Rainbow Islands (Europe).png
+d85e59e485ed8d48d4c624b95500c5c0 Archon (USA).png
+872bcf5eead8da90d1f1a94c1c53aa3a Detective Game, The (Europe).png
+3773254870bfc10969653830340ddf8f Neptune's Daughters (Europe).png
+8857699ba5605a31d703506063e6862a Sentinel (Synapse Software) (USA).png
+4f5b961c186ee97bc9c81c9fe21877ac Train - Escape to Normandy (World).png
+c2d5284e727a3820c5de76dba7ef0b5c Tai-Pan (World).png
+549ba0395ed00a0779be47020e4777f6 Pirates! (USA) (Side A).png
+7620b4dd0ff71e3483dc8292d9e008cb Gordian Tomb (Europe).png
+aa34add75521d16a97d5b139f48afd09 Project Firestart (USA) (Disk 2).png
+226d7dcfb510ea18cacb47ba8bd1e353 Army Moves (Europe).png
+3239e83b5be8ca7ee884267158244a69 Cybernoid - The Fighting Machine (Europe).png
+b50b099dfe66442d9cafa42ca32e10c0 Comic Bakery (Europe).png
+dc93f21e08d6ce9e0ebfa216b79ebc68 Uridium (Europe).png
+76a7733a6c8a42fe9cb216ad166ed869 Manic Miner (Europe).png
+58fdce886f81314738697c99bcd5b951 Vendetta (Europe) (Side B).png
+c4b3d84f553fb5858539dcfba0436ae5 Spy vs Spy II - The Island Caper (USA).png
+d01862ccf84607288a75c900e39c3a91 Great Giana Sisters , The (Europe).png
+2cae770db70edd823a057b56bd5d68df Jumpman Junior (USA).png
+f1a2bb61ea91b5411f59c4238d65b32c River Raid (USA).png
+b544c5f039ef7e9620d25da2c5c01729 H.E.R.O. (USA).png
+4f7b5a442c729b580851014017e1850d Super Pipeline (Europe).png
+ef857688ca141dfb454a1b7f20882acf Bomb Jack (Europe).png
+b2801a69cdf54b208d55b65db46b0f33 Killed Until Dead (USA).png
+4a1203aae2d94ee908ef0fe19bbe67a1 Train Robbers (Europe).png
+87bfb4d198a84c6b606f995882750a9e Joe Blade II (Europe).png
+895d4dc8afcf05194be6d9872664d6da West Bank (Europe).png
+06dd45154dea0d8ab3b9301fe9404667 Pirates! (USA) (Side B).png
+e0005a623c78222aa60442328b02205f Force Seven (USA).png
+152d6cb21de2d20f0376aba7c4ba3f9e Falcon Patrol II (Europe).png
+47a323fc598bbe0c0a5d8cff1ae67c12 Mikie (Europe).png
+68b1883c4f5e98a72b2c1fcf8df4b131 Turbo Out Run (Europe) (Side A).png
+87ce18697e98e690117f9f8ae0da77d9 Ultimate Wizard (USA) (Side B).png
+4e2aa1f3e878b801eb1c56c46a3960a8 Raging Beast (World).png
+5ec89db9a9407189cce9b4aec2972b02 Mission Elevator (Europe).png
+cb2af3744fb44d63706f5e7cc6c23870 Scooby and Scrappy Doo (Europe).png
+7b99e11b4b5254e73a2f3b8b9c4d119c Terry's Big Adventure (Europe).png
+6f4f81130783cf3de3c8037a027fae72 Mario Bros (USA).png
+68f8d95a905a39942a0893699e64fe87 Alien Syndrome (USA).png
+e4210721defd1e86e8cafd7568fad32f Last Ninja III (Europe) (Side A).png
+fa911948ebf9721f77734d7c7a0e7457 Montezuma's Revenge (USA).png
+b5a625e639453bcfa63d6ac325a9f4cc Olli & Lissa 3 - The Candlelight Adventure (WORLD).png
+16375dc5027e5651c6633f2d811048e6 Gauntlet (USA).png
+3a49362a4e853db0068c263e98253794 Elite (Europe).png
+67848c593794ceb8ea91fa6a6e833737 Stuntman Seymour (World).png
+bc63be104a6defe3ae484d780cde906a Game Over (Europe).png
+0f6a4228ccdd47d0cdfef1b9c330888c BC II - Grog's Revenge (USA).png
+61389d0b1975df9256877ce682d72257 Jet Set Willy II - The Final Frontier (Europe).png
+16e1aedffa9b538b047428d00f598c2c Ghostbusters (USA).png
+629da28f7ffd3e6a9d911b700740a524 Pole Position II (USA).png
+571aa3cbe8c8b4adf8f3e53e80f6bfea Finders Keepers (Europe).png
+1f9b1c671b3e34d27bb1115ffb0d3282 G.I. Joe - A Real American Hero (USA).png
+75209af1dc472693cba91392981d44cb Alternative World Games (Europe) (Disk 1 Side B).png
+bf4f0bd6507cda6c33fc893915c95ba6 Rockford - The Arcade Game (World).png
+132d2321e131d5699409e0f290a3af6c Forbidden Forest (USA).png
+cea95bdc9e4886968f20967afc4d3f6c Turbo Charge (Europe) (Side B).png
+da8be423716015bcbd3d96e68384d075 Jeep Command (Europe).png
+1f2abb099c3a0b4a78e72e23e701bd3f Games, The - Summer Edition (USA) (Disk 1 Side B).png
+cc654bad749b7bcac5bf0a79fafae71e Space Taxi (Europe).png
+18f4e40bceb90a7b8ded7a31330fa4ba Monty Mole (Europe).png
+d7c23dcd4dff5491d4d5497d1e8342bf Samurai Warrior - The Battles of Usagi Yojimbo (Europe).png
+582b821c4fa59ee4f241db91ec4b6f67 Critical Mass (USA).png
+5188dcfd33127e9e430ba0427d3ff6dd Bubble Bobble (Europe).png
+7639a99fe8d6276ba8ea4086096a7595 Below the Root (Europe).png
+28bee6fa75e370aad4839f1bac4d8b19 Neuromancer (USA) (Disk 3) (Docs).png
+e922f350c40128cce90a49b021a87410 Arkanoid (Europe).png
+2faa75fef0bab5e228b11ba512b9c295 Combat School (Europe) (Disk 1 Side B).png
+21b1537c3548461ce0148a2dc897fdf1 Licence to Kill (Europe).png
+6b0583cce3df86b3e6b5ace580cf4001 Bounty Bob Strikes Back! (Europe).png
+246eaf8e88a938d0ac1e50291d654fbc Summer Games II (USA) (Side A).png
+038700523c24a7e971155ac02e66bb99 Trolls and Tribulations (USA).png
+28bee6fa75e370aad4839f1bac4d8b19 Neuromancer (USA) (Disk 1 Side B).png
+8e59b65c8ab1b2e9b3d001cbd7780c93 Grand Prix (Europe).png
+4a553b9ea606e5a8004b665c2da52b50 Cliff Hanger (Europe).png
+6c2d425d72ba0a23f21b32a3f3f97da8 Cobra Force (Europe).png
+e623f273eb9ea206b8c2a0fb2663bae4 Creatures II - Torture Trouble (Europe) (Side B).png
+e61192ff097e7725a6bced3fe9edf4c5 Winter Games (USA) (Side A).png
+5216514f8ae3f0ab547cda84b01c66bb Impossible Mission II (USA).png
+74d3809b997675cbf033689d696b95a2 Zak McKracken and the Alien Mindbenders (Europe) (Disk 1 Side B).png
+aae62c6105102ecc0bcdc67cbc5fa01c Platoon (Europe) (Side A).png
+26bc82b92b3c36d7570836503acfd423 Chuckie Egg (Europe).png
+89caf76c5a612dd8402e3a902397b32d Out Run Europa (Europe) (Side A).png
+5b209508bc9c1f503fd232c9b08f1026 Hard 'n' Heavy (World).png
+86167f6779b3f1c2eec5ea4e5841c65b Terminator II - Judgment Day (Europe) (Side A).png
+b411647fe6b5905e3a896f26638732e5 Miner 2049'er (USA).png
+bbb8c5f786047da17aa84961e208fd14 Buggy Boy (Europe).png
+450eb0e4a05af9171d5cc00f7dd4d1be One Man and his Droid (Europe).png
+c38dd14cdb0cb92f065d925b153d7b06 Galaxy (Kingsoft) (Europe).png
+7cd7801bdc08ecb2a82d349eeb04eebe Retrograde (Europe) (Side A).png
+300aef419d1432ea5863e25388bcc98b RoboCop (Europe).png
+989eec7fafa3ba06226f26b89e725f34 Fernandez Must Die (Europe).png
+ceacafb24ba668185ab3d178b8a791ad Hawkeye (Europe) (Side A).png
+d3400e2f1e7c9dd677da0e6e99999586 Turrican II - The Final Fight (Europe) (Side B).png
+de3b8c5c4c83b0160d9dc4add6ffbe7b Yogi's Great Escape (Europe).png
+e8a9de485a91ee9084673becd0c650bc Mighty Bombjack (Europe).png
+3b7b3e2dc9467ff0ef55e1c9e7593e31 Dark Castle (USA) (Side B).png
+dfab618c95db8977d4780f79db22d29c Katakis (Europe).png
+3a5486f77156eeafaae6f867e6c66e70 Saboteur (Durell Software) (Europe).png
+03ae668fa2c3a8362e1429c4088e05bf Vindicator!, The (Europe).png
+0699bdb1704626cba98a6633a8c049f6 Rambo III - The Rescue (Europe).png
+62ab2e25c22ca8f58bb11bc5e00441e3 Dizzy - Down the Rapids (Europe).png
+e932e645ce78659140e271be8c2672d5 Bobby Bearing (Europe).png
+f5171e4a48244904db4c2bdd4914d6cd Raid on Bungeling Bay (USA).png
+3bfad13db5d07393c534b4498ff98b0d Thing Bounces Back (Europe).png
+d54d2e8586f521a4a81fe16f99aaa909 Little Computer People (USA) (Side A).png
+0517b18803d78be1abc73910cc024ae7 Green Beret (Europe).png
+f832fcd30e6a9ab7950828df17b342e2 Rambo - First Blood Part II (Europe).png
+3a3dcc5ff013bbfd9db77653e5b5a5fe Nodes of Yesod (World).png
+920986d075fdba02534c19d94d3a74bf Boulder Dash  III (USA).png
+bb2cf1d7f5d3360def2cdbc49231923f CJ in the USA (Europe).png
+fbbf44b9b720cef8fa3506cdd3d133ee Laser Zone (Europe).png
+986d72c5c9ff0b9e1ca42151c356577a Cauldron (Europe).png
+194aeedff00b6a5ed29b4e13a433585f Krakout (Europe).png
+8e19ab3cf1279a370df567f60c74c7f4 Hard Hat Mack (USA).png
+cbe1b793fac52ccb9f15b1f9de1182c8 Nemesis (Europe).png
+bbfd3671118f2629fbaa9ddf4a24488c Trashman (New Generation Software) (Europe).png
+0ff4a422b1e7df363e045daf2c536d06 Human Race, The (Europe).png
+7952a6b6799eedbbf0eb21230f1015d5 10th Frame (USA).png
+c3dbe88739722e88332c0fdf43b21797 Sidewinder II (Europe).png
+213a2eb4b8af0c4dd9ee3a17e4df8d2d Omega Race (USA).png
+12fb882eda7da62aa9c0ee2cbe7c67f7 Turrican (Europe) (Side B).png
+b7f83e4a24fdfa8b02678a94bb8a5c31 Match Day II (Europe).png
+4ffad55f4084e3fe064ebc2a7a1dd71c Stop The Express (USA).png
+338087a673f610572c758afa9f54b251 Hover Bovver (Europe).png
+99873fc8f13e4f8cbc676ac1720678a4 Dynamite Dan (Europe).png
+690a719da80eb72b91a76bf42afe436a Iridis Alpha (Europe).png
+59ffed681e41bad6d2922b153d098632 Booty (Europe).png
+922959a092a4b7b114cb251832b2a026 Uwol-Quest For  Money (USA).png
+3c16753a43c70286e8f242c1648ace06 IO - Into Oblivion (Europe).png
+5b2d0a939f73b529682fb7fbe2ee816e Stunt Car Racer (Europe).png
+3981a35645c07dc04785d8c9a9a6f5cf Castles Of Doctor Creep, The (USA).png
+e01c43b04487bbc4d43a03b4d748a768 Dropzone (Europe).png
+12cc1623bc836c1fd9f38865909e39d0 Target Renegade (Europe).png
+6edf7ad1ead0e9f91898153c199e54d9 World Class Leaderboard (USA) (Side B).png
+be6138ab2710aabd39560d08506d0f57 First Strike (Europe).png
+635a4559683238d231f43f52d2add60c Firefly (Europe).png
+0c6dc21e1d3a63d92e9f78fffbec6207 Untouchables, The (Europe).png
+3d41b9ab0b1c46e756ccb38bae079b4a Magicland Dizzy (Europe).png
+123250b377c13a338ed45d6814d1da83 Cabal (USA).png
+e84df2cd344f8910d7ac9b92af31ab20 Chuckie Egg II (Europe).png
+fd49c2f62f14d968cdd65f8dce10411d Rick Dangerous (Europe).png
+3525b7a2cbaaf7e434d3f8c8351db32c Nemesis the Warlock (Europe).png
+3890869f3a03e7e0eb65cd7e8d1ce595 Paperboy (Europe).png
+31f33156b09e92db7d71d0c8c6fd5a84 Leaderboard Golf (USA).png
+82bc17b47bf28fbce418fe0cb4e7eb20 Boulder Dash  II - Rockford's Revenge (USA).png
+f937ec48abda6ce754bf8cae5009187d Hunter's Moon (Europe).png
+b0698a9d836709679397f713390f4ffb Maniac Mansion (USA) (Side B).png
+f9d2fffed54f22d00ca2ad397b9f9653 Treasure Island Dizzy (Europe).png
+1df0593e4f0473078380771bdb0203c7 C64anabalt (Europe).png
+3b7b3e2dc9467ff0ef55e1c9e7593e31 Dark Castle (USA) (Side A).png
+a1e0b921d105d197a5895c0d464b0a4e Raid over Moscow (USA).png
+c889f992ab60221704a34a6492afe314 Zaxxon (Synapse Software) (USA).png
+1c23624f1425d879485340caa7ab0cf2 Pac-Land (Europe).png
+896094558bb75a36053744ed772729de Robin Hood - Legend Quest (Europe).png
+dcea4f301f92829ef73489c8695071d1 Beamrider (USA).png
+4318be9d11c7039401bc0a80096af857 Who Dares Wins II (Europe).png
+2afdda46939b04dd47360b7a5bfc0511 X-Out (Europe).png
+8fb80bb1b91427f6d01abf684be3a37b Clik-Clak (USA).png
+62a53e887c5515c2d7f2bc9d6e6c79c0 World Class Leaderboard (USA) (Side A).png
+cfca4b59aba4aa21a3bf42e1ede3c648 Last Ninja II (Europe) (Side A).png
+0858ea0b9368447acdf84d036939bf2f Heartland (Europe).png
+c8e6c66ca68fd105457b0948fe01d78a Blue Max (USA).png
+10c7e8b594ddff1ee438449723e8da13 Commando (Europe).png
+8596963bdd31292e95617f927fa8578c Nebulus (Europe).png
+eecea601fe7384513b1ca694e35ff24b Fantasy World Dizzy (Europe).png
+2caff15bbaddc89aee83ed700854e2b0 Re-Bounder (Europe).png
+c6335fe590af3950bbcb734d39e99875 R-Type (USA) (Disk 2).png
+9d1fd0ff6dfa740e9a11fd80a4ae1917 Terra Cresta (Europe).png
+3d60453e09a017ebaaf63118287f8504 Skate or Die! (USA) (Side A).png
+f87c214bc99a34d0ceef2ce1533181fa Freddy Hardest (World).png
+c5cc9f19c8d69f4951ac5407ea29ce06 Ultimate Wizard (USA) (Side A).png
+dae80236ab3ed5c2358132e95fdde6bc Laser Squad (Europe).png
+6b9f7c47f40991293404a35a9d0458d8 Caveman Ugh-Lympics (USA) (Disk 1 Side A).png
+e89b273a7ff7c9312679d16bf6232b76 Last Ninja Remix (Europe) (Side B).png
+a6815504ccd4e27afa143ff545f08e8e Hopeless (Europe).png
+2c132e07ce8b27793547eed3a9c99d75 Bedlam (Europe).png
+68b1883c4f5e98a72b2c1fcf8df4b131 Turbo Out Run (Europe) (Side B).png
+1230c0950bd5461be29bb7efa228b0b7 Match Point (Europe).png
+ec63a13d3b47de3085da4477231ce5d8 Everyone's a Wally (Europe).png
+f9491c7a2fba1ff3286d9422ab9ed522 Poster Paster (World).png
+4f9743733cfe0e849f6e9f2a06fe9f5f Sentinel, The (Europe).png
+38b7dc15a11e2856a4caa25c5afc68e7 Hunchback II - Quasimodo's Revenge (Europe).png
+ba5f8288a24e9086d192497e96f5ae47 Aztec Challenge (USA).png
+56e8615b079e4b30dcb615ef8f5b14ea Bandits (Europe).png
+8bc4bbcc96cd099eea85da0dd78090e7 Jack the Nipper (Europe).png
+d4f5a6d29f968fadad4808151538aff4 Arkanoid - Revenge of Doh (Europe).png
+aa34add75521d16a97d5b139f48afd09 Project Firestart (USA) (Disk 1 Side A).png
+43c93187a6c5b6642dbab71b6ad9c03d Ice Palace (Creative Sparks) (Europe).png
+12d43bd3e7cbf64335eb04ca7155bcaa Bomberman C64 (Europe).png
+aef40458cb3baa7310ddb0aa6925f2ff Ranarama (Europe).png
+161749654f0d409e7a2cfa02c3012eb8 Last Ninja , The (Europe) (Disk 2 Side A).png
+15ddec74d14eab13985100ca72c84023 Platoon (Europe) (Side B).png
+ea0ed910703a79d5b9fb6f3190f64caa Cobra (Europe).png
+7749814fb35d79ba1c210ef44942c303 Bosconian 87 (Europe).png
+5ae477b80332910d57ea699eb4186450 First Samurai (Europe).png
+c1948aed1be2a69968741049720705d8 High Noon Shootout (Europe).png
+d3400e2f1e7c9dd677da0e6e99999586 Turrican II - The Final Fight (Europe) (Side A).png
+82365fa39b11b01500ceb5f57b2307af Spellbound Dizzy (Europe).png
+dccdcdc9696c8e2fc44b4e1784b9a91a Power Drift (USA).png
+8e60b8a4ad63da8178e661262de351df Artillery Duel (USA, Europe).png
+0b42470d80c6a5597a33a0767bb5fd84 Summer Games (USA) (Side B).png
+1f2abb099c3a0b4a78e72e23e701bd3f Games, The - Summer Edition (USA) (Disk 1 Side A).png
+773f8337554edc10349f6ea64e9a2fd6 Arnie (Europe).png
+7335c1f08c618f38a348c00c1c5ff43a Decathlon (USA).png
+7a02ceacb4c4b6970f57704e6d50c9f7 Passing Shot (Europe).png
+ee90847222ef6249ee8fe0c7e3c7201e Airwolf (Europe).png
+facee58b80351988de01d7af00f903dd Cybernoid II - The Revenge (Europe).png
+aa7af258b568d0c60ceb044490ad58d1 Shamus (USA).png
+d609f870a608140bec495266d8d34fa2 Jet Set Willy (Europe).png
+ca2e5a98ada8ddf5d19775794970400c Entombed (USA).png
+6bd96242459b682dbc67054f6aacf254 Airborne Ranger (USA).png
+9cfe75b95687ae4bff688b2a168d2bb9 Wizball (Europe).png
+06c0479941269770d33d7018c018344e Thing on a Spring (Europe).png
+4cb50af4639a6de5c06c09850e024cab Ninja Spirit (USA).png
+161749654f0d409e7a2cfa02c3012eb8 Last Ninja , The (Europe) (Disk 1 Side A).png
+1674c997d3f0ef214b403cb74b60970f Gremlins 2 - The New Batch (Europe).png
+8bc0c9b97e71d4273221c3e3fc292555 Out Run (Europe).png
+1ec8bc36185f1d174d9a907837d9a37e Shao-Lin's Road (Europe).png
+53f20b3ef268fce7f18be8635fcd45a8 Ninja Massacre (Europe).png
+62b3dc7b9875bd8db64ea62b2dc8c320 Beach-Head (USA).png
+9afcdde31cfbe00e4d315c1cf1c038b7 Games, The - Summer Edition (USA) (Disk 2).png
+9e9a5586e75f6f8f05c9ba99718eafd5 Kikstart II - The Construction Set (Europe).png
+c6ab96b4bcf7e4b6108ff63d2d603275 Daley Thompson's Decathlon (Europe).png
+1c366a7754cb2bcfe426a17680d36d90 Games, The - Winter Edition (USA) (Disk 1 Side B).png
+1c366a7754cb2bcfe426a17680d36d90 Games, The - Winter Edition (USA) (Disk 2 Side A).png
+df87bb81a0b26f5ffa9df7fcfce0f188 Zak McKracken and the Alien Mindbenders (Europe) (Disk 2).png
+30147b7c55a34757fd14639a62f36ed7 Jumpman (USA).png
+e4210721defd1e86e8cafd7568fad32f Last Ninja III (Europe) (Side B).png
+3f8b495b8c56c31696212a079bbbdfb3 Monty on the Run (Europe).png
+7d93f6826197a4a5330f4201696e29c9 Buck Rogers - Planet of Zoom (Europe).png
+949b97b2d7e686b103dc582daf0219c9 Last V8, The (Europe).png
+8f86f9d30b244ac8a1fd73cf16af4943 Pooyan (World).png
+30044e6ecb8b57e1ebc66f784c8bfb51 Parallax (Ocean) (Europe).png
+27f232a2d62d38b06cc205368e7ab811 Slicks (Europe).png
+e623f273eb9ea206b8c2a0fb2663bae4 Creatures II - Torture Trouble (Europe) (Side A).png
+2677f50443c8098232d54b91095c4a0b Bruce Lee (USA).png
+d395fd08ea727aeac962550ea6b7dce6 Match Day (Europe).png
+af973d79334c050f51eda3235247bece Yie Ar Kung-Fu II (Europe).png
+56c9e05142108b6db2b7545366e78f4d Enlightenment - Druid II (Europe).png
+1c366a7754cb2bcfe426a17680d36d90 Games, The - Winter Edition (USA) (Disk 3 Side B).png
+a739e83ea63a5307b148377efd95e749 Alcazar - The Forgotten Fortress (USA).png
+4504494b18c894a370a1978be76b3ab4 Elvira - The Arcade Game (Europe).png
+42fca2d4ee2100212edc4e4a4edcb88b Sacred Armour of Antiriad, The (Europe).png
+49561acf8b25dd83a5ead640fffe0aee Batman - The Movie (Europe).png
+2718b74c77498569ab7c99c5215e4c90 Dan Dare III - The Escape (Europe).png
+b23fe5fabe373e32d9c3c6eb9403555a Hyper Sports (Europe).png
+8ef9d3a1243545b88cc557e2bd893ac6 Trap Door, The (Europe).png
+ffea421a4f89c3243c18a9afcb465c05 Silkworm (Europe).png
+fba8ed3660712fa41ebc01ac698d7693 Conan (USA, Europe).png
+f5ce4972d3551ae12db48822b7e1ff62 Zorro (USA).png
+1b14b19e7d40a36bea5ff239212506e3 Underwurlde (Europe).png
+8d3044b816f74347b81c4bc2764d7b09 Blue Max 2001 (USA).png
+8d566f5ffacb286a9fbf5679a2408c8e Navy Seals (Europe).png
+6ce1164162b4d6d17b766def9a9e1ab8 Rick Dangerous II (USA).png
+cea95bdc9e4886968f20967afc4d3f6c Turbo Charge (Europe) (Side A).png
+4b3fed1691cb249b15c90a323a15d6f3 Psycho Pigs UXB (Europe).png
+4d712a90638fe0ef0fddf0296aa5608d Action Biker (Europe).png
+bcd76caa25ace9e8ffc4109c07d370df World Games (Europe).png
+72f37925a2fb754a2b55bf80827d1c59 Pac-Mania (Europe).png
+5aeea28aceb559c616baaa83ef5c005a Gauntlet II (USA).png
+217b15c9ad90ff5a459a26fff4f840e9 Movie Monster Game, The (USA).png
+e89b273a7ff7c9312679d16bf6232b76 Last Ninja Remix (Europe) (Side A).png
+11ab8a7b9dce522a9de3a90af44bdac7 Test Drive (USA).png
+41b40851c36aab407fbe12692bb1dec7 Winter Games (USA) (Side B).png
+d793235489462582e33051274fe584c4 Ikari Warriors (Elite) (Europe).png
+f57121249bc391a166bfc5b3d474fb0f Slap Fight (USA).png
+4a56af875d9f3d4f75504c55d040c4e5 Seaside Special (Europe).png
+d70595ad90784a4f46ea991e4536c1a9 Super Pipeline II (Europe).png
+b046cb782e4f71e95b04626023d42839 Continental Circus (Europe).png
+161749654f0d409e7a2cfa02c3012eb8 Last Ninja , The (Europe) (Disk 1 Side B).png
+06cac065fd41bb54d31a1ec3714a7e0b Spy vs Spy (USA).png
+2135621b56cbbc71d08617b88896551a Flip and Flop (USA).png
+2faa75fef0bab5e228b11ba512b9c295 Combat School (Europe) (Disk 1 Side A).png
+aa236676745f157480dbf650300da680 Firelord (Europe).png
+be0f8c895466ed6d1c3422b9182d9435 Armalyte (Europe).png
+81bc65ead2ea8f73dce64c00d3f6f5c3 Alley Cat (Europe).png
+1423b43d2392aae72e92ecf1fd0916bc Solar Fox (USA).png
+23a085c91eaf2d83d7ac9ba9bd2c17d4 Fort Apocalypse (USA).png
+e9504aa2795f6c18b271bb1f0b0f266e Boulder Dash (USA).png
+f4e8bd9f830877fe91a40b8a78c26bcc Frank Bruno's Boxing (World).png
+cb3c4add54524558399554a8381bdd92 Renegade (Europe).png
+1efa812a75b1b6d2d9fea39843b11b36 Law of the West (USA).png
+edbe1d3d25cb676f10f259176da94d19 Mayhem in Monsterland (Europe).png
+c67ad26ebafdb279eb54b914b0db43db Thrust (Europe).png
+1867e514bf101b9297cfd06386a30b46 Zynaps (Europe).png
+dc119bc902b690ca311166468cc0de82 Indiana Jones and the Temple of Doom (USA, Europe).png
+421eec1966d3638a6edd1c1ce2bb4a95 Archon II - Adept (USA).png
+0b42470d80c6a5597a33a0767bb5fd84 Summer Games (USA) (Side A).png
+e95632a8510faee71860ca2d552abe9d Stormlord (Europe).png
+6b9f7c47f40991293404a35a9d0458d8 Caveman Ugh-Lympics (USA) (Disk 1 Side B).png
+8f43a72e0a47fd9c481430bc590c57ae Moon Shuttle (USA).png
+a34d66b1b56d1ef475129a04826ede53 Operation Wolf (USA).png
+420a5cb85e15a7ceb8239935e5e3d5f4 I, Ball 2 - The Quest For The Past (World).png
+6f5bd153255c8ae0d8ea6f505c3d44e7 Fist 2 (Europe).png
+b3c091150fcdb26cd723c36c90cd04d3 Beyond the Ice Palace (Europe).png
+28bee6fa75e370aad4839f1bac4d8b19 Neuromancer (USA) (Disk 2 Side A).png
+10ae71bffe4579d3399d9f0413dc3c52 Ninja Warriors, The (Europe).png
+f32e6d498a9a7770007790dc70ad96c2 Karateka (USA).png
+9af64679c355cb5c966b84f9810b048b Yie Ar Kung-Fu (Europe).png
+4831f6e5bb15833c7f5e0d1b8d02b399 Shinobi (Europe).png
+ed6984c1949171ac7d53b9390fec98f7 Barbarian (Europe).png
+97ca960a8b13c461ae82cf97ddd3b80d Spindizzy (USA).png
+e92a026cd05364dd798ef821176dc5d5 Grand Prix Circuit (USA).png
+09ff5956933e06625422d0acfa5ce837 Super Cycle (USA).png
+8a3d236fd10ae7b4819e7c61dc3b7776 LED Storm (USA).png
+70d7f755d2b77e7abee838e79397c78b Iron Horse (Europe).png
+966ab1afc0e83dfe729b89805b27233b Popeye (Piranha + Macmillan Ltd.) (Europe).png
+b51821758368777b3c18cddc893a60e3 Impossible Mission (USA).png
+8f7c1d851d2ecbc55481ee6b72271a18 Bozos Night Out (Europe).png
+fcb0f0787c775d0d859927c46f424ec7 Survivor (USA, Europe).png
+4022d0798046369c142fb79c2e14d1e9 Piracy (World).png
+0a7ff3edb97833405aef5409aa5b0f40 Dan Dare II - Mekon's Revenge (Europe).png
+31591aa7b8fc9079b46b3ecaad083664 Rocky Horror Show, The (Europe).png
+9e6e83b176dc31d57db2ae069abf4636 Bombuzal (Europe).png
+8f56cc45e6c3c13745d99a03d20079da Anarchy (Europe).png
+4936bb5b305b38db55636479930c8c70 Super Boulder Dash (USA).png
+ad7364bfaef7daacb8d459f03c132579 Staff of Karnath, The (USA).png
+0fa250df0e53ef48f93d28f429582525 Midnight Resistance (Europe).png
+60918691e84f0521ff3d1999d2119880 Strike Force Cobra (Europe).png
+6608d9d4435f469f0708edb449898076 Horace Goes Skiing (Europe).png
+1bde50d155919c72d74f3ac736beb1cf Game Over II (Spain).png
+a682c283fc4d60eb84a9ce15afd7a390 Ghetto Blaster (World).png
+2d57103e25b4918ef7a7d742640fecbc Ghost Hunters (Europe).png
+ceacafb24ba668185ab3d178b8a791ad Hawkeye (Europe) (Side B).png
+1f923534b10f7b14cdcbd38fa001ac74 Aliens - The Computer Game (USA).png
+0b8062dc464e3645260c5c3606166e6f Ninja (Mastertronic) (Europe).png
+3eab1d35aa72a0738672e3a7fccb2bbf Andy Capp - The Game (Europe).png
+cb956fe88d11e36d29ca0195d19855b6 Delta (Europe).png
+28bee6fa75e370aad4839f1bac4d8b19 Neuromancer (USA) (Disk 1 Side A).png
+1c366a7754cb2bcfe426a17680d36d90 Games, The - Winter Edition (USA) (Disk 2 Side B).png
+6450f9da353792ee3c9056f022d12022 Rubicon (World).png
+a8e77afbee1235b0b716dec25204fef5 Legend of Kage (Europe).png
+8573680c9206f5d5c0b285cfac035011 Bounder (Europe).png
+97ba5eb22c7114d959e9c9ca59c421cc Paradroid (Europe).png
+c6335fe590af3950bbcb734d39e99875 R-Type (USA) (Disk 1 Side B).png
+4fc8baaff2fc14c8502660532fb53a1c Soldier of Fortune (World).png
+627708488fd95475e1193168a7e4f597 Choplifter (USA).png
+aeb25148af5399eac2caa28af7a22958 Into the Eagle's Nest (Europe) (Unl).png
+af22ea2e0d2e8ca66f8ebec5e45839d1 1942 (Europe).png
+85f2e456eb97d83b5fee46e2f03ff7fc California Games (USA) (Disk 2).png
+85f2e456eb97d83b5fee46e2f03ff7fc California Games (USA) (Disk 1 Side A).png
+dd371afcec809f9213dfe8e83e280d34 Head over Heels (Europe).png
+11851b8b053bd046692a08a1b6922b71 Potty Pigeon (Europe).png
+6b9f7c47f40991293404a35a9d0458d8 Caveman Ugh-Lympics (USA) (Disk 2).png
+28b50f3e90e9733f24c50954b2b65973 Fairlight - A Prelude (Europe).png
+78f81eebc37547b88e2f612ac7fc46e9 Beach-Head II - The Dictator Strikes Back! (USA).png
+9def1eceff561358acc49ef2e20bbb33 Black Hawk (Europe).png
+85f2e456eb97d83b5fee46e2f03ff7fc California Games (USA) (Disk 1 Side B).png
+1c366a7754cb2bcfe426a17680d36d90 Games, The - Winter Edition (USA) (Disk 3 Side A).png
+0bba4ecf8e1df05e50564a956018f66a Treasure Island (Mastertronic) (Europe).png
+758e63a3f3efe12de827200cba632b0e Goonies, The (USA).png
+533485fe6d3b707fd8be2bbff4e8850c Creatures (Europe).png
+8de951fde98cd40b525967b2b163a3b2 Spikey in Transylvania (Europe).png
+246eaf8e88a938d0ac1e50291d654fbc Summer Games II (USA) (Side B).png
+8a752baf105b6dfc67fdce10a710d5a7 Tusker (Europe).png
+d250fdbc690e260405407d171e68480c Sidewalk (Europe).png
+aa34add75521d16a97d5b139f48afd09 Project Firestart (USA) (Disk 1 Side B).png
+2fb2db167373fa46d8b664c74d6c5c09 Ninja Commando (Europe).png
+a305cc74b75e37c0148320aa95e8db9e Sanxion (Europe).png
+212069db45a3854cd555c3aab8468bb6 Solar Jetman - Hunt For The Golden Warpship (World).png
+36f3c6f6eca58bc9af45634fe7a958c1 Tales of the Arabian Nights (Europe).png
+7e02f598471c2995732d76e10bcb6260 Park Patrol (USA).png
+dceeccbb3c71cf4bb0865672f8f18c48 Bionic Commando (USA).png
+4715e9e28d901ab472aa7999da7a4a1e Bubble Dizzy (Europe).png
+6de091dcc994f66a0356c9a78ab6a4fb Hades Nebula (Europe).png
+520f294638c5abb80043a98e99a61675 Zeppelin (Europe).png
+f47fc851264a91648458c0d37047e472 Hunchback (Europe).png
+86167f6779b3f1c2eec5ea4e5841c65b Terminator II - Judgment Day (Europe) (Side B).png
+80a46540f5344c549a623bf4924e0ae6 Gribbly's Day Out (Europe).png
+75209af1dc472693cba91392981d44cb Alternative World Games (Europe) (Disk 1 Side A).png
+1f0e09085895548e1d14797300609637 Who Dares Wins (Alligata Software) (Europe).png
+d54d2e8586f521a4a81fe16f99aaa909 Little Computer People (USA) (Side B).png
+d757e2811dab830dcca2c14abe2e098e Frantic Freddy (USA).png
+e94b2154eeba1067973c61cb7c49e5a0 Out Run (USA).png
+8e8240b934f991566d9f57449cffc000 Kane (Europe).png
+b0698a9d836709679397f713390f4ffb Maniac Mansion (USA) (Side A).png
+cef449dba89f58446817614eb69882d4 Steg the Slug (Europe).png
+f60308d00012979446e13f79141074b8 Jupiter Lander (USA).png
+13166d19c1ed3d069b5876a0e794caee Starquake (Europe).png
+bfed8a1522525a13164fa12e08c24131 Uridium+ (Europe).png
+92b999936623628716a343a219caa8cf Spy vs Spy III - Arctic Antics (USA).png
+5d76a1b8cd877d2df38935f58fe24dcc Saboteur II - Avenging Angel (Europe).png
+3dc01b8e7c533cb55b8b701e14a5f237 Exile (Europe).png
+ae10af4c5b615033d025037ab5df83ba Retrograde (Europe) (Side B).png
+f4d544759d48caee3c88ca5e4394f8a8 Henry's House (World).png
+d8eac3cf76cd19ac5c3043d1ce84ac6d Rock n' Bolt (USA).png
+76145d1949eb8a8eb68d8c3eca2c37b4 Revenge of the Mutant Camels (Europe).png
+fa83317af913a1ee2fd650f9c85006fa Dizzy - Prince of the Yolkfolk! (Europe).png
+da0d83d956fec8a6c2de2262bec1def7 Sabre Wulf (Europe).png
+3da10789a0263b5d10053a4a0d8c3e93 Encounter (Novagen Software) (Europe).png
+10703d98687e9b64fe29398152c643fd Lightforce (World).png
+862eb4d0b9ed6d46a579934fe9fa9bae Predator (USA).png
+58c79f32e59d2b8929d952c230506a9a Skate or Die! (USA) (Side B).png
+728f22ea7cf0ec46f3d83844a43f51bb Beyond Dark Castle (USA) (Disk 1 Side B).png
+d1923c682bafe33423e4c907f4cb1f0b Gryzor (Europe).png
+a34f74feafb2a399689e1ac487e22d88 Pitstop II (USA).png
+cfca4b59aba4aa21a3bf42e1ede3c648 Last Ninja II (Europe) (Side B).png
+08fa207dc544a3e08acf79c675bce8c0 Dino Eggs (USA).png
+758c140062dc256fc8cc9b9475aa2a6e I, Ball (Europe).png
+d4998273336ef74dcb369b8abd1ab9ca Druid (Europe).png
+9a517816d8900d1a91fe74a0c1a8f144 Stellar 7 (USA, Europe).png
+5a2b8bd0eb28c4add06fab476acb9c7c Knight 'n' Grail (Europe).png
+78358dd13c3a44dd8706b29b1d60e84d Salamander (Europe).png
+74ac44a179033dcec94607e9629c95ac Zamzara (Europe).png
+71d02e25d373c9240371ca7d2488ba70 Big Mac - The Mad Maintenance Man (Europe).png
+728f22ea7cf0ec46f3d83844a43f51bb Beyond Dark Castle (USA) (Disk 1 Side A).png
+ecfeaf1ae58130dabf1b1a949b5889e3 Deflektor (Europe).png
+420a5cb85e15a7ceb8239935e5e3d5f4 I, Ball II - The Quest for the Past (Europe).png
+a763a183ffe01ec4e63108da0cc558c0 Kung-Fu - The Way of the Exploding Fist (Europe).png
+89caf76c5a612dd8402e3a902397b32d Out Run Europa (Europe) (Side B).png
+d601a45aa9db976b1f723d5779bf2632 Batman - The Caped Crusader (Europe).png
+16692c3d6c8cbb951f83c0799f07a0a4 Trollie Wallie (Europe).png
+7e10b1ee5250e5968ccdae01c9eec666 Lode Runner (Br0derbund) (USA).png
+51d542feb84a9156ef2b9c2d2752c82a International Karate (Europe).png
+117f7b8f5fad10f74b51906cb292ea53 Night Shade (Europe).png
+416ca2b18719ff722b877c6c5dbb02c5 Wonderboy (USA).png
+bd75166829f443074a5a5a2bdfa8b349 Microprose Soccer (USA).png
+233301a975d3b05538c1adf17a482f43 Batty (Europe).png
+5ae151077a05f7f96cc0f4599de57bd3 Zak McKracken and the Alien Mindbenders (Europe) (Disk 1 Side A).png
+202ecd5ceea1504605ed67697a01dc3d Star Paws (Europe).png
+037200687d2bc2a5e20bfd8d83565f9b Rock'n Wrestle (World).png
+bad5721983aae1a17f604b8cadd00cd0 Myth - History in the Making (Europe) (Disk 1).png
+1dd6a4f8484bdc0abdc0118913de9d02 Dizzy - The Ultimate Cartoon Adventure (Europe).png
+90bd4a132545caae836cf6f6b8e198a9 Enforcer - Fullmetal Megablaster (Europe).png
+0875bd649e8f48ae0840ba25b70167d7 Great Escape, The (Europe).png
+50bcdd8cd6610b916e710aa6b13251da Ad Infinitum (Europe).png
+5c74823a65e04fd49b3804a5dd8baa13 Blasteroids (Europe).png
+9297830eece75ead9b6cea727fb41f6f Arcadia 64 (Europe).png
+ae116bdf6d94dcc28433c98e3165fc54 Wizard of Wor (USA).png
+c3b15a5e943b985a28051d9c3b882a16 Auf Wiedersehen Monty (Europe).png
+161749654f0d409e7a2cfa02c3012eb8 Last Ninja , The (Europe) (Disk 2 Side B).png
+1c366a7754cb2bcfe426a17680d36d90 Games, The - Winter Edition (USA) (Disk 1 Side A).png
+8be24da4c5a8271be0e6d5cd47882566 Citadel (World).png
