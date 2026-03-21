@@ -1,0 +1,758 @@
+2026-03-21 17:58:44 Starting script v20210130
+2026-03-21 17:58:44 * Generate
+2026-03-21 17:58:44 Path to systems list /home/runner/work/bezel-index/bezel-index/scripts/tbp_systems.txt
+2026-03-21 17:58:44 Current system #1 3do
+2026-03-21 17:58:44 URL : https://github.com/thebezelproject/bezelproject-3DO
+2026-03-21 17:58:44 Git repository : bezelproject-3DO
+2026-03-21 17:58:44 Git bezels path : /retroarch/overlay/GameBezels/3DO
+2026-03-21 17:58:44 Git default bezel file : Panasonic-3DO.png
+2026-03-21 17:58:44 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 17:58:44 Installing system for 3do
+2026-03-21 17:58:44 File zip : https://github.com/thebezelproject/bezelproject-3DO/archive/master.zip
+2026-03-21 17:58:44 Downloading file. Please wait...
+2026-03-21 17:58:52 Unzipping file...
+2026-03-21 17:58:54 Generating md5 and index files...
+2026-03-21 17:58:54 Creating /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject
+2026-03-21 17:58:56 740 bezels for system 3do were generated
+2026-03-21 17:58:58 Current system #2 3ds
+2026-03-21 17:58:58 URL : https://github.com/thebezelproject/bezelproject-N3DS
+2026-03-21 17:58:58 Git repository : bezelproject-N3DS
+2026-03-21 17:58:58 Git bezels path : /retroarch/overlay/GameBezels/N3DS
+2026-03-21 17:58:58 Git default bezel file : Nintendo-3DS.png
+2026-03-21 17:58:58 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 17:58:58 Installing system for 3ds
+2026-03-21 17:58:58 File zip : https://github.com/thebezelproject/bezelproject-N3DS/archive/master.zip
+2026-03-21 17:58:58 Downloading file. Please wait...
+2026-03-21 18:00:56 Unzipping file...
+2026-03-21 18:01:16 Generating md5 and index files...
+2026-03-21 18:01:16 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:01:39 7067 bezels for system 3ds were generated
+2026-03-21 18:01:40 Current system #3 amigacd32
+2026-03-21 18:01:40 URL : https://github.com/thebezelproject/bezelproject-CD32
+2026-03-21 18:01:40 Git repository : bezelproject-CD32
+2026-03-21 18:01:40 Git bezels path : /retroarch/overlay/GameBezels/Amiga
+2026-03-21 18:01:40 Git default bezel file : Commodore-Amiga-CD32.png
+2026-03-21 18:01:40 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:01:40 Installing system for amigacd32
+2026-03-21 18:01:40 File zip : https://github.com/thebezelproject/bezelproject-CD32/archive/master.zip
+2026-03-21 18:01:40 Downloading file. Please wait...
+2026-03-21 18:01:42 Unzipping file...
+2026-03-21 18:01:43 Generating md5 and index files...
+2026-03-21 18:01:43 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:01:43 0 bezels for system amigacd32 were generated
+2026-03-21 18:01:43 Current system #4 amigacdtv
+2026-03-21 18:01:43 URL : https://github.com/thebezelproject/bezelproject-CDTV
+2026-03-21 18:01:43 Git repository : bezelproject-CDTV
+2026-03-21 18:01:43 Git bezels path : /retroarch/overlay/GameBezels/Amiga
+2026-03-21 18:01:43 Git default bezel file : Commodore-CDTV.png
+2026-03-21 18:01:43 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:01:43 Installing system for amigacdtv
+2026-03-21 18:01:43 File zip : https://github.com/thebezelproject/bezelproject-CDTV/archive/master.zip
+2026-03-21 18:01:43 Downloading file. Please wait...
+2026-03-21 18:01:44 Unzipping file...
+2026-03-21 18:01:44 Generating md5 and index files...
+2026-03-21 18:01:44 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:01:44 0 bezels for system amigacdtv were generated
+2026-03-21 18:01:44 Current system #5 atari2600
+2026-03-21 18:01:44 URL : https://github.com/thebezelproject/bezelproject-Atari2600
+2026-03-21 18:01:44 Git repository : bezelproject-Atari2600
+2026-03-21 18:01:44 Git bezels path : /retroarch/overlay/GameBezels/Atari2600
+2026-03-21 18:01:44 Git default bezel file : Atari-2600.cfg
+2026-03-21 18:01:44 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:01:44 Installing system for atari2600
+2026-03-21 18:01:44 File zip : https://github.com/thebezelproject/bezelproject-Atari2600/archive/master.zip
+2026-03-21 18:01:44 Downloading file. Please wait...
+2026-03-21 18:01:52 Unzipping file...
+2026-03-21 18:01:54 Generating md5 and index files...
+2026-03-21 18:01:54 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:01:57 879 bezels for system atari2600 were generated
+2026-03-21 18:01:57 Current system #6 atari5200
+2026-03-21 18:01:57 URL : https://github.com/thebezelproject/bezelproject-Atari5200
+2026-03-21 18:01:57 Git repository : bezelproject-Atari5200
+2026-03-21 18:01:57 Git bezels path : /retroarch/overlay/GameBezels/Atari5200
+2026-03-21 18:01:57 Git default bezel file : Atari-5200.png
+2026-03-21 18:01:57 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:01:57 Installing system for atari5200
+2026-03-21 18:01:57 File zip : https://github.com/thebezelproject/bezelproject-Atari5200/archive/master.zip
+2026-03-21 18:01:57 Downloading file. Please wait...
+2026-03-21 18:01:59 Unzipping file...
+2026-03-21 18:01:59 Generating md5 and index files...
+2026-03-21 18:01:59 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:01:59 178 bezels for system atari5200 were generated
+2026-03-21 18:01:59 Current system #7 atari7800
+2026-03-21 18:01:59 URL : https://github.com/thebezelproject/bezelproject-Atari7800
+2026-03-21 18:01:59 Git repository : bezelproject-Atari7800
+2026-03-21 18:01:59 Git bezels path : /retroarch/overlay/GameBezels/Atari7800
+2026-03-21 18:01:59 Git default bezel file : Atari-7800.png
+2026-03-21 18:01:59 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:01:59 Installing system for atari7800
+2026-03-21 18:01:59 File zip : https://github.com/thebezelproject/bezelproject-Atari7800/archive/master.zip
+2026-03-21 18:01:59 Downloading file. Please wait...
+2026-03-21 18:02:04 Unzipping file...
+2026-03-21 18:02:04 Generating md5 and index files...
+2026-03-21 18:02:04 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:02:05 232 bezels for system atari7800 were generated
+2026-03-21 18:02:05 Current system #8 atomiswave
+2026-03-21 18:02:05 URL : https://github.com/thebezelproject/bezelproject-Atomiswave
+2026-03-21 18:02:05 Git repository : bezelproject-Atomiswave
+2026-03-21 18:02:05 Git bezels path : /retroarch/overlay/GameBezels/Atomiswave
+2026-03-21 18:02:05 Git default bezel file : Atomiswave.png
+2026-03-21 18:02:05 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:02:05 Installing system for atomiswave
+2026-03-21 18:02:05 File zip : https://github.com/thebezelproject/bezelproject-Atomiswave/archive/master.zip
+2026-03-21 18:02:05 Downloading file. Please wait...
+2026-03-21 18:02:06 Unzipping file...
+2026-03-21 18:02:06 Generating md5 and index files...
+2026-03-21 18:02:06 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:02:06 26 bezels for system atomiswave were generated
+2026-03-21 18:02:06 Current system #9 c64
+2026-03-21 18:02:06 URL : https://github.com/thebezelproject/bezelproject-C64
+2026-03-21 18:02:06 Git repository : bezelproject-C64
+2026-03-21 18:02:06 Git bezels path : /retroarch/overlay/GameBezels/C64
+2026-03-21 18:02:06 Git default bezel file : Commodore-64.png Commodore-64.png
+2026-03-21 18:02:06 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:02:06 Installing system for c64
+2026-03-21 18:02:06 File zip : https://github.com/thebezelproject/bezelproject-C64/archive/master.zip
+2026-03-21 18:02:06 Downloading file. Please wait...
+2026-03-21 18:02:11 Unzipping file...
+2026-03-21 18:02:11 Generating md5 and index files...
+2026-03-21 18:02:11 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:02:13 465 bezels for system c64 were generated
+2026-03-21 18:02:13 Current system #10 channelf
+2026-03-21 18:02:13 URL : https://github.com/thebezelproject/bezelproject-ChannelF
+2026-03-21 18:02:13 Git repository : bezelproject-ChannelF
+2026-03-21 18:02:13 Git bezels path : /retroarch/overlay/GameBezels/ChannelF
+2026-03-21 18:02:13 Git default bezel file : Fairchild-Channel-F.png
+2026-03-21 18:02:13 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:02:13 Installing system for channelf
+2026-03-21 18:02:13 File zip : https://github.com/thebezelproject/bezelproject-ChannelF/archive/master.zip
+2026-03-21 18:02:13 Downloading file. Please wait...
+2026-03-21 18:02:14 Unzipping file...
+2026-03-21 18:02:14 Generating md5 and index files...
+2026-03-21 18:02:14 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:02:14 30 bezels for system channelf were generated
+2026-03-21 18:02:14 Current system #11 colecovision
+2026-03-21 18:02:14 URL : https://github.com/thebezelproject/bezelproject-ColecoVision
+2026-03-21 18:02:14 Git repository : bezelproject-ColecoVision
+2026-03-21 18:02:14 Git bezels path : /retroarch/overlay/GameBezels/ColecoVision
+2026-03-21 18:02:14 Git default bezel file : Colecovision.png
+2026-03-21 18:02:14 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:02:14 Installing system for colecovision
+2026-03-21 18:02:14 File zip : https://github.com/thebezelproject/bezelproject-ColecoVision/archive/master.zip
+2026-03-21 18:02:14 Downloading file. Please wait...
+2026-03-21 18:02:16 Unzipping file...
+2026-03-21 18:02:17 Generating md5 and index files...
+2026-03-21 18:02:17 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:02:17 200 bezels for system colecovision were generated
+2026-03-21 18:02:17 Current system #12 daphne
+2026-03-21 18:02:17 URL : https://github.com/thebezelproject/bezelproject-Daphne
+2026-03-21 18:02:17 Git repository : bezelproject-Daphne
+2026-03-21 18:02:17 Git bezels path : /retroarch/overlay/GameBezels/Daphne
+2026-03-21 18:02:17 Git default bezel file : Daphne.png
+2026-03-21 18:02:17 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:02:17 Installing system for daphne
+2026-03-21 18:02:17 File zip : https://github.com/thebezelproject/bezelproject-Daphne/archive/master.zip
+2026-03-21 18:02:17 Downloading file. Please wait...
+2026-03-21 18:02:19 Unzipping file...
+2026-03-21 18:02:19 Generating md5 and index files...
+2026-03-21 18:02:19 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:02:19 20 bezels for system daphne were generated
+2026-03-21 18:02:19 Current system #13 dreamcast
+2026-03-21 18:02:19 URL : https://github.com/thebezelproject/bezelproject-Dreamcast
+2026-03-21 18:02:19 Git repository : bezelproject-Dreamcast
+2026-03-21 18:02:19 Git bezels path : /retroarch/overlay/GameBezels/Dreamcast
+2026-03-21 18:02:19 Git default bezel file : Dreamcast.png
+2026-03-21 18:02:19 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:02:19 Installing system for dreamcast
+2026-03-21 18:02:19 File zip : https://github.com/thebezelproject/bezelproject-Dreamcast/archive/master.zip
+2026-03-21 18:02:19 Downloading file. Please wait...
+2026-03-21 18:02:31 Unzipping file...
+2026-03-21 18:02:33 Generating md5 and index files...
+2026-03-21 18:02:33 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:02:36 1178 bezels for system dreamcast were generated
+2026-03-21 18:02:37 Current system #14 fbneo
+2026-03-21 18:02:37 URL : https://github.com/thebezelproject/bezelproject-MAME
+2026-03-21 18:02:37 Git repository : bezelproject-MAME
+2026-03-21 18:02:37 Git bezels path : /retroarch/overlay/ArcadeBezels
+2026-03-21 18:02:37 Git default bezel file : MAME-Horizontal.png
+2026-03-21 18:02:37 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:02:37 Installing system for fbneo
+2026-03-21 18:02:37 File zip : https://github.com/thebezelproject/bezelproject-MAME/archive/master.zip
+2026-03-21 18:02:37 Downloading file. Please wait...
+2026-03-21 18:04:18 Unzipping file...
+2026-03-21 18:04:39 Generating md5 and index files...
+2026-03-21 18:04:39 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:05:13 11205 bezels for system fbneo were generated
+2026-03-21 18:05:14 Current system #15 fds
+2026-03-21 18:05:14 URL : https://github.com/thebezelproject/bezelproject-FDS
+2026-03-21 18:05:14 Git repository : bezelproject-FDS
+2026-03-21 18:05:14 Git bezels path : /retroarch/overlay/GameBezels/FDS
+2026-03-21 18:05:14 Git default bezel file : Nintendo-Famicom-Disk-System.png
+2026-03-21 18:05:14 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:05:14 Installing system for fds
+2026-03-21 18:05:14 File zip : https://github.com/thebezelproject/bezelproject-FDS/archive/master.zip
+2026-03-21 18:05:14 Downloading file. Please wait...
+2026-03-21 18:05:19 Unzipping file...
+2026-03-21 18:05:19 Generating md5 and index files...
+2026-03-21 18:05:19 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:05:21 396 bezels for system fds were generated
+2026-03-21 18:05:21 Current system #16 gamecube
+2026-03-21 18:05:21 URL : https://github.com/thebezelproject/bezelproject-GC
+2026-03-21 18:05:21 Git repository : bezelproject-GC
+2026-03-21 18:05:21 Git bezels path : /retroarch/overlay/GameBezels/GC
+2026-03-21 18:05:21 Git default bezel file : Nintendo-GameCube.png
+2026-03-21 18:05:21 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:05:21 Installing system for gamecube
+2026-03-21 18:05:21 File zip : https://github.com/thebezelproject/bezelproject-GC/archive/master.zip
+2026-03-21 18:05:21 Downloading file. Please wait...
+2026-03-21 18:05:36 Unzipping file...
+2026-03-21 18:05:39 Generating md5 and index files...
+2026-03-21 18:05:39 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:05:44 1717 bezels for system gamecube were generated
+2026-03-21 18:05:45 Current system #17 gamegear
+2026-03-21 18:05:45 URL : https://github.com/thebezelproject/bezelproject-GameGear
+2026-03-21 18:05:45 Git repository : bezelproject-GameGear
+2026-03-21 18:05:45 Git bezels path : /retroarch/overlay/GameBezels/GameGear
+2026-03-21 18:05:45 Git default bezel file : Sega-Game-Gear.png
+2026-03-21 18:05:45 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:05:45 Installing system for gamegear
+2026-03-21 18:05:45 File zip : https://github.com/thebezelproject/bezelproject-GameGear/archive/master.zip
+2026-03-21 18:05:45 Downloading file. Please wait...
+2026-03-21 18:05:51 Unzipping file...
+2026-03-21 18:05:52 Generating md5 and index files...
+2026-03-21 18:05:52 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:05:55 850 bezels for system gamegear were generated
+2026-03-21 18:05:55 Current system #18 gb
+2026-03-21 18:05:55 URL : https://github.com/thebezelproject/bezelproject-GB
+2026-03-21 18:05:55 Git repository : bezelproject-GB
+2026-03-21 18:05:55 Git bezels path : /retroarch/overlay/GameBezels/GB
+2026-03-21 18:05:55 Git default bezel file : Nintendo-Game-Boy.png
+2026-03-21 18:05:55 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:05:55 Installing system for gb
+2026-03-21 18:05:55 File zip : https://github.com/thebezelproject/bezelproject-GB/archive/master.zip
+2026-03-21 18:05:55 Downloading file. Please wait...
+2026-03-21 18:06:18 Unzipping file...
+2026-03-21 18:06:23 Generating md5 and index files...
+2026-03-21 18:06:23 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:06:29 2205 bezels for system gb were generated
+2026-03-21 18:06:30 Current system #19 gba
+2026-03-21 18:06:30 URL : https://github.com/thebezelproject/bezelproject-GBA
+2026-03-21 18:06:30 Git repository : bezelproject-GBA
+2026-03-21 18:06:30 Git bezels path : /retroarch/overlay/GameBezels/GBA
+2026-03-21 18:06:30 Git default bezel file : Nintendo-Game-Boy-Advance.png
+2026-03-21 18:06:30 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:06:30 Installing system for gba
+2026-03-21 18:06:30 File zip : https://github.com/thebezelproject/bezelproject-GBA/archive/master.zip
+2026-03-21 18:06:30 Downloading file. Please wait...
+2026-03-21 18:06:50 Unzipping file...
+2026-03-21 18:06:54 Generating md5 and index files...
+2026-03-21 18:06:54 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:07:05 3591 bezels for system gba were generated
+2026-03-21 18:07:05 Current system #20 gbc
+2026-03-21 18:07:05 URL : https://github.com/thebezelproject/bezelproject-GBC
+2026-03-21 18:07:05 Git repository : bezelproject-GBC
+2026-03-21 18:07:05 Git bezels path : /retroarch/overlay/GameBezels/GBC
+2026-03-21 18:07:05 Git default bezel file : Nintendo-Game-Boy-Color.png
+2026-03-21 18:07:05 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:07:05 Installing system for gbc
+2026-03-21 18:07:05 File zip : https://github.com/thebezelproject/bezelproject-GBC/archive/master.zip
+2026-03-21 18:07:05 Downloading file. Please wait...
+2026-03-21 18:07:31 Unzipping file...
+2026-03-21 18:07:36 Generating md5 and index files...
+2026-03-21 18:07:36 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:07:44 2461 bezels for system gbc were generated
+2026-03-21 18:07:44 Current system #21 gx4000
+2026-03-21 18:07:44 URL : https://github.com/thebezelproject/bezelproject-AmstradGX4000
+2026-03-21 18:07:44 Git repository : bezelproject-AmstradGX4000
+2026-03-21 18:07:44 Git bezels path : /retroarch/overlay/GameBezels/AmstradGX4000
+2026-03-21 18:07:44 Git default bezel file : Amstrad-GX4000.png
+2026-03-21 18:07:44 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:07:44 Installing system for gx4000
+2026-03-21 18:07:44 File zip : https://github.com/thebezelproject/bezelproject-AmstradGX4000/archive/master.zip
+2026-03-21 18:07:44 Downloading file. Please wait...
+2026-03-21 18:07:45 Unzipping file...
+2026-03-21 18:07:45 Generating md5 and index files...
+2026-03-21 18:07:45 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:07:45 25 bezels for system gx4000 were generated
+2026-03-21 18:07:45 Current system #22 intellivision
+2026-03-21 18:07:45 URL : https://github.com/thebezelproject/bezelproject-Intellivision
+2026-03-21 18:07:45 Git repository : bezelproject-Intellivision
+2026-03-21 18:07:45 Git bezels path : /retroarch/overlay/GameBezels/Intellivision
+2026-03-21 18:07:45 Git default bezel file : Mattel-Intellivision.png
+2026-03-21 18:07:45 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:07:45 Installing system for intellivision
+2026-03-21 18:07:45 File zip : https://github.com/thebezelproject/bezelproject-Intellivision/archive/master.zip
+2026-03-21 18:07:45 Downloading file. Please wait...
+2026-03-21 18:07:48 Unzipping file...
+2026-03-21 18:07:48 Generating md5 and index files...
+2026-03-21 18:07:48 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:07:49 203 bezels for system intellivision were generated
+2026-03-21 18:07:49 Current system #23 jaguar
+2026-03-21 18:07:49 URL : https://github.com/thebezelproject/bezelproject-AtariJaguar
+2026-03-21 18:07:49 Git repository : bezelproject-AtariJaguar
+2026-03-21 18:07:49 Git bezels path : /retroarch/overlay/GameBezels/AtariJaguar
+2026-03-21 18:07:49 Git default bezel file : Atari-Jaguar.png
+2026-03-21 18:07:49 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:07:49 Installing system for jaguar
+2026-03-21 18:07:49 File zip : https://github.com/thebezelproject/bezelproject-AtariJaguar/archive/master.zip
+2026-03-21 18:07:49 Downloading file. Please wait...
+2026-03-21 18:07:54 Unzipping file...
+2026-03-21 18:07:54 Generating md5 and index files...
+2026-03-21 18:07:54 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:07:55 274 bezels for system jaguar were generated
+2026-03-21 18:07:55 Current system #24 lynx
+2026-03-21 18:07:55 URL : https://github.com/thebezelproject/bezelproject-AtariLynx
+2026-03-21 18:07:55 Git repository : bezelproject-AtariLynx
+2026-03-21 18:07:55 Git bezels path : /retroarch/overlay/GameBezels/AtariLynx
+2026-03-21 18:07:55 Git default bezel file : Atari-Lynx-Horizontal.png
+2026-03-21 18:07:55 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:07:55 Installing system for lynx
+2026-03-21 18:07:55 File zip : https://github.com/thebezelproject/bezelproject-AtariLynx/archive/master.zip
+2026-03-21 18:07:55 Downloading file. Please wait...
+2026-03-21 18:07:58 Unzipping file...
+2026-03-21 18:07:59 Generating md5 and index files...
+2026-03-21 18:07:59 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:08:00 397 bezels for system lynx were generated
+2026-03-21 18:08:00 Current system #25 mame
+2026-03-21 18:08:00 URL : https://github.com/thebezelproject/bezelproject-MAME
+2026-03-21 18:08:00 Git repository : bezelproject-MAME
+2026-03-21 18:08:00 Git bezels path : /retroarch/overlay/ArcadeBezels
+2026-03-21 18:08:00 Git default bezel file : MAME-Horizontal.png
+2026-03-21 18:08:00 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:08:00 Installing system for mame
+2026-03-21 18:08:00 File zip : https://github.com/thebezelproject/bezelproject-MAME/archive/master.zip
+2026-03-21 18:08:00 Downloading file. Please wait...
+2026-03-21 18:09:42 Unzipping file...
+2026-03-21 18:10:03 Generating md5 and index files...
+2026-03-21 18:10:03 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:10:37 11205 bezels for system mame were generated
+2026-03-21 18:10:38 Current system #26 mastersystem
+2026-03-21 18:10:38 URL : https://github.com/thebezelproject/bezelproject-MasterSystem
+2026-03-21 18:10:38 Git repository : bezelproject-MasterSystem
+2026-03-21 18:10:38 Git bezels path : /retroarch/overlay/GameBezels/MasterSystem
+2026-03-21 18:10:38 Git default bezel file : Sega-Master-System.png
+2026-03-21 18:10:38 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:10:38 Installing system for mastersystem
+2026-03-21 18:10:38 File zip : https://github.com/thebezelproject/bezelproject-MasterSystem/archive/master.zip
+2026-03-21 18:10:38 Downloading file. Please wait...
+2026-03-21 18:10:50 Unzipping file...
+2026-03-21 18:10:52 Generating md5 and index files...
+2026-03-21 18:10:52 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:10:55 1065 bezels for system mastersystem were generated
+2026-03-21 18:10:55 Current system #27 megadrive
+2026-03-21 18:10:55 URL : https://github.com/thebezelproject/bezelproject-MegaDrive
+2026-03-21 18:10:55 Git repository : bezelproject-MegaDrive
+2026-03-21 18:10:55 Git bezels path : /retroarch/overlay/GameBezels/Megadrive
+2026-03-21 18:10:55 Git default bezel file : Sega-Mega-Drive.png
+2026-03-21 18:10:55 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:10:55 Installing system for megadrive
+2026-03-21 18:10:55 File zip : https://github.com/thebezelproject/bezelproject-MegaDrive/archive/master.zip
+2026-03-21 18:10:55 Downloading file. Please wait...
+2026-03-21 18:11:23 Unzipping file...
+2026-03-21 18:11:29 Generating md5 and index files...
+2026-03-21 18:11:29 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:11:39 3285 bezels for system megadrive were generated
+2026-03-21 18:11:39 Current system #28 msx
+2026-03-21 18:11:39 URL : https://github.com/thebezelproject/bezelproject-MSX
+2026-03-21 18:11:39 Git repository : bezelproject-MSX
+2026-03-21 18:11:39 Git bezels path : /retroarch/overlay/GameBezels/MSX
+2026-03-21 18:11:39 Git default bezel file : Microsoft-MSX.png
+2026-03-21 18:11:39 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:11:39 Installing system for msx
+2026-03-21 18:11:39 File zip : https://github.com/thebezelproject/bezelproject-MSX/archive/master.zip
+2026-03-21 18:11:39 Downloading file. Please wait...
+2026-03-21 18:11:46 Unzipping file...
+2026-03-21 18:11:47 Generating md5 and index files...
+2026-03-21 18:11:47 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:11:50 916 bezels for system msx were generated
+2026-03-21 18:11:50 Current system #29 msx2
+2026-03-21 18:11:50 URL : https://github.com/thebezelproject/bezelproject-MSX2
+2026-03-21 18:11:50 Git repository : bezelproject-MSX2
+2026-03-21 18:11:50 Git bezels path : /retroarch/overlay/GameBezels/MSX2
+2026-03-21 18:11:50 Git default bezel file : Microsoft-MSX2.png
+2026-03-21 18:11:50 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:11:50 Installing system for msx2
+2026-03-21 18:11:50 File zip : https://github.com/thebezelproject/bezelproject-MSX2/archive/master.zip
+2026-03-21 18:11:50 Downloading file. Please wait...
+2026-03-21 18:11:52 Unzipping file...
+2026-03-21 18:11:53 Generating md5 and index files...
+2026-03-21 18:11:53 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:11:53 197 bezels for system msx2 were generated
+2026-03-21 18:11:53 Current system #30 msx2+
+2026-03-21 18:11:53 URL : https://github.com/thebezelproject/bezelproject-MSX2Plus
+2026-03-21 18:11:53 Git repository : bezelproject-MSX2Plus
+2026-03-21 18:11:53 Git bezels path : /retroarch/overlay/GameBezels/MSX2Plus
+2026-03-21 18:11:53 Git default bezel file : Microsoft-MSX2Plus.png
+2026-03-21 18:11:53 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:11:53 Installing system for msx2+
+2026-03-21 18:11:53 File zip : https://github.com/thebezelproject/bezelproject-MSX2Plus/archive/master.zip
+2026-03-21 18:11:53 Downloading file. Please wait...
+2026-03-21 18:11:55 Unzipping file...
+2026-03-21 18:11:55 Generating md5 and index files...
+2026-03-21 18:11:55 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:11:55 87 bezels for system msx2+ were generated
+2026-03-21 18:11:55 Current system #31 msxturbor
+2026-03-21 18:11:55 URL : https://github.com/thebezelproject/bezelproject-MSXTurbo
+2026-03-21 18:11:55 Git repository : bezelproject-MSXTurbo
+2026-03-21 18:11:55 Git bezels path : /retroarch/overlay/GameBezels/MSXTurbo
+2026-03-21 18:11:55 Git default bezel file : Microsoft-MSXTurbo.png
+2026-03-21 18:11:55 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:11:55 Installing system for msxturbor
+2026-03-21 18:11:55 File zip : https://github.com/thebezelproject/bezelproject-MSXTurbo/archive/master.zip
+2026-03-21 18:11:55 Downloading file. Please wait...
+2026-03-21 18:11:56 Unzipping file...
+2026-03-21 18:11:56 Generating md5 and index files...
+2026-03-21 18:11:56 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:11:56 44 bezels for system msxturbor were generated
+2026-03-21 18:11:56 Current system #32 n64
+2026-03-21 18:11:56 URL : https://github.com/thebezelproject/bezelproject-N64
+2026-03-21 18:11:56 Git repository : bezelproject-N64
+2026-03-21 18:11:56 Git bezels path : /retroarch/overlay/GameBezels/N64
+2026-03-21 18:11:56 Git default bezel file : Nintendo-64.png
+2026-03-21 18:11:56 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:11:56 Installing system for n64
+2026-03-21 18:11:56 File zip : https://github.com/thebezelproject/bezelproject-N64/archive/master.zip
+2026-03-21 18:11:56 Downloading file. Please wait...
+2026-03-21 18:12:07 Unzipping file...
+2026-03-21 18:12:09 Generating md5 and index files...
+2026-03-21 18:12:09 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:12:12 1215 bezels for system n64 were generated
+2026-03-21 18:12:12 Current system #33 naomi
+2026-03-21 18:12:12 URL : https://github.com/thebezelproject/bezelproject-Naomi
+2026-03-21 18:12:12 Git repository : bezelproject-Naomi
+2026-03-21 18:12:12 Git bezels path : /retroarch/overlay/GameBezels/Naomi
+2026-03-21 18:12:12 Git default bezel file : Naomi.png
+2026-03-21 18:12:12 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:12:12 Installing system for naomi
+2026-03-21 18:12:12 File zip : https://github.com/thebezelproject/bezelproject-Naomi/archive/master.zip
+2026-03-21 18:12:12 Downloading file. Please wait...
+2026-03-21 18:12:18 Unzipping file...
+2026-03-21 18:12:19 Generating md5 and index files...
+2026-03-21 18:12:19 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:12:20 189 bezels for system naomi were generated
+2026-03-21 18:12:20 Current system #34 nds
+2026-03-21 18:12:20 URL : https://github.com/thebezelproject/bezelproject-NDS
+2026-03-21 18:12:20 Git repository : bezelproject-NDS
+2026-03-21 18:12:20 Git bezels path : /retroarch/overlay/GameBezels/NDS
+2026-03-21 18:12:20 Git default bezel file : Nintendo-DS.png
+2026-03-21 18:12:20 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:12:20 Installing system for nds
+2026-03-21 18:12:20 File zip : https://github.com/thebezelproject/bezelproject-NDS/archive/master.zip
+2026-03-21 18:12:20 Downloading file. Please wait...
+2026-03-21 18:14:24 Unzipping file...
+2026-03-21 18:14:47 Generating md5 and index files...
+2026-03-21 18:14:47 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:15:13 7492 bezels for system nds were generated
+2026-03-21 18:15:14 Current system #35 neogeo
+2026-03-21 18:15:14 URL : https://github.com/thebezelproject/bezelproject-MAME
+2026-03-21 18:15:14 Git repository : bezelproject-MAME
+2026-03-21 18:15:14 Git bezels path : /retroarch/overlay/ArcadeBezels
+2026-03-21 18:15:14 Git default bezel file : MAME-Horizontal.png
+2026-03-21 18:15:14 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:15:14 Installing system for neogeo
+2026-03-21 18:15:14 File zip : https://github.com/thebezelproject/bezelproject-MAME/archive/master.zip
+2026-03-21 18:15:14 Downloading file. Please wait...
+2026-03-21 18:16:56 Unzipping file...
+2026-03-21 18:17:17 Generating md5 and index files...
+2026-03-21 18:17:17 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:17:52 11205 bezels for system neogeo were generated
+2026-03-21 18:17:53 Current system #36 neogeocd
+2026-03-21 18:17:53 URL : https://github.com/thebezelproject/bezelproject-NG-CD
+2026-03-21 18:17:53 Git repository : bezelproject-NG-CD
+2026-03-21 18:17:53 Git bezels path : /retroarch/overlay/GameBezels/NG-CD
+2026-03-21 18:17:53 Git default bezel file : SNK-Neo-Geo-CD.png
+2026-03-21 18:17:53 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:17:53 Installing system for neogeocd
+2026-03-21 18:17:53 File zip : https://github.com/thebezelproject/bezelproject-NG-CD/archive/master.zip
+2026-03-21 18:17:53 Downloading file. Please wait...
+2026-03-21 18:17:55 Unzipping file...
+2026-03-21 18:17:56 Generating md5 and index files...
+2026-03-21 18:17:56 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:17:56 111 bezels for system neogeocd were generated
+2026-03-21 18:17:56 Current system #37 nes
+2026-03-21 18:17:56 URL : https://github.com/thebezelproject/bezelproject-NES
+2026-03-21 18:17:56 Git repository : bezelproject-NES
+2026-03-21 18:17:56 Git bezels path : /retroarch/overlay/GameBezels/NES
+2026-03-21 18:17:56 Git default bezel file : Nintendo-Entertainment-System.png
+2026-03-21 18:17:56 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:17:56 Installing system for nes
+2026-03-21 18:17:56 File zip : https://github.com/thebezelproject/bezelproject-NES/archive/master.zip
+2026-03-21 18:17:56 Downloading file. Please wait...
+2026-03-21 18:18:35 Unzipping file...
+2026-03-21 18:18:44 Generating md5 and index files...
+2026-03-21 18:18:44 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:01 5600 bezels for system nes were generated
+2026-03-21 18:19:01 Current system #38 ngp
+2026-03-21 18:19:01 URL : https://github.com/thebezelproject/bezelproject-NGP
+2026-03-21 18:19:01 Git repository : bezelproject-NGP
+2026-03-21 18:19:01 Git bezels path : /retroarch/overlay/GameBezels/NGP
+2026-03-21 18:19:01 Git default bezel file : SNK-Neo-Geo-Pocket.png
+2026-03-21 18:19:01 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:01 Installing system for ngp
+2026-03-21 18:19:01 File zip : https://github.com/thebezelproject/bezelproject-NGP/archive/master.zip
+2026-03-21 18:19:01 Downloading file. Please wait...
+2026-03-21 18:19:02 Unzipping file...
+2026-03-21 18:19:02 Generating md5 and index files...
+2026-03-21 18:19:02 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:02 9 bezels for system ngp were generated
+2026-03-21 18:19:02 Current system #39 ngpc
+2026-03-21 18:19:02 URL : https://github.com/thebezelproject/bezelproject-NGPC
+2026-03-21 18:19:02 Git repository : bezelproject-NGPC
+2026-03-21 18:19:02 Git bezels path : /retroarch/overlay/GameBezels/NGP
+2026-03-21 18:19:02 Git default bezel file : SNK-Neo-Geo-Pocket-Color.png
+2026-03-21 18:19:02 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:02 Installing system for ngpc
+2026-03-21 18:19:02 File zip : https://github.com/thebezelproject/bezelproject-NGPC/archive/master.zip
+2026-03-21 18:19:02 Downloading file. Please wait...
+2026-03-21 18:19:04 Unzipping file...
+2026-03-21 18:19:04 Generating md5 and index files...
+2026-03-21 18:19:04 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:04 43 bezels for system ngpc were generated
+2026-03-21 18:19:04 Current system #40 o2em
+2026-03-21 18:19:04 URL : https://github.com/thebezelproject/bezelproject-Videopac
+2026-03-21 18:19:04 Git repository : bezelproject-Videopac
+2026-03-21 18:19:04 Git bezels path : /retroarch/overlay/GameBezels/Videopac
+2026-03-21 18:19:04 Git default bezel file : Magnavox-Odyssey-2.png
+2026-03-21 18:19:04 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:04 Installing system for o2em
+2026-03-21 18:19:04 File zip : https://github.com/thebezelproject/bezelproject-Videopac/archive/master.zip
+2026-03-21 18:19:04 Downloading file. Please wait...
+2026-03-21 18:19:06 Unzipping file...
+2026-03-21 18:19:06 Generating md5 and index files...
+2026-03-21 18:19:06 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:06 147 bezels for system o2em were generated
+2026-03-21 18:19:06 Current system #41 pcengine
+2026-03-21 18:19:06 URL : https://github.com/thebezelproject/bezelproject-PCEngine
+2026-03-21 18:19:06 Git repository : bezelproject-PCEngine
+2026-03-21 18:19:06 Git bezels path : /retroarch/overlay/GameBezels/PCEngine
+2026-03-21 18:19:06 Git default bezel file : NEC-PC-Engine.png
+2026-03-21 18:19:06 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:06 Installing system for pcengine
+2026-03-21 18:19:06 File zip : https://github.com/thebezelproject/bezelproject-PCEngine/archive/master.zip
+2026-03-21 18:19:06 Downloading file. Please wait...
+2026-03-21 18:19:11 Unzipping file...
+2026-03-21 18:19:12 Generating md5 and index files...
+2026-03-21 18:19:12 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:14 496 bezels for system pcengine were generated
+2026-03-21 18:19:14 Current system #42 pcenginecd
+2026-03-21 18:19:14 URL : https://github.com/thebezelproject/bezelproject-PCE-CD
+2026-03-21 18:19:14 Git repository : bezelproject-PCE-CD
+2026-03-21 18:19:14 Git bezels path : /retroarch/overlay/GameBezels/PCE-CD
+2026-03-21 18:19:14 Git default bezel file : NEC-PC-Engine-CD.png
+2026-03-21 18:19:14 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:14 Installing system for pcenginecd
+2026-03-21 18:19:14 File zip : https://github.com/thebezelproject/bezelproject-PCE-CD/archive/master.zip
+2026-03-21 18:19:14 Downloading file. Please wait...
+2026-03-21 18:19:19 Unzipping file...
+2026-03-21 18:19:20 Generating md5 and index files...
+2026-03-21 18:19:20 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:22 487 bezels for system pcenginecd were generated
+2026-03-21 18:19:22 Current system #43 pcfx
+2026-03-21 18:19:22 URL : https://github.com/thebezelproject/bezelproject-PCFX
+2026-03-21 18:19:22 Git repository : bezelproject-PCFX
+2026-03-21 18:19:22 Git bezels path : /retroarch/overlay/GameBezels/PCFX
+2026-03-21 18:19:22 Git default bezel file : NEC-PC-FX.png
+2026-03-21 18:19:22 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:22 Installing system for pcfx
+2026-03-21 18:19:22 File zip : https://github.com/thebezelproject/bezelproject-PCFX/archive/master.zip
+2026-03-21 18:19:22 Downloading file. Please wait...
+2026-03-21 18:19:23 Unzipping file...
+2026-03-21 18:19:23 Generating md5 and index files...
+2026-03-21 18:19:23 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:24 66 bezels for system pcfx were generated
+2026-03-21 18:19:24 Current system #44 pico8
+2026-03-21 18:19:24 URL : https://github.com/thebezelproject/bezelproject-Pico
+2026-03-21 18:19:24 Git repository : bezelproject-Pico
+2026-03-21 18:19:24 Git bezels path : /retroarch/overlay/GameBezels/Pico
+2026-03-21 18:19:24 Git default bezel file : Sega-Pico.png
+2026-03-21 18:19:24 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:24 Installing system for pico8
+2026-03-21 18:19:24 File zip : https://github.com/thebezelproject/bezelproject-Pico/archive/master.zip
+2026-03-21 18:19:24 Downloading file. Please wait...
+2026-03-21 18:19:28 Unzipping file...
+2026-03-21 18:19:28 Generating md5 and index files...
+2026-03-21 18:19:28 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:30 433 bezels for system pico8 were generated
+2026-03-21 18:19:30 Current system #45 psx
+2026-03-21 18:19:30 URL : https://github.com/thebezelproject/bezelproject-PSX
+2026-03-21 18:19:30 Git repository : bezelproject-PSX
+2026-03-21 18:19:30 Git bezels path : /retroarch/overlay/GameBezels/PSX
+2026-03-21 18:19:30 Git default bezel file : Sony-PlayStation.png
+2026-03-21 18:19:30 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:30 Installing system for psx
+2026-03-21 18:19:30 File zip : https://github.com/thebezelproject/bezelproject-PSX/archive/master.zip
+2026-03-21 18:19:30 Downloading file. Please wait...
+2026-03-21 18:19:47 Unzipping file...
+2026-03-21 18:19:50 Generating md5 and index files...
+2026-03-21 18:19:50 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:19:56 1905 bezels for system psx were generated
+2026-03-21 18:19:56 Current system #46 saturn
+2026-03-21 18:19:56 URL : https://github.com/thebezelproject/bezelproject-Saturn
+2026-03-21 18:19:56 Git repository : bezelproject-Saturn
+2026-03-21 18:19:56 Git bezels path : /retroarch/overlay/GameBezels/Saturn
+2026-03-21 18:19:56 Git default bezel file : Sega-Saturn.png
+2026-03-21 18:19:56 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:19:56 Installing system for saturn
+2026-03-21 18:19:56 File zip : https://github.com/thebezelproject/bezelproject-Saturn/archive/master.zip
+2026-03-21 18:19:56 Downloading file. Please wait...
+2026-03-21 18:19:59 Unzipping file...
+2026-03-21 18:20:00 Generating md5 and index files...
+2026-03-21 18:20:00 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:01 314 bezels for system saturn were generated
+2026-03-21 18:20:01 Current system #47 scummvm
+2026-03-21 18:20:01 URL : https://github.com/thebezelproject/bezelproject-ScummVM
+2026-03-21 18:20:01 Git repository : bezelproject-ScummVM
+2026-03-21 18:20:01 Git bezels path : /retroarch/overlay/GameBezels/ScummVM
+2026-03-21 18:20:01 Git default bezel file : ScummVM.png
+2026-03-21 18:20:01 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:01 Installing system for scummvm
+2026-03-21 18:20:01 File zip : https://github.com/thebezelproject/bezelproject-ScummVM/archive/master.zip
+2026-03-21 18:20:01 Downloading file. Please wait...
+2026-03-21 18:20:04 Unzipping file...
+2026-03-21 18:20:05 Generating md5 and index files...
+2026-03-21 18:20:05 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:05 285 bezels for system scummvm were generated
+2026-03-21 18:20:05 Current system #48 sega32x
+2026-03-21 18:20:05 URL : https://github.com/thebezelproject/bezelproject-Sega32X
+2026-03-21 18:20:05 Git repository : bezelproject-Sega32X
+2026-03-21 18:20:05 Git bezels path : /retroarch/overlay/GameBezels/Sega32X
+2026-03-21 18:20:05 Git default bezel file : Sega-32X.png
+2026-03-21 18:20:05 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:05 Installing system for sega32x
+2026-03-21 18:20:05 File zip : https://github.com/thebezelproject/bezelproject-Sega32X/archive/master.zip
+2026-03-21 18:20:05 Downloading file. Please wait...
+2026-03-21 18:20:07 Unzipping file...
+2026-03-21 18:20:07 Generating md5 and index files...
+2026-03-21 18:20:07 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:07 47 bezels for system sega32x were generated
+2026-03-21 18:20:07 Current system #49 segacd
+2026-03-21 18:20:07 URL : https://github.com/thebezelproject/bezelproject-SegaCD
+2026-03-21 18:20:07 Git repository : bezelproject-SegaCD
+2026-03-21 18:20:07 Git bezels path : /retroarch/overlay/GameBezels/SegaCD
+2026-03-21 18:20:07 Git default bezel file : Sega-CD.png
+2026-03-21 18:20:07 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:07 Installing system for segacd
+2026-03-21 18:20:07 File zip : https://github.com/thebezelproject/bezelproject-SegaCD/archive/master.zip
+2026-03-21 18:20:07 Downloading file. Please wait...
+2026-03-21 18:20:09 Unzipping file...
+2026-03-21 18:20:09 Generating md5 and index files...
+2026-03-21 18:20:09 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:10 183 bezels for system segacd were generated
+2026-03-21 18:20:10 Current system #50 sg1000
+2026-03-21 18:20:10 URL : https://github.com/thebezelproject/bezelproject-SG-1000
+2026-03-21 18:20:10 Git repository : bezelproject-SG-1000
+2026-03-21 18:20:10 Git bezels path : /retroarch/overlay/GameBezels/SG-1000
+2026-03-21 18:20:10 Git default bezel file : Sega-SG-1000.png
+2026-03-21 18:20:10 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:10 Installing system for sg1000
+2026-03-21 18:20:10 File zip : https://github.com/thebezelproject/bezelproject-SG-1000/archive/master.zip
+2026-03-21 18:20:10 Downloading file. Please wait...
+2026-03-21 18:20:11 Unzipping file...
+2026-03-21 18:20:11 Generating md5 and index files...
+2026-03-21 18:20:11 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:11 89 bezels for system sg1000 were generated
+2026-03-21 18:20:11 Current system #51 snes
+2026-03-21 18:20:12 URL : https://github.com/thebezelproject/bezelproject-SNES
+2026-03-21 18:20:12 Git repository : bezelproject-SNES
+2026-03-21 18:20:12 Git bezels path : /retroarch/overlay/GameBezels/SNES
+2026-03-21 18:20:12 Git default bezel file : Super-Nintendo-Entertainment-System.png
+2026-03-21 18:20:12 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:12 Installing system for snes
+2026-03-21 18:20:12 File zip : https://github.com/thebezelproject/bezelproject-SNES/archive/master.zip
+2026-03-21 18:20:12 Downloading file. Please wait...
+2026-03-21 18:20:16 Unzipping file...
+2026-03-21 18:20:17 Generating md5 and index files...
+2026-03-21 18:20:17 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:20 844 bezels for system snes were generated
+2026-03-21 18:20:20 Current system #52 sufami
+2026-03-21 18:20:20 URL : https://github.com/thebezelproject/bezelproject-SufamiTurbo
+2026-03-21 18:20:20 Git repository : bezelproject-SufamiTurbo
+2026-03-21 18:20:20 Git bezels path : /retroarch/overlay/GameBezels/SufamiTurbo
+2026-03-21 18:20:20 Git default bezel file : Bandai-Sufami-Turbo.png
+2026-03-21 18:20:20 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:20 Installing system for sufami
+2026-03-21 18:20:20 File zip : https://github.com/thebezelproject/bezelproject-SufamiTurbo/archive/master.zip
+2026-03-21 18:20:20 Downloading file. Please wait...
+2026-03-21 18:20:21 Unzipping file...
+2026-03-21 18:20:21 Generating md5 and index files...
+2026-03-21 18:20:21 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:21 15 bezels for system sufami were generated
+2026-03-21 18:20:21 Current system #53 supergrafx
+2026-03-21 18:20:21 URL : https://github.com/thebezelproject/bezelproject-SuperGrafx
+2026-03-21 18:20:21 Git repository : bezelproject-SuperGrafx
+2026-03-21 18:20:21 Git bezels path : /retroarch/overlay/GameBezels/SuperGrafx
+2026-03-21 18:20:21 Git default bezel file : NEC-SuperGrafx.png
+2026-03-21 18:20:21 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:21 Installing system for supergrafx
+2026-03-21 18:20:21 File zip : https://github.com/thebezelproject/bezelproject-SuperGrafx/archive/master.zip
+2026-03-21 18:20:21 Downloading file. Please wait...
+2026-03-21 18:20:22 Unzipping file...
+2026-03-21 18:20:22 Generating md5 and index files...
+2026-03-21 18:20:22 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:22 5 bezels for system supergrafx were generated
+2026-03-21 18:20:22 Current system #54 supervision
+2026-03-21 18:20:22 URL : https://github.com/thebezelproject/bezelproject-Supervision
+2026-03-21 18:20:22 Git repository : bezelproject-Supervision
+2026-03-21 18:20:22 Git bezels path : /retroarch/overlay/GameBezels/Supervision
+2026-03-21 18:20:22 Git default bezel file : Watara-Supervision.png
+2026-03-21 18:20:22 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:22 Installing system for supervision
+2026-03-21 18:20:22 File zip : https://github.com/thebezelproject/bezelproject-Supervision/archive/master.zip
+2026-03-21 18:20:22 Downloading file. Please wait...
+2026-03-21 18:20:24 Unzipping file...
+2026-03-21 18:20:24 Generating md5 and index files...
+2026-03-21 18:20:24 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:24 66 bezels for system supervision were generated
+2026-03-21 18:20:24 Current system #55 vectrex
+2026-03-21 18:20:24 URL : https://github.com/thebezelproject/bezelproject-GCEVectrex
+2026-03-21 18:20:24 Git repository : bezelproject-GCEVectrex
+2026-03-21 18:20:24 Git bezels path : /retroarch/overlay/GameBezels/GCEVectrex
+2026-03-21 18:20:24 Git default bezel file : GCE-Vectrex.png
+2026-03-21 18:20:24 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:24 Installing system for vectrex
+2026-03-21 18:20:24 File zip : https://github.com/thebezelproject/bezelproject-GCEVectrex/archive/master.zip
+2026-03-21 18:20:24 Downloading file. Please wait...
+2026-03-21 18:20:26 Unzipping file...
+2026-03-21 18:20:26 Generating md5 and index files...
+2026-03-21 18:20:26 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:26 130 bezels for system vectrex were generated
+2026-03-21 18:20:26 Current system #56 virtualboy
+2026-03-21 18:20:26 URL : https://github.com/thebezelproject/bezelproject-Virtualboy
+2026-03-21 18:20:26 Git repository : bezelproject-Virtualboy
+2026-03-21 18:20:26 Git bezels path : /retroarch/overlay/GameBezels/Virtualboy
+2026-03-21 18:20:26 Git default bezel file : Nintendo-Virtual-Boy.png
+2026-03-21 18:20:26 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:26 Installing system for virtualboy
+2026-03-21 18:20:26 File zip : https://github.com/thebezelproject/bezelproject-Virtualboy/archive/master.zip
+2026-03-21 18:20:26 Downloading file. Please wait...
+2026-03-21 18:20:27 Unzipping file...
+2026-03-21 18:20:27 Generating md5 and index files...
+2026-03-21 18:20:27 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:27 31 bezels for system virtualboy were generated
+2026-03-21 18:20:27 Current system #57 wswan
+2026-03-21 18:20:27 URL : https://github.com/thebezelproject/bezelproject-WonderSwan
+2026-03-21 18:20:27 Git repository : bezelproject-WonderSwan
+2026-03-21 18:20:27 Git bezels path : /retroarch/overlay/GameBezels/WonderSwan
+2026-03-21 18:20:27 Git default bezel file : Bandai-WonderSwan-Horizontal.png
+2026-03-21 18:20:27 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:27 Installing system for wswan
+2026-03-21 18:20:27 File zip : https://github.com/thebezelproject/bezelproject-WonderSwan/archive/master.zip
+2026-03-21 18:20:27 Downloading file. Please wait...
+2026-03-21 18:20:29 Unzipping file...
+2026-03-21 18:20:29 Generating md5 and index files...
+2026-03-21 18:20:29 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:30 117 bezels for system wswan were generated
+2026-03-21 18:20:30 Current system #58 wswanc
+2026-03-21 18:20:30 URL : https://github.com/thebezelproject/bezelproject-WonderSwanColor
+2026-03-21 18:20:30 Git repository : bezelproject-WonderSwanColor
+2026-03-21 18:20:30 Git bezels path : /retroarch/overlay/GameBezels/WonderSwanColor
+2026-03-21 18:20:30 Git default bezel file : Bandai-WonderSwan—Color-Horizontal.png
+2026-03-21 18:20:30 Download dir : /tmp/tmp.Ix10sOi99M
+2026-03-21 18:20:30 Installing system for wswanc
+2026-03-21 18:20:30 File zip : https://github.com/thebezelproject/bezelproject-WonderSwanColor/archive/master.zip
+2026-03-21 18:20:30 Downloading file. Please wait...
+2026-03-21 18:20:31 Unzipping file...
+2026-03-21 18:20:31 Generating md5 and index files...
+2026-03-21 18:20:31 Directory /home/runner/work/bezel-index/bezel-index/scripts/thebezelproject already exist
+2026-03-21 18:20:32 97 bezels for system wswanc were generated
+2026-03-21 18:20:32 * Cleanup and exiting
