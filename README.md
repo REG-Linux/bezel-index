@@ -42,3 +42,4 @@ snes  https://github.com/thebezelproject/bezelproject-SNES  SNES  Super-Nintendo
 md5_hash  bezel_filename.png
 980055960bb22cc4c1a9cc7c992df30f  Inindo - Way of the Ninja (USA).png
 ```
+# trigger workflow detection
