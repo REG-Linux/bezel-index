@@ -1,6 +1,6 @@
 # REG-Linux Bezel Index
 
-Pre-computed index files for [The Bezel Project](https://github.com/thebezelproject), used by REG-ES to download per-game bezels.
+Pre-computed index files for [The Bezel Project](https://github.com/thebezelproject), used by REG-Station to download per-game bezels.
 
 ## Structure
 
