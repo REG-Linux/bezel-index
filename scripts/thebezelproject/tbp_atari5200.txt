@@ -1,178 +1,178 @@
-b733f39c23d19064f7cb5c8da913e56a Xevious (USA) (Proto).png
-0f0794573001a23ccc16359df0cd8d09 Zaxxon (USA).png
-7ad34cd61eef663f94b2e10f4142d5c1 Kangaroo (USA).png
-ccc3798ef071a1880f034d07daadc57e Pengo (USA).png
-543f02af49ece7922ba2e328241505c0 Blaster (USA) (Proto).png
-0c291d8d53d30342bfdd1122ed77959e Jr. Pac-Man (USA) (Proto).png
-365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1983-11-03).png
-0133b0b68600a9ab85e45fc6a14c10d6 Last Starfighter, The (USA) (Proto) (1984-05-08).png
-365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1983-10-13).png
-34db13b6781671d9017ccd614c7727be Vanguard (USA).png
-4e304664d132b76c03ae1267bfcb5063 RealSports Basketball (USA) (Proto) (1983-12-16).png
-5c155a7382554444cee99812ccb8216b Space Shuttle - A Journey Into Space (USA).png
-cdf2d55f756f39bba44441e8e2f1dd08 Star Raiders (USA).png
-0133b0b68600a9ab85e45fc6a14c10d6 Last Starfighter, The (USA) (Proto) (1984-05-21).png
-44d2be32dc52daf294d9df2463444fa3 Wizard of Wor (USA).png
-4fc099e0fb0e9abb414a1966d28d6b3b Black Belt (USA) (Proto 3).png
-87cf6da19bc65b1010977b6fd69da22d Sport Goofy (USA) (Proto) (1983-04-11).png
-87cf6da19bc65b1010977b6fd69da22d Sport Goofy (USA) (Proto) (1983-03-28).png
-689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-09-20).png
-f70664b8163ca7f1c4db4fedb7137292 Asteroids (USA) (Proto) (1982-08-12).png
-335fabfd93a49a52072bfb1ac8f4d4f0 Mario Bros. (USA) (Alt).png
-a3a794b0fe0454efe5e28969c41fee2d Jungle Hunt (USA) (Beta) (1983-04-07).png
-a0d71f1aa500253c982df663b35b406f Miner 2049er Starring Bounty Bob (USA).png
-d04d9dfcdeecf4afd7b0d9144c91920c Pac-Man (USA).png
-2236e57f4c60b9667e1e78cc608397b5 Dig Dug (USA).png
-7f70348462b50c000848095a239b5c3f Millipede (USA) (Proto) (1984-01-05).png
-cdba583ad83084ad95d9d42ac6539704 Atari PAM System Test (USA) (v1.02).png
-2236e57f4c60b9667e1e78cc608397b5 Dig Dug (USA) (Beta) (1983-06-20).png
-605a8b018499c8ed723412fdd7ff9331 Robotron 2084 (USA) (Beta) (1983-09-20).png
 d04d9dfcdeecf4afd7b0d9144c91920c Pac-Man (USA) (Demo) (Kiosk).png
-772e11d913fdb9eb32c416fe54e047c6 Carol Shaw's River Raid (USA).png
-01e367afc49847c373a418516679e26e Rescue on Fractalus! (USA).png
-6a35119b57d581770491df17c6898de4 Road Runner (USA) (Proto).png
-f5f8f7ffd74a707b504548d048642d9f Tempest (USA) (Proto) (1983-12-29).png
-456118478ed64c105d4fd3b8e2c5c487 Frogger II - Threeedeep! (USA).png
-468ceb448f8a7e54f043379448f7c676 BerZerk (USA).png
-4e304664d132b76c03ae1267bfcb5063 RealSports Basketball (USA) (Proto) (1982-11-05).png
-22534e36a311294c3c7861acc0cb0a09 Frogger (USA).png
-0d3c4632d89efc435074b094262d0bf2 Stargate (USA) (Proto 2) (1984-01-13).png
-a3a794b0fe0454efe5e28969c41fee2d Jungle Hunt (USA) (Beta) (1983-05-02).png
-605a8b018499c8ed723412fdd7ff9331 Robotron 2084 (USA) (Beta) (1983-10-12).png
-5e69873504305b17b039fdbcebde788c Miniature Golf (USA) (Proto).png
-edd3f81d879243b50418ca6dedf6e8f6 Boogie (USA) (Demo).png
-2d25e0f64a216fbda789cdfb9100c677 Popeye (USA).png
+422f67653d5e86c440773759ee1c2b2c Q-bert (USA).png
 78343060c41895d0e360bd1db3307991 Ballblazer (USA) (Beta) (1984-01-20).png
-ea715dfd79417686d245f74f1687d934 Beamrider (USA).png
-b61d72557dc3c646677ab29cf96c79f4 Buck Rogers - Planet of Zoom (USA).png
-eec1fa2a56d447539973659bc5926d00 Centipede (USA).png
-2eb8990ba228bfe88e0a68f77daf9ead A.E. (USA) (Proto 2) (1984-01-04).png
-53cc54e1075e869d3896c060411e7753 Super Pac-Man (USA) (Proto) (1984-03-15).png
-72f99f8ea5178633de62dc183661e5e3 Atari PAM - Pete's Test (USA).png
-f5f8f7ffd74a707b504548d048642d9f Tempest (USA) (AtariAge).png
-7f70348462b50c000848095a239b5c3f Millipede (USA) (Proto) (1984-01-04).png
-8e170c95c8c4d0fafc7225f4f610dd11 Dreadnaught Factor, The (USA).png
-a9027c362c5513cbf8097fb615f4de78 Castle Blast (USA) (Unl).png
-893187a87977b8b897f43623427782c1 Qix (USA).png
-1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 2) (1983-09-19).png
-cdf2d55f756f39bba44441e8e2f1dd08 Star Raiders (USA) (Alt).png
-689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-06-24).png
-c163a24c187e9f883e06fb43d0c064a8 Koffi - Yellow Kopter (USA) (Unl).png
-f5f8f7ffd74a707b504548d048642d9f Tempest (USA) (Proto) (1984-03-15).png
-88a1e5cd0cb8bd6542772294c1f4fea1 Zenji (USA).png
-d8616b803bef2e99dee9307b25ebddef RealSports Football (USA).png
-2eb8990ba228bfe88e0a68f77daf9ead A.E. (USA) (Proto 1).png
-c50d50f196ca261d987046d2382068b6 Galaxian (USA) (Alt).png
-b4e3995aa109462db80213abbf2961f3 Track and Field (USA) (Proto) (1984-04-18).png
-00a39b708798136295b51e6b97df456e Star Trek - Strategic Operations Simulator (USA) (Alt).png
-34db13b6781671d9017ccd614c7727be Vanguard (USA) (Beta) (1983-01-05).png
-f4118bdf2809ba6abff37a5a41e76078 Frisky Tom (USA) (Proto) (1983-01-20).png
-135c94c6b31abcb7a6e70eb7163912a6 Microgammon SB (USA) (Proto) (1983-08-15).png
-fdcc93bb82f25fc5bb4588961a0b106b Castle Crisis (USA) (Unl).png
-1629d994ae63f6f69aae19f1d5282d6a Astro Chase (USA).png
-1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 3).png
-49c731689f692df0dc26f140fc1d31d8 Star Wars - The Arcade Game (USA).png
-d69214a00fbcd16b2486fc4d36bdbef1 Gorf (USA).png
-605a8b018499c8ed723412fdd7ff9331 Robotron 2084 (USA).png
-b96352c6e75c46a473ebabd128b94131 Choplifter! (USA) (Beta 1) (1984-01-04).png
-689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-08-30).png
-919f3b8651d3c4686034026bbfd5fc49 Space Dungeon (USA) (Beta) (1983-03-09).png
-00a39b708798136295b51e6b97df456e Star Trek - Strategic Operations Simulator (USA).png
-eb8030008d9cbaf6940ae28c87135c35 Zone Ranger (USA).png
-ace1717eb75e5441b3444753391f486b Defender (USA).png
-1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 1) (1983-09-14).png
-ccc3798ef071a1880f034d07daadc57e Pengo (USA) (Beta) (1983-07-27).png
-fc790a5e9d421d6d5bd4773c21aee2f9 Gyruss (USA) (Alt).png
-f84a37049b51c51544cf676a667f00b2 Countermeasure (USA).png
-a3a794b0fe0454efe5e28969c41fee2d Jungle Hunt (USA).png
-e432049a724182ceb6d1ce2b4fc6322b RealSports Baseball (USA) (Beta) (1983-02-11).png
-d3d830b3af1fc1206de4455ac490e06c Joust (USA) (Beta) (1983-06-12).png
-4fc099e0fb0e9abb414a1966d28d6b3b Black Belt (USA) (Proto 1).png
-cade769990d21ac2816b319f1fffda91 Pitfall! (USA).png
-f892926e4996773dd5b9cf0363017cc1 Ms. Pac-Man (USA).png
-8537f472fe29a05a8edd478ffa653a1f Mountain King (USA).png
-db26bc33eeec560529c87753c6315aea Yellow Submarine (USA) (Demo).png
-b4e3995aa109462db80213abbf2961f3 Track and Field (USA) (Proto) (1984-05-10).png
-468ceb448f8a7e54f043379448f7c676 BerZerk (USA) (Beta 1) (1983-06-01).png
-9a6cf6197ae2985aafadd59bd2a3a8b6 Astrogrover (USA) (Proto).png
-365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1983-09-30).png
-63554894d0b23e3095b574a87949c387 3-D Asteroids (USA) (Demo).png
-01e367afc49847c373a418516679e26e Rescue on Fractalus! (USA) (Beta) (1984-02-29).png
-00ecf23d60d42c3b3357b794374c4bdc Atari PAM Diagnostics (USA) (v1.1).png
-11026f4d0f2b1857f18dde9289022b8d Bounty Bob Strikes Back! (USA).png
-1f55115cbd113b20970be8464af7ceda Galaxian (USA).png
-4fc099e0fb0e9abb414a1966d28d6b3b Black Belt (USA) (Proto 2).png
-6b9fe8b1bc2e6e8234903ec6239e8fbf Meebzork (USA) (Proto) (1983-05-03).png
-f4118bdf2809ba6abff37a5a41e76078 Frisky Tom (USA) (Proto) (1983-07-04).png
-365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1982-12-05).png
-b9747cec9887ba7215dccc56bd2e6436 RealSports Tennis (USA).png
-689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-08-31).png
-04bdaa8c2c1e0ee6ca8d3c90f66e48f5 Super Breakout (USA).png
-689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-05-10).png
-104c5e5cc9219aa4ef57122e10ab8e9d Congo Bongo (USA).png
-3780f355a6830d0fdfba772118bde362 Keystone Kapers (USA).png
-468ceb448f8a7e54f043379448f7c676 BerZerk (USA) (Beta 3) (1983-08-03).png
-b96352c6e75c46a473ebabd128b94131 Choplifter! (USA).png
+6b5db487d8fb5656be052b0d0307d36e H.E.R.O. (USA).png
 633c73e5e9052a66fac05e678a6b6375 Gremlins (USA).png
-11baee8cb7cef3b3bd97dac9e7a27667 Super Cobra (USA).png
-22e441cbd3b2ac47036ad054a0cde6cf Activision Decathlon, The (USA).png
-7f70348462b50c000848095a239b5c3f Millipede (USA) (Proto) (1984-01-31).png
-1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 4).png
-7c7bf7a60c399bc0f8c375e6632203c7 Montezuma's Revenge - Featuring Panama Joe (USA).png
-919f3b8651d3c4686034026bbfd5fc49 Space Dungeon (USA) (Beta) (1983-01-20).png
-a66e25ebb7647543dcca71ac5fc1c4c0 Space Race (USA) (Demo).png
-6b9fe8b1bc2e6e8234903ec6239e8fbf Meebzork (USA) (Proto) (1983-11-16).png
-c50d50f196ca261d987046d2382068b6 Galaxian (USA) (Demo) (Kiosk).png
-49c6d826e381f03de76b452fb92da8f2 RealSports Soccer (USA) (Beta) (1982-08-26).png
-4e304664d132b76c03ae1267bfcb5063 RealSports Basketball (USA) (Proto) (1983-10-31).png
-53fb92004545d54d3e2b3df5eac43083 Battlezone (USA) (Proto 2).png
-17dd030b999edf771e0a4c061288e5a9 James Bond 007 (USA).png
-502603e0803625a8750306c129b1f9b3 Blue Print (USA).png
-e42ac1c440387be2526dc6e96b90a4e8 Mr. Do!'s Castle (USA).png
-135c94c6b31abcb7a6e70eb7163912a6 Microgammon SB (USA) (Proto) (1983-07-16).png
-6b9fe8b1bc2e6e8234903ec6239e8fbf Meebzork (USA) (Proto) (1983-05-18).png
+468ceb448f8a7e54f043379448f7c676 BerZerk (USA) (Beta 1) (1983-06-01).png
+689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-08-31).png
+72f99f8ea5178633de62dc183661e5e3 Atari PAM - Pete's Test (USA).png
 468ceb448f8a7e54f043379448f7c676 BerZerk (USA) (Beta 2) (1983-07-31).png
-8ba0bd3b51a4377c94676af7fa8ff239 Missile Command (USA).png
+cade769990d21ac2816b319f1fffda91 Pitfall! (USA).png
+01e367afc49847c373a418516679e26e Rescue on Fractalus! (USA).png
+d8616b803bef2e99dee9307b25ebddef RealSports Football (USA).png
+eec1fa2a56d447539973659bc5926d00 Centipede (USA).png
+1f55115cbd113b20970be8464af7ceda Galaxian (USA).png
+689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-09-20).png
+c163a24c187e9f883e06fb43d0c064a8 Koffi - Yellow Kopter (USA) (Unl).png
 3b872bf86da7e25ea5383d21842d09ec Pole Position (USA) (Beta).png
-00ecf23d60d42c3b3357b794374c4bdc Atari PAM Diagnostics (USA) (v2.3).png
-f70664b8163ca7f1c4db4fedb7137292 Asteroids (USA) (Proto) (Final).png
+919f3b8651d3c4686034026bbfd5fc49 Space Dungeon (USA) (Beta) (1983-01-20).png
+365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1983-11-03).png
+5504f62f5c5c5338e6bb7cb62213e29b Kaboom! (USA).png
+34db13b6781671d9017ccd614c7727be Vanguard (USA) (Beta) (1983-02-01).png
+0d3c4632d89efc435074b094262d0bf2 Stargate (USA) (Proto 1) (1983-11-21).png
+919f3b8651d3c4686034026bbfd5fc49 Space Dungeon (USA) (Beta) (1983-03-09).png
+e432049a724182ceb6d1ce2b4fc6322b RealSports Baseball (USA) (Beta) (1983-02-11).png
+b61d72557dc3c646677ab29cf96c79f4 Buck Rogers - Planet of Zoom (USA).png
+f70664b8163ca7f1c4db4fedb7137292 Asteroids (USA) (Proto) (1982-08-12).png
+e9ec708d743ca733c942765d98277553 Star Wars - Return of the Jedi - Death Star Battle (USA).png
+a22a502fbf28dedebda564b3f2ffc9c8 Meteorites (USA).png
+1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 2) (1983-09-19).png
+468ceb448f8a7e54f043379448f7c676 BerZerk (USA) (Beta 3) (1983-08-03).png
+365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1983-10-13).png
+a3a794b0fe0454efe5e28969c41fee2d Jungle Hunt (USA) (Beta) (1983-04-07).png
+365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1983-09-30).png
+a9027c362c5513cbf8097fb615f4de78 Castle Blast (USA) (Unl).png
+49c6d826e381f03de76b452fb92da8f2 RealSports Soccer (USA).png
+6a35119b57d581770491df17c6898de4 Road Runner (USA) (Proto).png
+88a1e5cd0cb8bd6542772294c1f4fea1 Zenji (USA).png
+cdba583ad83084ad95d9d42ac6539704 Atari PAM System Test (USA) (v1.02).png
+d3d830b3af1fc1206de4455ac490e06c Joust (USA) (Beta) (1983-06-12).png
+53cc54e1075e869d3896c060411e7753 Super Pac-Man (USA) (Proto) (1984-01-26).png
+1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 3).png
+2eb8990ba228bfe88e0a68f77daf9ead A.E. (USA) (Proto 2) (1984-01-04).png
+2d25e0f64a216fbda789cdfb9100c677 Popeye (USA).png
+ccc3798ef071a1880f034d07daadc57e Pengo (USA) (Beta) (1983-08-10).png
+17dd030b999edf771e0a4c061288e5a9 James Bond 007 (USA) (Beta).png
+2236e57f4c60b9667e1e78cc608397b5 Dig Dug (USA) (Beta) (1983-04-07).png
+22534e36a311294c3c7861acc0cb0a09 Frogger (USA).png
+605a8b018499c8ed723412fdd7ff9331 Robotron 2084 (USA).png
+605a8b018499c8ed723412fdd7ff9331 Robotron 2084 (USA) (Beta) (1983-10-12).png
+e432049a724182ceb6d1ce2b4fc6322b RealSports Baseball (USA).png
+4fc099e0fb0e9abb414a1966d28d6b3b Black Belt (USA) (Proto 2).png
+689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-08-30).png
+f4118bdf2809ba6abff37a5a41e76078 Frisky Tom (USA) (Proto) (1983-01-20).png
+7c7bf7a60c399bc0f8c375e6632203c7 Montezuma's Revenge - Featuring Panama Joe (USA).png
+2e04068d3402c171c802d926ec452f81 Barroom Baseball (USA) (Proto 2) (1983-11-21).png
+f892926e4996773dd5b9cf0363017cc1 Ms. Pac-Man (USA).png
+d69214a00fbcd16b2486fc4d36bdbef1 Gorf (USA).png
+8e170c95c8c4d0fafc7225f4f610dd11 Dreadnaught Factor, The (USA).png
+04bdaa8c2c1e0ee6ca8d3c90f66e48f5 Super Breakout (USA).png
+365785cc39245ff1606f4a6808221b1f Spitfire (USA) (Proto) (1982-12-05).png
+fc790a5e9d421d6d5bd4773c21aee2f9 Gyruss (USA) (Alt).png
+f5f8f7ffd74a707b504548d048642d9f Tempest (USA) (AtariAge).png
+34db13b6781671d9017ccd614c7727be Vanguard (USA) (Beta) (1983-01-05).png
+502603e0803625a8750306c129b1f9b3 Blue Print (USA).png
+cdf2d55f756f39bba44441e8e2f1dd08 Star Raiders (USA).png
 3b872bf86da7e25ea5383d21842d09ec Pole Position (USA).png
 fc790a5e9d421d6d5bd4773c21aee2f9 Gyruss (USA).png
-5504f62f5c5c5338e6bb7cb62213e29b Kaboom! (USA).png
-ccc3798ef071a1880f034d07daadc57e Pengo (USA) (Beta) (1983-08-10).png
-17c4b953bb6c3e6ea1e3e3f7a1e13ef1 David Crane's Pitfall II - Lost Caverns (USA).png
-cbc296d1ddcaf61229de2763887e02ef Looney Tunes Hotel (USA) (Proto).png
-0d3c4632d89efc435074b094262d0bf2 Stargate (USA) (Proto 1) (1983-11-21).png
-0894bcf54c09c71e3f1d29d20cb554fb K-Razy Shoot-Out (USA).png
-a22a502fbf28dedebda564b3f2ffc9c8 Meteorites (USA).png
-b96352c6e75c46a473ebabd128b94131 Choplifter! (USA) (Beta 3).png
-422f67653d5e86c440773759ee1c2b2c Q-bert (USA).png
-e432049a724182ceb6d1ce2b4fc6322b RealSports Baseball (USA).png
-a2ebb957925f62ea4e31fdaff3be3ffb MegaMania (USA).png
-4c3d42c2e07109d6f2ffe66786069222 Quest for Quintana Roo (USA).png
 53fb92004545d54d3e2b3df5eac43083 Battlezone (USA) (Proto 1) (1983-09-15).png
-49c6d826e381f03de76b452fb92da8f2 RealSports Soccer (USA).png
-b61d72557dc3c646677ab29cf96c79f4 Buck Rogers - Planet of Zoom (USA) (Alt).png
-468ceb448f8a7e54f043379448f7c676 BerZerk (USA) (Beta 4) (1983-08-xx).png
-0d3c4632d89efc435074b094262d0bf2 Stargate (USA) (Proto 3) (1984-01-05).png
-2e04068d3402c171c802d926ec452f81 Barroom Baseball (USA) (Proto 2) (1983-11-21).png
-17dd030b999edf771e0a4c061288e5a9 James Bond 007 (USA) (Beta).png
-34db13b6781671d9017ccd614c7727be Vanguard (USA) (Beta) (1983-02-01).png
-b96352c6e75c46a473ebabd128b94131 Choplifter! (USA) (Beta 2) (1984-01-13).png
-d3d830b3af1fc1206de4455ac490e06c Joust (USA).png
-00ecf23d60d42c3b3357b794374c4bdc Atari PAM Diagnostics (USA) (v2.0).png
-e9ec708d743ca733c942765d98277553 Star Wars - Return of the Jedi - Death Star Battle (USA).png
-b47256cc32b8bc724e1d3a1c803dcd89 Space Invaders (USA).png
+edd3f81d879243b50418ca6dedf6e8f6 Boogie (USA) (Demo).png
+2236e57f4c60b9667e1e78cc608397b5 Dig Dug (USA).png
+63554894d0b23e3095b574a87949c387 3-D Asteroids (USA) (Demo).png
 e36fc7932cf5e32ec619c1253bdee634 Final Legacy (USA) (Proto).png
-53cc54e1075e869d3896c060411e7753 Super Pac-Man (USA) (Proto) (1984-01-26).png
-2236e57f4c60b9667e1e78cc608397b5 Dig Dug (USA) (Beta) (1983-04-07).png
-78343060c41895d0e360bd1db3307991 Ballblazer (USA).png
-335fabfd93a49a52072bfb1ac8f4d4f0 Mario Bros. (USA).png
-53cc54e1075e869d3896c060411e7753 Super Pac-Man (USA) (Proto) (Final).png
-1dcbb4932e798b1ab41d17e04178fab7 Behind Jaggi Lines! (USA) (Beta) (1984-01-18).png
-e432049a724182ceb6d1ce2b4fc6322b RealSports Baseball (USA) (Beta) (1983-07-06).png
-689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-08-25).png
+4e304664d132b76c03ae1267bfcb5063 RealSports Basketball (USA) (Proto) (1982-11-05).png
+c50d50f196ca261d987046d2382068b6 Galaxian (USA) (Demo) (Kiosk).png
+d04d9dfcdeecf4afd7b0d9144c91920c Pac-Man (USA).png
+6b9fe8b1bc2e6e8234903ec6239e8fbf Meebzork (USA) (Proto) (1983-05-03).png
+4e304664d132b76c03ae1267bfcb5063 RealSports Basketball (USA) (Proto) (1983-10-31).png
+b47256cc32b8bc724e1d3a1c803dcd89 Space Invaders (USA).png
+00a39b708798136295b51e6b97df456e Star Trek - Strategic Operations Simulator (USA).png
+11baee8cb7cef3b3bd97dac9e7a27667 Super Cobra (USA).png
+0d3c4632d89efc435074b094262d0bf2 Stargate (USA) (Proto 3) (1984-01-05).png
+456118478ed64c105d4fd3b8e2c5c487 Frogger II - Threeedeep! (USA).png
+1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 1) (1983-09-14).png
+0c291d8d53d30342bfdd1122ed77959e Jr. Pac-Man (USA) (Proto).png
+0894bcf54c09c71e3f1d29d20cb554fb K-Razy Shoot-Out (USA).png
+49c6d826e381f03de76b452fb92da8f2 RealSports Soccer (USA) (Beta) (1982-08-26).png
+e42ac1c440387be2526dc6e96b90a4e8 Mr. Do!'s Castle (USA).png
+104c5e5cc9219aa4ef57122e10ab8e9d Congo Bongo (USA).png
+543f02af49ece7922ba2e328241505c0 Blaster (USA) (Proto).png
+f84a37049b51c51544cf676a667f00b2 Countermeasure (USA).png
+7f70348462b50c000848095a239b5c3f Millipede (USA) (Proto) (1984-01-04).png
+11026f4d0f2b1857f18dde9289022b8d Bounty Bob Strikes Back! (USA).png
+1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA) (Beta 4).png
+c50d50f196ca261d987046d2382068b6 Galaxian (USA) (Alt).png
+9a6cf6197ae2985aafadd59bd2a3a8b6 Astrogrover (USA) (Proto).png
+db26bc33eeec560529c87753c6315aea Yellow Submarine (USA) (Demo).png
+605a8b018499c8ed723412fdd7ff9331 Robotron 2084 (USA) (Beta) (1983-09-20).png
+8ba0bd3b51a4377c94676af7fa8ff239 Missile Command (USA).png
+87cf6da19bc65b1010977b6fd69da22d Sport Goofy (USA) (Proto) (1983-04-11).png
+00a39b708798136295b51e6b97df456e Star Trek - Strategic Operations Simulator (USA) (Alt).png
+fdcc93bb82f25fc5bb4588961a0b106b Castle Crisis (USA) (Unl).png
+d3d830b3af1fc1206de4455ac490e06c Joust (USA).png
+b96352c6e75c46a473ebabd128b94131 Choplifter! (USA) (Beta 2) (1984-01-13).png
+4fc099e0fb0e9abb414a1966d28d6b3b Black Belt (USA) (Proto 1).png
+5c155a7382554444cee99812ccb8216b Space Shuttle - A Journey Into Space (USA).png
+f4118bdf2809ba6abff37a5a41e76078 Frisky Tom (USA) (Proto) (1983-07-04).png
+00ecf23d60d42c3b3357b794374c4bdc Atari PAM Diagnostics (USA) (v2.0).png
+a66e25ebb7647543dcca71ac5fc1c4c0 Space Race (USA) (Demo).png
+a3a794b0fe0454efe5e28969c41fee2d Jungle Hunt (USA) (Beta) (1983-05-02).png
+7ad34cd61eef663f94b2e10f4142d5c1 Kangaroo (USA).png
+7f70348462b50c000848095a239b5c3f Millipede (USA) (Proto) (1984-01-31).png
 2e04068d3402c171c802d926ec452f81 Barroom Baseball (USA) (Proto 1).png
+22e441cbd3b2ac47036ad054a0cde6cf Activision Decathlon, The (USA).png
+2eb8990ba228bfe88e0a68f77daf9ead A.E. (USA) (Proto 1).png
+0f0794573001a23ccc16359df0cd8d09 Zaxxon (USA).png
+17dd030b999edf771e0a4c061288e5a9 James Bond 007 (USA).png
+cbc296d1ddcaf61229de2763887e02ef Looney Tunes Hotel (USA) (Proto).png
+1dcbb4932e798b1ab41d17e04178fab7 Behind Jaggi Lines! (USA) (Beta) (1984-01-18).png
+4c3d42c2e07109d6f2ffe66786069222 Quest for Quintana Roo (USA).png
+689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-05-10).png
+6b9fe8b1bc2e6e8234903ec6239e8fbf Meebzork (USA) (Proto) (1983-05-18).png
+893187a87977b8b897f43623427782c1 Qix (USA).png
+b9747cec9887ba7215dccc56bd2e6436 RealSports Tennis (USA).png
+a2ebb957925f62ea4e31fdaff3be3ffb MegaMania (USA).png
+335fabfd93a49a52072bfb1ac8f4d4f0 Mario Bros. (USA).png
+0d3c4632d89efc435074b094262d0bf2 Stargate (USA) (Proto 2) (1984-01-13).png
+00ecf23d60d42c3b3357b794374c4bdc Atari PAM Diagnostics (USA) (v1.1).png
+f5f8f7ffd74a707b504548d048642d9f Tempest (USA) (Proto) (1983-12-29).png
+5e69873504305b17b039fdbcebde788c Miniature Golf (USA) (Proto).png
+87cf6da19bc65b1010977b6fd69da22d Sport Goofy (USA) (Proto) (1983-03-28).png
+b61d72557dc3c646677ab29cf96c79f4 Buck Rogers - Planet of Zoom (USA) (Alt).png
+0133b0b68600a9ab85e45fc6a14c10d6 Last Starfighter, The (USA) (Proto) (1984-05-21).png
+49c731689f692df0dc26f140fc1d31d8 Star Wars - The Arcade Game (USA).png
+4fc099e0fb0e9abb414a1966d28d6b3b Black Belt (USA) (Proto 3).png
+53cc54e1075e869d3896c060411e7753 Super Pac-Man (USA) (Proto) (Final).png
+4e304664d132b76c03ae1267bfcb5063 RealSports Basketball (USA) (Proto) (1983-12-16).png
+ace1717eb75e5441b3444753391f486b Defender (USA).png
+468ceb448f8a7e54f043379448f7c676 BerZerk (USA) (Beta 4) (1983-08-xx).png
+a0d71f1aa500253c982df663b35b406f Miner 2049er Starring Bounty Bob (USA).png
+3780f355a6830d0fdfba772118bde362 Keystone Kapers (USA).png
+b4e3995aa109462db80213abbf2961f3 Track and Field (USA) (Proto) (1984-04-18).png
+b96352c6e75c46a473ebabd128b94131 Choplifter! (USA) (Beta 3).png
+00ecf23d60d42c3b3357b794374c4bdc Atari PAM Diagnostics (USA) (v2.3).png
+b96352c6e75c46a473ebabd128b94131 Choplifter! (USA).png
+0133b0b68600a9ab85e45fc6a14c10d6 Last Starfighter, The (USA) (Proto) (1984-05-08).png
+e432049a724182ceb6d1ce2b4fc6322b RealSports Baseball (USA) (Beta) (1983-07-06).png
+689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-06-24).png
+01e367afc49847c373a418516679e26e Rescue on Fractalus! (USA) (Beta) (1984-02-29).png
+f5f8f7ffd74a707b504548d048642d9f Tempest (USA) (Proto) (1984-03-15).png
+772e11d913fdb9eb32c416fe54e047c6 Carol Shaw's River Raid (USA).png
 919f3b8651d3c4686034026bbfd5fc49 Space Dungeon (USA).png
-6b5db487d8fb5656be052b0d0307d36e H.E.R.O. (USA).png
+b733f39c23d19064f7cb5c8da913e56a Xevious (USA) (Proto).png
+78343060c41895d0e360bd1db3307991 Ballblazer (USA).png
+b96352c6e75c46a473ebabd128b94131 Choplifter! (USA) (Beta 1) (1984-01-04).png
+b4e3995aa109462db80213abbf2961f3 Track and Field (USA) (Proto) (1984-05-10).png
+a3a794b0fe0454efe5e28969c41fee2d Jungle Hunt (USA).png
+468ceb448f8a7e54f043379448f7c676 BerZerk (USA).png
+ccc3798ef071a1880f034d07daadc57e Pengo (USA).png
+34db13b6781671d9017ccd614c7727be Vanguard (USA).png
 1e1f6ea38afb20e283ac5f84ed53288f Moon Patrol (USA).png
+8537f472fe29a05a8edd478ffa653a1f Mountain King (USA).png
+53cc54e1075e869d3896c060411e7753 Super Pac-Man (USA) (Proto) (1984-03-15).png
+f70664b8163ca7f1c4db4fedb7137292 Asteroids (USA) (Proto) (Final).png
+7f70348462b50c000848095a239b5c3f Millipede (USA) (Proto) (1984-01-05).png
+cdf2d55f756f39bba44441e8e2f1dd08 Star Raiders (USA) (Alt).png
+44d2be32dc52daf294d9df2463444fa3 Wizard of Wor (USA).png
+6b9fe8b1bc2e6e8234903ec6239e8fbf Meebzork (USA) (Proto) (1983-11-16).png
+17c4b953bb6c3e6ea1e3e3f7a1e13ef1 David Crane's Pitfall II - Lost Caverns (USA).png
+335fabfd93a49a52072bfb1ac8f4d4f0 Mario Bros. (USA) (Alt).png
+ccc3798ef071a1880f034d07daadc57e Pengo (USA) (Beta) (1983-07-27).png
+ea715dfd79417686d245f74f1687d934 Beamrider (USA).png
+eb8030008d9cbaf6940ae28c87135c35 Zone Ranger (USA).png
+1629d994ae63f6f69aae19f1d5282d6a Astro Chase (USA).png
+53fb92004545d54d3e2b3df5eac43083 Battlezone (USA) (Proto 2).png
+689a64a142efe9e70f6348370094deff Xari Arena (USA) (Proto) (1983-08-25).png
+2236e57f4c60b9667e1e78cc608397b5 Dig Dug (USA) (Beta) (1983-06-20).png
+135c94c6b31abcb7a6e70eb7163912a6 Microgammon SB (USA) (Proto) (1983-08-15).png
+135c94c6b31abcb7a6e70eb7163912a6 Microgammon SB (USA) (Proto) (1983-07-16).png

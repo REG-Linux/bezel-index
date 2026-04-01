@@ -1,31 +1,31 @@
-68d519aec17b31e137d76875dd50254b Jack Bros. no Meiro de Hiihoo! (Japan).png
-664149dd40af8d27764578fd6eb8b36d Virtual Pro Yakyuu '95 (Japan).png
+e4e9286e1e69c131f8143b10bc0a8ae8 Galactic Pinball (Japan, USA).png
 75aa1e773270b44c34da4df732df520d Virtual Bowling (Japan).png
+d6b32720d4fa89163cdf9574c8ab1c92 Bound High (Japan) (En) (Proto).png
+6646bfc4cdf96a17347b6c4a39c89954 Nester's Funky Bowling (USA).png
+68d519aec17b31e137d76875dd50254b Jack Bros. no Meiro de Hiihoo! (Japan).png
+45c3cf0777d8a803250596480494e00b 3-D Tetris (USA).png
+d130447e16b1b29274168638d24187df Space Invaders - Virtual Collection (Japan).png
+71f341098b77d33973643d6d5795b791 Niko-chan Battle (Japan) (Proto).png
+303a037f679601fb625cc10bbcc286ac Red Alarm (USA).png
+9d19097214a42a980a09c6afe6148024 Space Pinball (Japan) (En) (Proto).png
+3ddd5215b97c59b7c50066a839fa74a1 SD Gundam - Dimension War (Japan).png
+a8fd33cc2c8a4bc2aa0d70ed6929b906 Teleroboxer (Japan, USA).png
+a1ff990f02646a1da45da682fc44c9f0 Jack Bros. (USA).png
+7e6c8d324bef0da862bf2c759ef179fe Virtual Lab (Japan).png
+7c841294e2ebdd6b26a6a1fed397180b Virtual League Baseball (USA).png
+df479857d4d37eb3355e2b64842980e1 Red Alarm (Japan).png
+5bf6bfe8dd49455845fe9d7d907467de Innsmouth no Yakata (Japan).png
+0e5251e3adf556a9ee10ab50c36e9540 Panic Bomber (USA).png
+415a017c4ec0e4f44f4812859e98b61b Vertical Force (USA).png
+1334ce0dfaedf964d6b8520d6cfe1179 V-Tetris (Japan).png
+97cd6a4b92d8c33127f7e2613b94f5e9 Virtual Fishing (Japan).png
+8b1cec3164a6e510abfd11466a5134c2 Space Squash (Japan).png
+664149dd40af8d27764578fd6eb8b36d Virtual Pro Yakyuu '95 (Japan).png
+a5836313d5d27dd020459fd9f4c984e0 T&E Virtual Golf (Japan).png
 65f27077dceeeac72b46b5ebc2374564 Virtual Boy Wario Land (Japan, USA).png
+f8d7730757788724471d16b10ab9e5b9 Mario's Tennis (Japan, USA).png
+cff966b961c039566e2c9f497ef91186 Mario Clash (Japan, USA).png
+5f7ffa5185414dfef76e6b9a1aea25de Vertical Force (Japan).png
+0e5251e3adf556a9ee10ab50c36e9540 Tobidase! Panibon (Japan).png
 39e3c7686e77159cd096ca0b6282b5af Waterworld (USA).png
 71d3167c701be453971178b652a1e7bd Golf (USA).png
-cff966b961c039566e2c9f497ef91186 Mario Clash (Japan, USA).png
-303a037f679601fb625cc10bbcc286ac Red Alarm (USA).png
-a5836313d5d27dd020459fd9f4c984e0 T&E Virtual Golf (Japan).png
-5f7ffa5185414dfef76e6b9a1aea25de Vertical Force (Japan).png
-7c841294e2ebdd6b26a6a1fed397180b Virtual League Baseball (USA).png
-d130447e16b1b29274168638d24187df Space Invaders - Virtual Collection (Japan).png
-97cd6a4b92d8c33127f7e2613b94f5e9 Virtual Fishing (Japan).png
-45c3cf0777d8a803250596480494e00b 3-D Tetris (USA).png
-d6b32720d4fa89163cdf9574c8ab1c92 Bound High (Japan) (En) (Proto).png
-8b1cec3164a6e510abfd11466a5134c2 Space Squash (Japan).png
-a1ff990f02646a1da45da682fc44c9f0 Jack Bros. (USA).png
-3ddd5215b97c59b7c50066a839fa74a1 SD Gundam - Dimension War (Japan).png
-5bf6bfe8dd49455845fe9d7d907467de Innsmouth no Yakata (Japan).png
-0e5251e3adf556a9ee10ab50c36e9540 Tobidase! Panibon (Japan).png
-1334ce0dfaedf964d6b8520d6cfe1179 V-Tetris (Japan).png
-6646bfc4cdf96a17347b6c4a39c89954 Nester's Funky Bowling (USA).png
-415a017c4ec0e4f44f4812859e98b61b Vertical Force (USA).png
-f8d7730757788724471d16b10ab9e5b9 Mario's Tennis (Japan, USA).png
-9d19097214a42a980a09c6afe6148024 Space Pinball (Japan) (En) (Proto).png
-71f341098b77d33973643d6d5795b791 Niko-chan Battle (Japan) (Proto).png
-a8fd33cc2c8a4bc2aa0d70ed6929b906 Teleroboxer (Japan, USA).png
-df479857d4d37eb3355e2b64842980e1 Red Alarm (Japan).png
-e4e9286e1e69c131f8143b10bc0a8ae8 Galactic Pinball (Japan, USA).png
-0e5251e3adf556a9ee10ab50c36e9540 Panic Bomber (USA).png
-7e6c8d324bef0da862bf2c759ef179fe Virtual Lab (Japan).png

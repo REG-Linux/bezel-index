@@ -1,147 +1,147 @@
-dbae3bcb5374b9bde5cadfa6be571c48 Freedom Fighters (USA, Europe).png
-9adcacc5eaadc3439539d6f36762bcfe Morse (France).png
-8613c23eaadcbdba5389a32431f943a4 Mission Impossible (Brazil) (Proto).png
-f831738bb127e2d6ca63b2fbca5b5f9d Robot City (Europe) (Proto).png
-ff4f3f9110923a7c520efb7cdd3e3a57 Mur Magique, Le (France).png
-0545c8f098d30b4100c8ce7c2003da31 Quest for the Rings (USA, Europe).png
-afb0ad1edcb419cc68c335b5505bfe5a Nimble Numbers Ned (USA).png
-77104b53ed1f55ff0105fee12a130805 Spider-Man (Europe) (Proto).png
-04c47d1253d9cc32e7d1fdbc55711c62 Speedway + Spin-out + Crypto-logic (USA, Europe).png
-ce9cb38f995f06242e50c55e76046ce4 Electronic Billiards (Europe).png
-5d887eb8e69335094095f1488a1038c3 Desafio Chines (Brazil).png
-1e64c1b2bba8ba76422274655e5fa086 Musician (Europe).png
-7ee11ae638f4092ac353643c8c061457 Blockout + Breakdown (USA, Europe).png
-cac6841d66e0ffd2bc401b1f639a0a2f Munchkin (Europe).png
-9e329d320eb5be2de09bfc08b1ef4001 Shark Hunter (Europe) (Proto).png
-e7e56f5a16dad9329a9f464f45b90573 K.C. Munchkin (USA).png
-57923a92333f092f7f95e24952feaaae Backgammon (Europe).png
-f4c4cba7bbcc8fcffbd039cc69f3fe9a Hockey + Soccer (USA, Europe).png
-28ae1841d1b4ab2d5faec65bf648728c K.C.'s Krazy Chase (USA, Europe).png
-0531e63337301f84939991546a04dc20 Spider-Man (Europe) (Proto) (Alt 1).png
-89bf3181f4d89518d88afb0d0c5098d2 Martian Threat (Europe) (Proto).png
-e067209e8c4bcec34c42efa15a5d467b Loony Balloon (Europe) (Proto).png
-d0071910a908c9f526a5a62ed8f0b024 Las Vegas (France).png
-b20f36302978731f13c795462df8509e Thunderball (USA, Europe).png
-e40bbc1f814fcc012b5063c9c0b86b5c Keyboard Creations (USA).png
-5cde5ee0ca06cde6ac4a1d36e0d97e40 Moto-Crash (France).png
-cb739be41789fa2dbe5a8302eec65538 Neutron Star (Europe) (Proto).png
-cfe3c29982ca961a7b1f8b09ff86fd99 Bowling + Basketball (USA, Europe).png
-9afa414f2ba823d228ba3cfe52e2f46b Alien Invaders - Plus (USA, Europe).png
-68de7b51057fac5144a01060c530b522 Football (USA, Europe).png
-7146c4b88b6798afab5bb92005867fa7 Pairs + Space Rendezvous + Logic (Europe).png
-5f8fc4c2b068ac5099351bda8083eb18 Chez Maxime (France).png
-a1ea8d367dce0552670b08b500898db0 Secret of the Pharaohs (Europe).png
-3fc397a527500b2332a20f93e992206b Chess (Europe).png
-4fe1209ab4e9e5326ea9513c4eca5005 Buraco Negro (Brazil).png
-a871eac17392a80f450e742df137e8f3 Sid the Spellbinder (USA).png
-30eeda31a3d580c5fe54a5a42d3b8b28 Take the Money and Run (USA, Europe).png
-5b9060b8098121bbe1bf244ced411a1b Jeu de Quilles + Basketball (France).png
-b94fcf24099f30f85576d6b7d9091512 Kinder im Verkehr 1 (Germany).png
-393ce30ce44f329627d946b8cf5c5bd4 UFO (USA).png
-c73767c4e43027f4ab902fbc7240d481 Depth Charge + Marksman (Europe).png
-855d3fb44a5617de0e490b8c331d1117 4 in 1 Row (Europe).png
-e765c58114f37486a055983c3f2a16a1 Red Baron (Europe) (Proto) (Alt 1).png
-5d887eb8e69335094095f1488a1038c3 Chinese Logic (Europe).png
-debbfda19a6c9caa3219113bb0b580cd Popeye (Europe).png
 8db38ab148b9d8b0153af75089953c54 Conquest of the World (USA, Europe).png
-371ab4f4f30ffe8630f4ee6c80076883 Pachinko (USA, Europe).png
-d4edcd6cd83a2ecf866be21056993ca7 Clay Pigeon (Brazil).png
-c4b77f81c7b6df3bc0028cea47dce0da Nightmare (Europe).png
-ed8b5639fa84e74110ca6fa8e3ef5da9 Type & Tell (USA).png
-e1c3275a774ad52a022112cbd6558b7c Gunfighter (Europe).png
-ee207b67c7b0e204b5a6b00b719332ca Puzzle Piece Panic! (USA) (Proto).png
-2c17dd584cddec12dff8948f30c09c7a Armored Encounter + Sub Chase (USA, Europe).png
-5111b5c8cb0a283e9074ef9870ebbf69 Computer Golf (USA).png
-3cf1a5c0c3b2f5a00b4732bf409a1772 Blackjack (France).png
-97c24141fdfccff9c66a3f7ac9b18a4b Catch the Ball + Noughts and Crosses (Europe).png
-328a6a4bd68d48c32f99e82a2b6cc578 Cosmic Conflict (Europe) (Alt 1).png
-1eefbd9f58132552c1b07b5b6f54128a Blobbers, The (Europe).png
-88b76d5d4e8e3d7e11ad6d61f6884f91 Las Vegas Blackjack (USA, Europe).png
-9a5d293feb82ee18b8e86804e1f1487b Jumping Acrobats (Europe) (Alt 1).png
-5f9e337241d60e2540090a83c20bb150 Planet Lander (USA) (Unl).png
-c614d8d504d779d35a9ba69150e11611 Exojet (France).png
-e649b62a2600643ce7bc76396901e95c Golf (Europe).png
-7af3c28ac3b36c5e78fedd0b7e3e6372 Tutankham (Europe) (Proto).png
-9f931ced890121e10ccc6261de321ff7 Killer Bees (USA).png
-a1ea8d367dce0552670b08b500898db0 O Segredo do Farao (Brazil).png
-3027515788900c02f8d5ab903d80581a Volleyball (USA, Europe).png
-328a6a4bd68d48c32f99e82a2b6cc578 Cosmic Conflict (USA).png
-d5c7fcf3c65f95111d4e004e9570e528 Atlantis (USA, Europe).png
-bd404e0c87bc5529142590fe5dcaa629 Le Tresor Englouti (France).png
-6b1ff88aebe41ac82b0705f843a4995e Red Baron (Europe) (Proto).png
-ea0e61043f4cf89a3eb69dc63ef3b7dc Wall Street (Brazil).png
-aa7c7db43706e8d7ca1cb0aa24b02c60 Playtag (Europe) (Proto).png
-23019f247dde7a384987baccce1c757b Route 66 (Europe) (Proto).png
-60668f4d7904a681571d3c07dbf4780a Out of this World + Helicopter Rescue (USA).png
-7b9b1451b5efd580a39a53442f748a45 Amok (USA) (Unl).png
-c206a14f3c0fd0b730a56aba86fcc958 Kinder im Verkehr 2 (Germany).png
-a7551cf8d6f01a33493011266c6a6b50 Super Bee (Brazil).png
-3a62b0ef1409f4c326418c72d16a5409 Attack of the Timelord (USA).png
-a2841c303c9f822180edc604b51cc571 Power Lords (USA).png
-a45341fe8958b838b75e8cdea06c1a51 Demon Attack (USA, Europe).png
+f4c4cba7bbcc8fcffbd039cc69f3fe9a Hockey + Soccer (USA, Europe).png
+3fc397a527500b2332a20f93e992206b Chess (Europe).png
 e4a6c4ddc2c6b317ed9b7588c7333b7b Monkeyshines (USA, Europe).png
-1b3639cf1e7e0b49addbaefa5eb737b0 Popeye (Brazil).png
-f34eb8f7cd41356c639b845c6a71e373 Showdown in 2100 A.D. (USA).png
-7b6920eceff5603af9e04e78f8b3d8de Chat et Souris (France).png
-522bb088e70d642aada2a3113f863ebd Q-Bert (Europe).png
-1906e521451b88dabf2bc79ef0cc1372 I've Got Your Number (USA, Europe).png
-328a6a4bd68d48c32f99e82a2b6cc578 Conflit Cosmique (Canada).png
-18a65d72dff5c2c3c818b7b1090b9f8e Pong (2004) (USA) (Unl).png
-9cd7943b424f5cee9c9add3be1e7bfb1 Stone Sling (Europe).png
+aa7c7db43706e8d7ca1cb0aa24b02c60 Playtag (Europe) (Proto).png
 c73767c4e43027f4ab902fbc7240d481 Bombardeio Submarino + Tiro ao Alvo (Brazil).png
-39e13ea19dfa726283608bfb5db68938 Turtles (Europe).png
-19efd28fa1b9d33a968c567570f899e0 Jumping Acrobats (Europe).png
-a0e3732ec600943295e7335fa94c019e Casino Slot Machine (USA, Europe).png
-328a6a4bd68d48c32f99e82a2b6cc578 Cosmic Conflict (Europe).png
-59a6559683ab98898dc2f8c972ee8d2b Nightfighter (Europe) (Proto).png
-08214d35d29eb16523190d94d3556fcd Alpine Skiing (USA, Europe).png
-0f0f90081a05dce37b408846dc6e0de8 Dynasty (USA).png
-b75bf6495e6c3e9fecfd166a0bcd8513 Samurai (Europe).png
-9be0a8d438ba0330412b9fdab3a119ba Pinball (USA) (Proto).png
-c57cda83bad3ebed8a4690a7527fd6b1 Computer Intro (USA).png
-7058f1dc554c039e2f6d6e1e44f6754b Laser War (Europe).png
-7fdb662b847e3718fd40f09421623c2c J.G. Munchkin (USA, Brazil) (Unl).png
-4f42a756883016b32368f47ded0b7846 Newscaster (Europe).png
-d3a57a34cf89b262acffe5e18133e673 Math-A-Magic + Echo (USA, Europe).png
-ad1a88434f537cc23097e45da7d4b494 P.T. Barnum's Acrobats (USA).png
+5f9e337241d60e2540090a83c20bb150 Planet Lander (USA) (Unl).png
+522bb088e70d642aada2a3113f863ebd Q-Bert (Europe).png
+c73767c4e43027f4ab902fbc7240d481 Depth Charge + Marksman (Europe).png
+9cd7943b424f5cee9c9add3be1e7bfb1 Stone Sling (Europe).png
+4fe1209ab4e9e5326ea9513c4eca5005 Buraco Negro (Brazil).png
 00a14747b19d2327818ca3ce1474b209 Satellite Attack (Europe).png
-0a5e2b3503be4bbcd0618ec31933f4a1 Frogger (Europe).png
-f7087ac69ce7a20abedcccc9c4b24476 Mathematicien + Echo (France).png
-85c2f992b127a8ffdf116651e2140876 Matchmaker + Logix + Buzzword (USA).png
-b0c12389f40cdb370fb5cef60766f216 Football Electronique + Hockey Electronique (France).png
-596ee748b80d0bb3b0109d1a385a029b Syracuse (France).png
-b3baa109c94edc9fea6dfd44d6e739a4 Mr. Roboto! (USA) (Unl).png
-581b239402737ba7e392d50865f20bb5 Kill The Attacking Aliens (Europe).png
-1fe941f36e54f8c5cb333a2ebdc03e33 Comando Noturno (Brazil).png
-c9f3cffcc071c57eb6431c68316cf3bc Billiard Americain (France).png
-ce9cb38f995f06242e50c55e76046ce4 Billard Electrique (France).png
-cc7aeb87be8972c54cd0aeb638861466 Turtles (USA).png
-30eeda31a3d580c5fe54a5a42d3b8b28 Prendre l'Argent et Fuir (France).png
-10f2a8d05be6ff990222e92b71d1a7ee Martian Threat (Europe) (Proto) (Alt 1).png
-b24250f7306ea0b672ffcda4854bfac4 Skiing (France).png
-ed351acac66f79c084ed2a0502f8c093 War of Nerves (USA, Europe).png
-413e5320f1a5e8e70a71db6255e4d182 Frogger (Brazil).png
-2636b13ac021992310df84a995e22c0c Labyrinth Game, A + Supermind (Europe).png
-004bcddd515174c1b5c21cca3d64fa82 Course de Voitures + Autodrome + Cryptogramme (France).png
-3b8210eb56afa0313b5b9cbb956147a5 Morse (Europe).png
-0564c3fb0560097e9d1cb42668cc5c24 Pong (2003) (USA) (Unl).png
-daed1c99875a3b2fc4d520089b62a023 4 en 1 Ligne (France).png
-9b21d56bede7a92ad7c24912da584c36 Electronic Table Soccer (USA, Europe).png
-90510e730f72f93e943bdf9088f21417 Pocket Billiards (USA, Europe).png
-517b6db0c1299317433f4d9ee5ad1615 Interpol (Europe) (Proto).png
-9ffd99d46294ced7065f841d858067cf Computer Programmer (Europe).png
-8c49bc499b8571fb6d419f6255d6220b Super Cobra (Europe).png
-cd540edc18646d17ce3494a66b89f98f Power Lords (USA) (Alt 1).png
+d0071910a908c9f526a5a62ed8f0b024 Las Vegas (France).png
+a1ea8d367dce0552670b08b500898db0 O Segredo do Farao (Brazil).png
+a1ea8d367dce0552670b08b500898db0 Secret of the Pharaohs (Europe).png
 97c24141fdfccff9c66a3f7ac9b18a4b O Malabarista + Jogo da Velha (Brazil).png
-3156448077627c3edb2b00cfea80ce7e Calculator! (USA) (Unl).png
-44c0c3356ea3cc2e989e87a4060454e6 Smithereens (USA).png
-b05e085581fc48059160241da9121591 Volleyball Electronique (France).png
-3d716f7dd2356a1f906809cf2b2782fc La Quete des Anneaux (France).png
-01af88842932a5b10782a34524b59bc8 Super Bee (Europe).png
-468039d5a72c9812be5098279b048398 Great Wall Street Fortune Hunt, The (USA, Europe).png
-fd1e2b97ba6bc1323d15737bb6032c32 Baseball (USA, Europe).png
-d866a77999eb6c821a6974052a0344cc Super Cobra (Brazil).png
-27af9f567eb5f9e87d62b54e61a34d3e Pick Axe Pete (USA, Europe).png
+97c24141fdfccff9c66a3f7ac9b18a4b Catch the Ball + Noughts and Crosses (Europe).png
 7058f1dc554c039e2f6d6e1e44f6754b Guerre Laser (France).png
+23019f247dde7a384987baccce1c757b Route 66 (Europe) (Proto).png
+e067209e8c4bcec34c42efa15a5d467b Loony Balloon (Europe) (Proto).png
+e649b62a2600643ce7bc76396901e95c Golf (Europe).png
+468039d5a72c9812be5098279b048398 Great Wall Street Fortune Hunt, The (USA, Europe).png
+1eefbd9f58132552c1b07b5b6f54128a Blobbers, The (Europe).png
+d5c7fcf3c65f95111d4e004e9570e528 Atlantis (USA, Europe).png
+c9f3cffcc071c57eb6431c68316cf3bc Billiard Americain (France).png
+328a6a4bd68d48c32f99e82a2b6cc578 Cosmic Conflict (USA).png
+3d716f7dd2356a1f906809cf2b2782fc La Quete des Anneaux (France).png
 bd92ed0e8f61797f99922872c41311be Invaders from Hyperspace (USA).png
+28ae1841d1b4ab2d5faec65bf648728c K.C.'s Krazy Chase (USA, Europe).png
+581b239402737ba7e392d50865f20bb5 Kill The Attacking Aliens (Europe).png
+8613c23eaadcbdba5389a32431f943a4 Mission Impossible (Brazil) (Proto).png
+3b8210eb56afa0313b5b9cbb956147a5 Morse (Europe).png
+7ee11ae638f4092ac353643c8c061457 Blockout + Breakdown (USA, Europe).png
+5b9060b8098121bbe1bf244ced411a1b Jeu de Quilles + Basketball (France).png
+1e64c1b2bba8ba76422274655e5fa086 Musician (Europe).png
+04c47d1253d9cc32e7d1fdbc55711c62 Speedway + Spin-out + Crypto-logic (USA, Europe).png
+5cde5ee0ca06cde6ac4a1d36e0d97e40 Moto-Crash (France).png
+a0e3732ec600943295e7335fa94c019e Casino Slot Machine (USA, Europe).png
+5d887eb8e69335094095f1488a1038c3 Chinese Logic (Europe).png
+7b9b1451b5efd580a39a53442f748a45 Amok (USA) (Unl).png
+cfe3c29982ca961a7b1f8b09ff86fd99 Bowling + Basketball (USA, Europe).png
+f34eb8f7cd41356c639b845c6a71e373 Showdown in 2100 A.D. (USA).png
+2c17dd584cddec12dff8948f30c09c7a Armored Encounter + Sub Chase (USA, Europe).png
+9e329d320eb5be2de09bfc08b1ef4001 Shark Hunter (Europe) (Proto).png
+d866a77999eb6c821a6974052a0344cc Super Cobra (Brazil).png
+08214d35d29eb16523190d94d3556fcd Alpine Skiing (USA, Europe).png
+1906e521451b88dabf2bc79ef0cc1372 I've Got Your Number (USA, Europe).png
+27af9f567eb5f9e87d62b54e61a34d3e Pick Axe Pete (USA, Europe).png
+a871eac17392a80f450e742df137e8f3 Sid the Spellbinder (USA).png
+01af88842932a5b10782a34524b59bc8 Super Bee (Europe).png
+90510e730f72f93e943bdf9088f21417 Pocket Billiards (USA, Europe).png
+b05e085581fc48059160241da9121591 Volleyball Electronique (France).png
+7af3c28ac3b36c5e78fedd0b7e3e6372 Tutankham (Europe) (Proto).png
+30eeda31a3d580c5fe54a5a42d3b8b28 Prendre l'Argent et Fuir (France).png
+7b6920eceff5603af9e04e78f8b3d8de Chat et Souris (France).png
+d4edcd6cd83a2ecf866be21056993ca7 Clay Pigeon (Brazil).png
+89bf3181f4d89518d88afb0d0c5098d2 Martian Threat (Europe) (Proto).png
+10f2a8d05be6ff990222e92b71d1a7ee Martian Threat (Europe) (Proto) (Alt 1).png
+f831738bb127e2d6ca63b2fbca5b5f9d Robot City (Europe) (Proto).png
+59a6559683ab98898dc2f8c972ee8d2b Nightfighter (Europe) (Proto).png
+fd1e2b97ba6bc1323d15737bb6032c32 Baseball (USA, Europe).png
+68de7b51057fac5144a01060c530b522 Football (USA, Europe).png
+0a5e2b3503be4bbcd0618ec31933f4a1 Frogger (Europe).png
+596ee748b80d0bb3b0109d1a385a029b Syracuse (France).png
+c4b77f81c7b6df3bc0028cea47dce0da Nightmare (Europe).png
+d3a57a34cf89b262acffe5e18133e673 Math-A-Magic + Echo (USA, Europe).png
+5111b5c8cb0a283e9074ef9870ebbf69 Computer Golf (USA).png
+9a5d293feb82ee18b8e86804e1f1487b Jumping Acrobats (Europe) (Alt 1).png
+2636b13ac021992310df84a995e22c0c Labyrinth Game, A + Supermind (Europe).png
+413e5320f1a5e8e70a71db6255e4d182 Frogger (Brazil).png
+afb0ad1edcb419cc68c335b5505bfe5a Nimble Numbers Ned (USA).png
+0545c8f098d30b4100c8ce7c2003da31 Quest for the Rings (USA, Europe).png
+5d887eb8e69335094095f1488a1038c3 Desafio Chines (Brazil).png
+9f931ced890121e10ccc6261de321ff7 Killer Bees (USA).png
+c57cda83bad3ebed8a4690a7527fd6b1 Computer Intro (USA).png
+b24250f7306ea0b672ffcda4854bfac4 Skiing (France).png
+1b3639cf1e7e0b49addbaefa5eb737b0 Popeye (Brazil).png
+1fe941f36e54f8c5cb333a2ebdc03e33 Comando Noturno (Brazil).png
+855d3fb44a5617de0e490b8c331d1117 4 in 1 Row (Europe).png
+328a6a4bd68d48c32f99e82a2b6cc578 Conflit Cosmique (Canada).png
+b75bf6495e6c3e9fecfd166a0bcd8513 Samurai (Europe).png
+dbae3bcb5374b9bde5cadfa6be571c48 Freedom Fighters (USA, Europe).png
+debbfda19a6c9caa3219113bb0b580cd Popeye (Europe).png
+88b76d5d4e8e3d7e11ad6d61f6884f91 Las Vegas Blackjack (USA, Europe).png
+9ffd99d46294ced7065f841d858067cf Computer Programmer (Europe).png
+9be0a8d438ba0330412b9fdab3a119ba Pinball (USA) (Proto).png
+e40bbc1f814fcc012b5063c9c0b86b5c Keyboard Creations (USA).png
+9b21d56bede7a92ad7c24912da584c36 Electronic Table Soccer (USA, Europe).png
+e765c58114f37486a055983c3f2a16a1 Red Baron (Europe) (Proto) (Alt 1).png
+e1c3275a774ad52a022112cbd6558b7c Gunfighter (Europe).png
+cc7aeb87be8972c54cd0aeb638861466 Turtles (USA).png
+cac6841d66e0ffd2bc401b1f639a0a2f Munchkin (Europe).png
+ce9cb38f995f06242e50c55e76046ce4 Electronic Billiards (Europe).png
+cb739be41789fa2dbe5a8302eec65538 Neutron Star (Europe) (Proto).png
+85c2f992b127a8ffdf116651e2140876 Matchmaker + Logix + Buzzword (USA).png
+30eeda31a3d580c5fe54a5a42d3b8b28 Take the Money and Run (USA, Europe).png
+a7551cf8d6f01a33493011266c6a6b50 Super Bee (Brazil).png
+19efd28fa1b9d33a968c567570f899e0 Jumping Acrobats (Europe).png
+bd404e0c87bc5529142590fe5dcaa629 Le Tresor Englouti (France).png
+c614d8d504d779d35a9ba69150e11611 Exojet (France).png
+7fdb662b847e3718fd40f09421623c2c J.G. Munchkin (USA, Brazil) (Unl).png
+ce9cb38f995f06242e50c55e76046ce4 Billard Electrique (France).png
+4f42a756883016b32368f47ded0b7846 Newscaster (Europe).png
+3156448077627c3edb2b00cfea80ce7e Calculator! (USA) (Unl).png
+c206a14f3c0fd0b730a56aba86fcc958 Kinder im Verkehr 2 (Germany).png
+a2841c303c9f822180edc604b51cc571 Power Lords (USA).png
+3cf1a5c0c3b2f5a00b4732bf409a1772 Blackjack (France).png
+ff4f3f9110923a7c520efb7cdd3e3a57 Mur Magique, Le (France).png
+0531e63337301f84939991546a04dc20 Spider-Man (Europe) (Proto) (Alt 1).png
+ea0e61043f4cf89a3eb69dc63ef3b7dc Wall Street (Brazil).png
 7b6920eceff5603af9e04e78f8b3d8de Mousing Cat, The (Europe).png
+a45341fe8958b838b75e8cdea06c1a51 Demon Attack (USA, Europe).png
+e7e56f5a16dad9329a9f464f45b90573 K.C. Munchkin (USA).png
+371ab4f4f30ffe8630f4ee6c80076883 Pachinko (USA, Europe).png
+b0c12389f40cdb370fb5cef60766f216 Football Electronique + Hockey Electronique (France).png
+8c49bc499b8571fb6d419f6255d6220b Super Cobra (Europe).png
+517b6db0c1299317433f4d9ee5ad1615 Interpol (Europe) (Proto).png
+ee207b67c7b0e204b5a6b00b719332ca Puzzle Piece Panic! (USA) (Proto).png
+3a62b0ef1409f4c326418c72d16a5409 Attack of the Timelord (USA).png
+b3baa109c94edc9fea6dfd44d6e739a4 Mr. Roboto! (USA) (Unl).png
+ed351acac66f79c084ed2a0502f8c093 War of Nerves (USA, Europe).png
+3027515788900c02f8d5ab903d80581a Volleyball (USA, Europe).png
+328a6a4bd68d48c32f99e82a2b6cc578 Cosmic Conflict (Europe) (Alt 1).png
+44c0c3356ea3cc2e989e87a4060454e6 Smithereens (USA).png
+393ce30ce44f329627d946b8cf5c5bd4 UFO (USA).png
+328a6a4bd68d48c32f99e82a2b6cc578 Cosmic Conflict (Europe).png
+0f0f90081a05dce37b408846dc6e0de8 Dynasty (USA).png
+7058f1dc554c039e2f6d6e1e44f6754b Laser War (Europe).png
+f7087ac69ce7a20abedcccc9c4b24476 Mathematicien + Echo (France).png
+57923a92333f092f7f95e24952feaaae Backgammon (Europe).png
+18a65d72dff5c2c3c818b7b1090b9f8e Pong (2004) (USA) (Unl).png
+77104b53ed1f55ff0105fee12a130805 Spider-Man (Europe) (Proto).png
+daed1c99875a3b2fc4d520089b62a023 4 en 1 Ligne (France).png
+b94fcf24099f30f85576d6b7d9091512 Kinder im Verkehr 1 (Germany).png
+6b1ff88aebe41ac82b0705f843a4995e Red Baron (Europe) (Proto).png
+004bcddd515174c1b5c21cca3d64fa82 Course de Voitures + Autodrome + Cryptogramme (France).png
+b20f36302978731f13c795462df8509e Thunderball (USA, Europe).png
+7146c4b88b6798afab5bb92005867fa7 Pairs + Space Rendezvous + Logic (Europe).png
+ad1a88434f537cc23097e45da7d4b494 P.T. Barnum's Acrobats (USA).png
+60668f4d7904a681571d3c07dbf4780a Out of this World + Helicopter Rescue (USA).png
+9adcacc5eaadc3439539d6f36762bcfe Morse (France).png
+ed8b5639fa84e74110ca6fa8e3ef5da9 Type & Tell (USA).png
+9afa414f2ba823d228ba3cfe52e2f46b Alien Invaders - Plus (USA, Europe).png
+39e13ea19dfa726283608bfb5db68938 Turtles (Europe).png
+5f8fc4c2b068ac5099351bda8083eb18 Chez Maxime (France).png
+cd540edc18646d17ce3494a66b89f98f Power Lords (USA) (Alt 1).png
+0564c3fb0560097e9d1cb42668cc5c24 Pong (2003) (USA) (Unl).png
