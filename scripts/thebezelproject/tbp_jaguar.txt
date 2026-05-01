@@ -1,274 +1,274 @@
-a6c55e3628d7bfdd06bfd241dde724b2 Gem Race (World) (Aftermarket) (Unl).png
-af1fa27fe58e1bf6defd6095c1f7241e Outrun (World) (Aftermarket) (Unl).png
-a7d7a5238b66c0ccbd415d80094df855 Shoot'em up 3D (World) (Demo) (Aftermarket) (Unl).png
-bac115aa52cdee99a3a5f32b0f937e0b Not Outrun (World) (Demo) (Aftermarket) (Unl).png
-46e7c6dae164a3303d8fd3dcda052673 JagWorm (World) (Proto) (Aftermarket) (Unl).png
-3d5839dab45ba801fdbde70adb3a27bd Fallen Angels (World) (Aftermarket) (Unl) (Alt).png
-6702b026f709b2e982d5309a77a71970 Stunt Car Racer (World) (Aftermarket) (Unl).png
-dbe83d6d2cf6625d9c8cc8a97e7b63c8 Dazed VS (World) (Demo) (Aftermarket) (Unl).png
-1fecc7bfb1e729fe9dc2074ad090f514 Tube - Second Edition (World) (Aftermarket) (Unl).png
-728c38da1c3d696b01ec73f1e19d70c8 Soccer Kid (World) (Beta) (Aftermarket) (Unl).png
-a5a43e10301eed215ce8bcd7724c54d3 Battle Sphere Gold (World) (Aftermarket) (Unl).png
-82ee81b07ce06910e766103dff3914e0 Speedster II (USA) (Proto).png
-d9525b7cdf027f9f65291ada88753878 Jalaga (World) (GemTos 2023) (Aftermarket) (Unl).png
-ea1b237ab7310f8f45904df514d06cb8 Total Carnage (USA) (Beta).png
-81eff3328d33fd1249bf6c974b876d60 Tube (World) (Aftermarket) (Unl).png
-197e230d7bc7b36fe53b5b4d4aa5233b SuperFly DX (World) (Aftermarket) (Unl).png
-f5e76492f4731fc61519925e6e314169 DragonKeep (World) (v1.01) (Aftermarket) (Unl).png
-b81012b15467c9f20df1da22d47766cc HMS RaptoR (World) (Aftermarket) (Unl).png
-06f340f457ebb6726bb68b56880df0b8 Burger Time (World) (Demo) (Aftermarket) (Unl).png
-029efebdbfe192bf5fb7aa2acc0f35ec OSMOZYS (World) (Demo) (Aftermarket) (Unl).png
-36701725c7fbd6759d5f9887104264d0 Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28).png
-363bf8e947064925ca59d57c703bcf03 Breakout 2000 (USA, Europe).png
-abf2ecbf99b643716b207d9fb2b6f57d Ghouls'n Ghosts (World) (Aftermarket) (Unl).png
-1ed7c5b79ccda3ececb6b920cd20c029 Slam Racer (World) (Proto 1) (Aftermarket) (Unl).png
-e4cde52c6044ab2e63277924a53cdc9c Jaguar Hockey Legends 2013 (World) (Unl).png
-31015fdcf4733bc4d87641c63b90326d S.p.a.c.e. (World) (Demo 1) (Aftermarket) (Unl).png
-197e230d7bc7b36fe53b5b4d4aa5233b SuperFly DX (World) (v1.1) (Aftermarket) (Unl).png
-0caca301af1e0eeb17848cc1e25a5f14 Doom 2 (World) (AC 98) (E-JagFest 2010) (Aftermarket) (Unl).png
-4c12011a322d7501d7fc50f2a6a621fa Fight for Life (USA, Europe).png
-5c7e944aff33fe45d1d7cecfcd7121ec Rick Dangerous 2 (World) (Aftermarket) (Unl).png
-64a22860a93e43b3591f6eaaeb11f887 Joust (World) (Aftermarket) (Unl).png
-b1518356155dd45ee64f2dcc73a1ba11 Star Wars - The Empire Strikes Back (World) (Aftermarket) (Unl).png
-03d56b8de218ca3d087d7e91ac9939bd I-War (USA, Europe) (Beta) (1995-10-20).png
-dd88ec99b6f1b187fd2e1f3b76f56422 Arkanna (World) (Demo) (Aftermarket) (Unl).png
-209f35f3566effad0a3855be369ff4b1 Jaguar Tetris (World) (Aftermarket) (Unl).png
-6c582234c565c05dd01499d96ed984c1 Tempest 2000 (World).png
-c68bf718582914faeff720d20bb6cbc6 Double Dragon V - The Shadow Falls (World).png
-177869204f9d671bc7c59e4e1c094681 Burn Out (World) (Demo 1).png
-5785e7346604db4b26895eef6949c1bd Orion_'s Jaguar Collection (World) (Aftermarket) (Unl).png
-eaca169b6028287b865a06b63ecde09b Beebris (World) (Aftermarket) (Unl).png
-f9f94c4106e3f9b56357f4034b5331b3 Cybernoid II - The Revenge (World) (Aftermarket) (Unl).png
-381fe05a6139418b6934a2b668482565 Dino Rage (World) (Proto 1) (Grid) (Aftermarket) (Unl).png
-b38899e4937ec7ab49aa349202b39f8b Bad Apple (World) (Color Version) (Aftermarket) (Unl).png
-ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World) (Beta) (1993-10-13).png
-713da3cfacbe941483850293a69d7490 Barkley Shut Up and Jam (World) (Aftermarket) (Unl).png
-07da5b2de3d9c861e2ccf1a9b9aa458b Quest, The (World) (Aftermarket) (Unl).png
-ee529e736236ab26bb276d65dee980ac Club Drive (World) (Beta).png
-07ed784c81125e4c509cfa902b00d5db Jumping Jack (World) (Demo) (Aftermarket) (Unl).png
-354abf2b0d41482245c6024717806059 Jet Set Willy (World) (Aftermarket) (Unl).png
-f5c58cc713dda3b12aaa2947ba9c8e3d Aircars (World) (Aftermarket) (Unl).png
-3bacf0ea1f9601f4e4e25ad2318ec22a SkyCopter II (USA) (Proto).png
-9bc4ab14ac49fa2a7d9b4696fb50669c Beach Volley (World) (Aftermarket) (Unl).png
-cc87e9fca5eecd87f9b69f7edc1b1b10 Tube2020 (World) (RC1) (Aftermarket) (Unl).png
-dd3b4f8c48fbcdfc078d65eb8db2f90f Arkanoid - Revenge of DoH (World) (Aftermarket) (Unl).png
-560e9e53ab9adb226a81534b5d1b77f5 Atomic Reloaded (World) (Aftermarket) (Unl).png
-6ab5bcd1e1d94ae4e2ee9b47d66fed89 Jumping at Shadows (World) (Demo) (Portland Retro Gaming Expo 2022) (Aftermarket) (Unl).png
-e4bbc8ec0ed334c679fd77a7f2671d6e Rick Dangerous (World) (Aftermarket) (Unl).png
-b54dee4e79c4aae118724f529490c3c9 International Sensible Soccer (World).png
-b186b777ce218ac5686d3e0796616432 Atomic (World) (Aftermarket) (Unl).png
-41272a88ff5ef7b6392e47509d01be2a Boingy (World) (Demo 1) (Aftermarket) (Unl).png
-599c1a247c8aafe98282b989e1202d0c Missile Command VR (World) (Beta) (1995-07-05).png
-f59005d078f633a8b1be718ee87a0500 Do the Same (World) (Aftermarket) (Unl) (Alt).png
-a5f154b435ce28f762d7d95f6c8359c0 uFly (World) (v0.991) (Demo) (Aftermarket) (Unl).png
-3807fbfa6775995340b816301dcdcc1b Kaboom (World) (Demo) (Aftermarket) (Unl).png
-177869204f9d671bc7c59e4e1c094681 Burn Out (World) (Demo 2) (WCES 1995).png
-fc947ef90f9f152ae31f31cc606d92ca Project W (World) (Demo) (Aftermarket) (Unl).png
-2881ea3c2414603b5e9fd88d7de434ff White Men Can't Jump (USA, Europe).png
-1079c340edd59039e6ef8489933dab6e Frog Feast (World) (Demo) (Aftermarket) (Unl).png
-5983580fe547c312a9e100b0ac0b0147 Cybermorph (World) (Rev A).png
-5775648bbb53889e304bb7d6cf246d7d Cannon Fodder (World).png
-aad468bcb641b449f59009ee862b2353 Impulse X (World) (Aftermarket) (Unl).png
-7330e5eeb0eee2c656737d32ce6e2283 Caribean Tavern (World) (Proto) (GemTos 2023) (Aftermarket) (Unl).png
-2d3b9a7a05ec45d5d889e0a4f48d3c65 Passing Shot (World) (Aftermarket) (Unl).png
-36c100fd4b7f998d31b46c32953fe56a R-Type (World) (Aftermarket) (Unl).png
-2ff12321ea0bb5f9f671cd0db8a503f6 Phase Zero (World) (Aftermarket) (Unl).png
-b0f576a062fce8479b96491fc8b6c48e Block'em Sock'em (World) (Digital) (Aftermarket) (Unl).png
-8941ffd8150be30882e1e17e63091530 Pitfall - The Mayan Adventure (USA, Europe).png
-cb1482acbabea3b539d0a4151b2c72e7 Darius+ (World) (Aftermarket) (Unl).png
-a5f154b435ce28f762d7d95f6c8359c0 uFly (World) (0.99) (Demo) (Aftermarket) (Unl).png
-65fb634cdf46d8d2954be31e0dd85663 Fast Food 64 (World) (v1.4b) (Aftermarket) (Unl).png
-ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World) (v0.93) (Beta) (1994-04-08).png
-632e7db5689c3d4f677e8ca42235e669 Checkered Flag (World).png
-f582500852de2a5a2554fc1a833f332f Abbaye des Morts, L' (World) (Demo) (Aftermarket) (Unl).png
-3d698ef25cce835d4a48e98f4fafcd1b Iron Soldier 2 (World) (Aftermarket) (Unl).png
-3ee668f9d82226051eebdb43d903e15e Jetpac (World) (Aftermarket) (Unl).png
-728c38da1c3d696b01ec73f1e19d70c8 Soccer Kid (World) (Aftermarket) (Unl).png
-24f7ea474dfe712e164efc2146bd1204 Project Two (World) (Demo) (Aftermarket) (Unl) (Alt).png
-a02ecd51b4b393a0e5ba5c8822e7fd00 Strider (World) (Aftermarket) (Unl).png
-2201ae33356003d58847a231cde4ae49 STNICCC 2000 (World) (2018-11-21) (Demo) (Aftermarket) (Unl).png
-03d56b8de218ca3d087d7e91ac9939bd I-War (USA, Europe).png
-f3fcbd16bfbe0137a7106fd6c283c711 Doger (World) (Aftermarket) (Unl).png
-b81012b15467c9f20df1da22d47766cc HMS RaptoR (World) (Demo) (Aftermarket) (Unl).png
-a7c6899059567e91f9295f8f447fefaa Native (World) (Proto) (Aftermarket) (Unl).png
-82456527f075b2115f03cea8c6a68cb3 Syndicate (World).png
-22e40eabb1c3f1a5b49c0231c1ad4431 Assassin, The (World) (Demo 2) (Aftermarket) (Unl).png
-1771f57a72bac36c80eb5c3612df51a6 Action Fighter (World) (Aftermarket) (Unl).png
-4c12011a322d7501d7fc50f2a6a621fa Fight for Life (USA, Europe) (Beta) (1995-03-22).png
-b88b91e3041d9fc8f75b53df62f4636c Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26).png
-d4e092b6fa14d83e4ea3a2184b4eb3a1 Gryzzles (World) (Aftermarket) (Unl).png
-381fe05a6139418b6934a2b668482565 Dino Rage (World) (Proto 2) (Aftermarket) (Unl).png
-9209026b49c749e2ca7f6c823a95f89c Snowman, The (World) (Aftermarket) (Unl).png
-b61907de5fbbcf851011066c597eed9e Elansar (World) (Demo) (Aftermarket) (Unl).png
-7935855dfb18b6ab4df36c8ed148580d JagMania (World) (Aftermarket) (Unl).png
-db7f3716672f6ea1c691ab68164d050a Kobayashi Maru (World) (Aftermarket) (Unl).png
-bab692943cf8630c8efa6af47176476a Flip Out! (World).png
-4bf3ee3159cadc0f53fe707e7360b43e Bionic Commando (World) (Aftermarket) (Unl).png
-1e552bd43e035c90265d5cc788c1a310 Badlands (World) (Aftermarket) (Unl).png
-0862ca1c0ab561edf8a0bda4ba47f240 SlipStream (World) (Proto) (Aftermarket) (Unl).png
-6cf5ac0d4aec29d1c91df5c7a15e93fe Asteroids (World) (Aftermarket) (Unl).png
-b88b91e3041d9fc8f75b53df62f4636c Dragon - The Bruce Lee Story (World).png
-72a956ca7821dec4dddc88e574996685 Black Lamp (World) (Aftermarket) (Unl).png
-06392b56b3910731e60ee77b8e711e09 2048 (World) (Aftermarket) (Unl).png
-a69831dcb46cf969b243b202d06966d6 Gauntlet II (World) (Aftermarket) (Unl).png
-5983580fe547c312a9e100b0ac0b0147 Cybermorph (World) (Rev B).png
-22c1662eff049f6cdd65ce75850b313f Atari Karts (World) (Beta).png
-ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World).png
-b48719ae03ce11cc95b9df726e68d46a Shoot'em up (World) (Aftermarket) (Unl).png
-5a3e6dca79ee03a365a123fb272100f0 Martian Attack (World) (Aftermarket) (Unl).png
-1ce38ef99cff3f2a6a42d233658e9f95 Lady Bug(ged) (World) (Demo) (Aftermarket) (Unl).png
-24f7ea474dfe712e164efc2146bd1204 Project Two (World) (Demo) (Aftermarket) (Unl).png
-ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World) (Beta) (1993-08-18).png
-88576fedee12deca8104af658bd802dd Gravitic Mines (World) (Demo) (Aftermarket) (Unl).png
-9b5739490ece8992a72f47a509ed33d0 Troy Aikman NFL Football (World).png
-119db832a6d8ff8c9c2273c6fd6d1368 Mad Bodies (World) (Proto) (2009-01-17) (Aftermarket) (Unl).png
-2dba3638599537910c3191e558a0414c Midnight Resistance (World) (Aftermarket) (Unl).png
-da830ac80d624ba87f74cf8006f29449 Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13).png
-dadb6303f51fd86fae2e6e256dabbc20 Fernandez Must Die (World) (Aftermarket) (Unl).png
-7ad57b4bcee0e6e042ebc21e053ed871 Hook (World) (Aftermarket) (Unl).png
-c038f6e4f66bd2a8e2dc3c0da3fde81a Rayman (World) (Beta 1).png
-b71002379978a6a3cbe880b89c4e7d9f Jungle Jag (World) (Aftermarket) (Unl).png
-da0c2d38edd3890904b2b9a3eb855cb1 Iron Soldier (World).png
-177869204f9d671bc7c59e4e1c094681 Super Burnout (World).png
-8efe938ca084478dd66748b819c29001 Flying Shark (World) (Aftermarket) (Unl).png
-71cbd81e8315a7214527c89086965ad3 Bubsy in Fractured Furry Tales (World).png
-1ed7c5b79ccda3ececb6b920cd20c029 Slam Racer (World) (Proto 2) (Aftermarket) (Unl).png
-1b1378d95f8bea730ec3cc8cb0c4255c Arena Football '95 (World) (Aftermarket) (Unl).png
-fcfbbdc271703d0ba09e67cb937d9d1a NBA Jam - Tournament Edition (USA, Europe).png
-a6c55e3628d7bfdd06bfd241dde724b2 Gem Race (World) (Aftermarket) (Unl) (Alt).png
-d44faef07f5215db74ebf99ca853ba18 Jagmatch (World) (Aftermarket) (Unl).png
-9643c83c0b59c4e4aa2a207f6827c590 Barbarian (World) (AMIGA) (Aftermarket) (Unl).png
-da830ac80d624ba87f74cf8006f29449 Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04).png
-12de6e58075f69769f4012acf94bc0e4 Teenage Mutant Hero Turtles (World) (Aftermarket) (Unl).png
-8008c3ca53a7f5e8e80f348d188732af Virtual VCS (USA) (Proto).png
-a1c3e134517774246077b37efdf7658e Duckie Egg (World) (Aftermarket) (Unl).png
-d511211ec5e1538eb9ccda184d2e1824 Blackhole (World) (Proto) (Aftermarket) (Unl).png
-b19c9eaa9282bec7f82772f4e216b8af Zool 2 (World).png
-b80c9750b927e03769b9bc6ed370853b Hyper Force (World) (Aftermarket) (Unl).png
-f6b9c2fc8f2dfe5b705f89a5f3ee1d80 Project One (World) (Demo) (Aftermarket) (Unl).png
-3471a05d1c717e03558f24b88941cb23 Hover Strike (World).png
-ed142b559390dd18723bcbfcf0344519 Bad Apple (World) (Monochrome Version) (Aftermarket) (Unl).png
-713da3cfacbe941483850293a69d7490 Barkley Shut Up and Jam (USA) (Beta).png
-290fa1ed64b278663904190b66cc3970 Thea Realm Fighters (USA) (Proto 1).png
-71bbf6c5129bc03112daf3adaeb8def5 Half Circle - 8biteer (World) (Aftermarket) (Unl).png
-00b1e977b622201d1c7a51f47001b96f Tube2020 (World) (RC2) (Aftermarket) (Unl).png
-27dbf0672f8b28e4e2aba66620ef701f Space War 2000 (World) (Aftermarket) (Unl).png
-516eec7b15790792d3ea9ebe1fdc741b Trevor McFur in the Crescent Galaxy (World) (Beta).png
-68bafe4aaaac77b8cd391128ca4eb8a5 Black Jag - Hyper Power League (World) (v1.01) (Demo) (Aftermarket) (Unl).png
-4defbc83c6a8c44a4234c386e418072e Ninja Mission (World) (Aftermarket) (Unl).png
-e7df1ebe5191c76444b1470adf90ac36 Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Aftermarket) (Unl).png
-80b5f4c34d4361042989837a1199e026 Zoop (USA, Europe).png
-5b00e8f94d48e1b5b4d1782b80e10fb6 Zero 5 (World) (Aftermarket) (Unl).png
-1e08d502bcf780bf35abc2422a7b80fe Expressway (World) (Aftermarket) (Unl).png
-516eec7b15790792d3ea9ebe1fdc741b Trevor McFur in the Crescent Galaxy (World).png
-68bafe4aaaac77b8cd391128ca4eb8a5 Black Jag - Hyper Power League (World) (v1.03) (Demo) (Aftermarket) (Unl).png
-3d5839dab45ba801fdbde70adb3a27bd Fallen Angels (World) (Aftermarket) (Unl).png
-8414e0bd9b6059fd74ad42948d4c47b3 Ultra Vortex (World) (Beta) (1995-03-20).png
-5b00e8f94d48e1b5b4d1782b80e10fb6 Zero 5 (USA) (Beta).png
-f007e222005d4b20cf9fbf3344105546 Wolfenstein 3D (World).png
-f0d578d990867e79a1d3b50f3bde0c10 Rings (World) (RC3) (Aftermarket) (Unl).png
-4ba612a17cbbb511861006485cf47c55 Fever Pitch Soccer (World) (En,Fr,De,Es,It).png
-b3c8f8bbed118bd46276050a0e09087b Defender 2000 (World) (Beta).png
-af1fa27fe58e1bf6defd6095c1f7241e Outrun (World) (v1.1) (Aftermarket) (Unl).png
-03034a9f39068cc4d07d765ccf9122a5 Brett Hull Hockey (World) (Aftermarket) (Unl).png
-c4565b29965f8878c000884b16292ccf Star Wars (World) (Aftermarket) (Unl).png
-363bf8e947064925ca59d57c703bcf03 Breakout 2000 (USA, Europe) (Beta).png
-b81012b15467c9f20df1da22d47766cc HMS RaptoR (World) (v1.1) (U-235) (Aftermarket) (Unl).png
 7685e19c26ef06d1704390c85a0d7d57 Val d'Isere Skiing and Snowboarding (World).png
-0cab03d9aedf0e471fcdb6100a6c4d8d Dark Guardian Episode 1 - Unknown Enemy (World) (Proto) (Aftermarket) (Unl).png
-4053a9d33e61664a5d25f5b7cb553f8b Klax (World) (Aftermarket) (Unl).png
-e1907b27dd61ae047fbbb81ff20960d4 Raiden (World) (Rev A).png
-8414e0bd9b6059fd74ad42948d4c47b3 Ultra Vortek (World).png
-4730c00c6635720c6426c79ae175f568 Protector (World) (Aftermarket) (Unl).png
-5983580fe547c312a9e100b0ac0b0147 Cybermorph (World) (Beta) (1993-08-23).png
-2201ae33356003d58847a231cde4ae49 STNICCC 2000 (2nd) (World) (2022-06-01) (Demo) (Aftermarket) (Unl).png
-5e59a18b8a3bb5f762cf40448b2b8346 Kasumi Ninja (World) (v0.01) (Beta).png
-a358f140ea98404f66fe6d8b7eedeede Zzyorxx II (USA) (Demo).png
-2201ae33356003d58847a231cde4ae49 STNICCC 2000 (2nd) (World) (2022-05-31) (Demo) (Aftermarket) (Unl).png
-9f03704e2caafd27cd768d0e9329359d Skyhammer (World) (Aftermarket) (Unl).png
-ca0decb903de523acc361a8782972f30 Fantasy World Dizzy (World) (Aftermarket) (Unl) (Alt).png
-5cfd2f943367a95ebfd07eda6b324b77 Brutal Sports Football (World).png
-e1907b27dd61ae047fbbb81ff20960d4 Raiden (World).png
-132d35768665ad764708cdc49dd21a65 Operation Thunderbolt (World) (Aftermarket) (Unl).png
-3a2090d3c0f7539bad76654d4d35ed9f Theme Park (World).png
-8a1c73304c41baf36dbc2d13101759bb ScatoLOGIC Music Engine Demo (World) (Demo) (Aftermarket) (Unl).png
-da830ac80d624ba87f74cf8006f29449 Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16).png
+197e230d7bc7b36fe53b5b4d4aa5233b SuperFly DX (World) (v1.1) (Aftermarket) (Unl).png
+a69831dcb46cf969b243b202d06966d6 Gauntlet II (World) (Aftermarket) (Unl).png
+b186b777ce218ac5686d3e0796616432 Atomic (World) (Aftermarket) (Unl).png
+560e9e53ab9adb226a81534b5d1b77f5 Atomic Reloaded (World) (Aftermarket) (Unl).png
+ed142b559390dd18723bcbfcf0344519 Bad Apple (World) (Monochrome Version) (Aftermarket) (Unl).png
 2b6f69e0aa9e86b9fe135e99cf9ce508 Downfall (World) (Aftermarket) (Unl).png
-6923933dc9e2749c7443672569824be6 Pinball Fantasies (World).png
-35815608d12f52ff8f728386938a422a Escape from the Planet of the Robot Monsters (World) (Aftermarket) (Unl).png
-d6e7eac6bede477be62df0266980d997 Abyss (World) (v0.74) (Proto) (Aftermarket) (Unl).png
-a4630fccfce7823198b339e2bb2054e1 Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Unl).png
-a93c6cbedcb3897e5e60e21b9aef4e80 Evolution - Dino Dudes (World).png
-5a3e6dca79ee03a365a123fb272100f0 Martian Attack (World) (JagCode 2007) (Aftermarket) (Unl).png
-f59005d078f633a8b1be718ee87a0500 Do the Same (World) (Aftermarket) (Unl).png
-22942651cd8a382592cad66eb19b1017 Tiny Toon Adventures (USA) (Proto).png
-f5c58cc713dda3b12aaa2947ba9c8e3d Aircars (USA) (Beta) (1994-11-14).png
-9643c83c0b59c4e4aa2a207f6827c590 Barbarian (World) (Atari ST) (Aftermarket) (Unl).png
-65882817441bc6dba0dfa1fe74588956 Dance Dance Xirius - Space Party (World) (Aftermarket) (Unl).png
-4730c00c6635720c6426c79ae175f568 Protector - Special Edition (World) (Aftermarket) (Unl).png
-68bafe4aaaac77b8cd391128ca4eb8a5 Black Jag - Hyper Power League (World) (v1.02) (Demo) (Aftermarket) (Unl).png
-5eb7845c604de9f2a18801f480efb71a Diam Jag (World) (Aftermarket) (Unl).png
-2bfc510adcf07c0add40bcdc4f8b4292 Ruiner Pinball (USA, Europe).png
-c038f6e4f66bd2a8e2dc3c0da3fde81a Rayman (World).png
-22e40eabb1c3f1a5b49c0231c1ad4431 Assassin, The (World) (Demo 1) (Aftermarket) (Unl).png
-c496749029379e33bfaf708dca3a3d29 Attack of the Mutant Penguins (World).png
-2201ae33356003d58847a231cde4ae49 STNICCC 2000 (World) (2018-11-20) (Demo) (Aftermarket) (Unl).png
-516eec7b15790792d3ea9ebe1fdc741b Trevor McFur in the Crescent Galaxy (World) (Rev A).png
-ca0decb903de523acc361a8782972f30 Fantasy World Dizzy (World) (Aftermarket) (Unl).png
+6c582234c565c05dd01499d96ed984c1 Tempest 2000 (World).png
+5c7e944aff33fe45d1d7cecfcd7121ec Rick Dangerous 2 (World) (Aftermarket) (Unl).png
+1b1378d95f8bea730ec3cc8cb0c4255c Arena Football '95 (World) (Aftermarket) (Unl).png
+4053a9d33e61664a5d25f5b7cb553f8b Klax (World) (Aftermarket) (Unl).png
+6ab5bcd1e1d94ae4e2ee9b47d66fed89 Jumping at Shadows (World) (Demo) (Portland Retro Gaming Expo 2022) (Aftermarket) (Unl).png
+22e40eabb1c3f1a5b49c0231c1ad4431 Assassin, The (World) (Demo 2) (Aftermarket) (Unl).png
 a78a93eafa52eba681621f6d9de1eec3 R-Type II (World) (Aftermarket) (Unl).png
-ee529e736236ab26bb276d65dee980ac Club Drive (World).png
-c3c8e495b63e8c49ed23c814034a94ab Clicks! (World) (Aftermarket) (Unl).png
-fdb754d31eb058e47a341039d66fe9e0 JagZombies (World) (2017-11-18) (Demo) (Aftermarket) (Unl).png
-b88b91e3041d9fc8f75b53df62f4636c Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06).png
-950a5809b52372aef7450d9e150984c4 Degz (World) (Aftermarket) (Unl).png
-ece9b22b47d3ae09903652abf712839d Golden Axe (World) (AMIGA) (Aftermarket) (Unl).png
-aa70bca3e200925111cff37bb26158ac Moon Patrol (World) (Aftermarket) (Unl).png
-c3765e24a2b3cf1822b0668e184bb0ca Solomon's Key (World) (Aftermarket) (Unl).png
-829c23dd74cee4b68e76f7aab2afae82 Beast Busters (World) (Aftermarket) (Unl).png
-6542d4a9070ac036914b49c008a3683a Alien Syndrome (World) (Aftermarket) (Unl).png
-aec747b4416835ede18393401aae5991 Power Drive Rally (World).png
-632e7db5689c3d4f677e8ca42235e669 Checkered Flag (World) (Beta) (CES 1993).png
-ece9b22b47d3ae09903652abf712839d Golden Axe (World) (Atari ST) (Aftermarket) (Unl).png
-2201ae33356003d58847a231cde4ae49 STNICCC 2000 (2nd) (World) (2022-06-08) (Demo) (Aftermarket) (Unl).png
-68675adeb638d553bb28a2c4afad16ce Towers II - Plight of the Stargazer (USA, Europe).png
-381fe05a6139418b6934a2b668482565 Dino Rage (World) (Proto 1) (Jungle) (Aftermarket) (Unl).png
-2265caa0428ed3a052cfee1471ea37a2 Mr. Heli (World) (Aftermarket) (Unl).png
-5920b6ecb2957afe65bd315d96f84126 Last Strike (World) (Demo) (Aftermarket) (Unl).png
+0caca301af1e0eeb17848cc1e25a5f14 Doom 2 (World) (AC 98) (E-JagFest 2010) (Aftermarket) (Unl).png
+1e08d502bcf780bf35abc2422a7b80fe Expressway (World) (Aftermarket) (Unl).png
+f0d578d990867e79a1d3b50f3bde0c10 Rings (World) (RC3) (Aftermarket) (Unl).png
+ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World) (v0.93) (Beta) (1994-04-08).png
+03d56b8de218ca3d087d7e91ac9939bd I-War (USA, Europe).png
 ab1c9932908a8cb83b0e3d7b8369733a Cybernoid - The Fighting Machine (World) (Aftermarket) (Unl).png
-22c1662eff049f6cdd65ce75850b313f Atari Karts (World).png
-6d0ab40b21a0db97a526065e46811cf4 Supercross 3D (USA, Europe).png
-a5a43e10301eed215ce8bcd7724c54d3 Battle Sphere (World) (Aftermarket) (Unl).png
-2555fa173fc02fa418ac31fa297be5f3 Ultimate Brain Games (USA) (Proto).png
-1c8ee9df05fbc9ef9672ecd26c60652c Rampage (World) (Aftermarket) (Unl).png
-ea1b237ab7310f8f45904df514d06cb8 Total Carnage (World) (Aftermarket) (Unl).png
-2424ce4d004327b33de94b0fa0e92fbd Flashback - The Quest for Identity (World) (En,Fr).png
-4c12011a322d7501d7fc50f2a6a621fa Fight for Life (USA, Europe) (Beta) (1995-09-07).png
-8b8443c58f591719a013d35bed6150ab Worms (World) (Aftermarket) (Unl).png
-ae9d4ecd31f8d212c8e89fb5b743e5ad Rocks Off! (World) (Aftermarket) (Unl).png
-4806c599824edb34516fecd521bf6129 HalMock FurBall - Sink or Swim (World) (Demo) (Aftermarket) (Unl).png
-41272a88ff5ef7b6392e47509d01be2a Boingy (World) (Demo 3) (Aftermarket) (Unl).png
+27dbf0672f8b28e4e2aba66620ef701f Space War 2000 (World) (Aftermarket) (Unl).png
+f9f94c4106e3f9b56357f4034b5331b3 Cybernoid II - The Revenge (World) (Aftermarket) (Unl).png
+a358f140ea98404f66fe6d8b7eedeede Zzyorxx II (USA) (Demo).png
+3ee668f9d82226051eebdb43d903e15e Jetpac (World) (Aftermarket) (Unl).png
 132d35768665ad764708cdc49dd21a65 Operation Thunderbolt (World) (v1.1) (Aftermarket) (Unl).png
-b3c8f8bbed118bd46276050a0e09087b Defender 2000 (World).png
-5e59a18b8a3bb5f762cf40448b2b8346 Kasumi Ninja (World).png
-290fa1ed64b278663904190b66cc3970 Thea Realm Fighters (USA) (Proto 2).png
-5e59a18b8a3bb5f762cf40448b2b8346 Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24).png
-4ee9e9a682bee6e67810c3738edc8b93 1943 (World) (Aftermarket) (Unl).png
-45968c64af9c3ef1abe324f17f90aed3 Doom (World).png
-0d8a6a58948900fc57968f589fbe0a6f Biopede (World) (v1.3) (Aftermarket) (Unl).png
-fdb754d31eb058e47a341039d66fe9e0 JagZombies (World) (2017-11-11) (Demo) (Aftermarket) (Unl).png
-2345032aca060d91c02cb8e2b41a317d Dragon Breed (World) (Aftermarket) (Unl).png
-c1fb028c00821e58a1abbe3f62875b5b Classic Kong Complete (World) (Aftermarket) (Unl).png
+381fe05a6139418b6934a2b668482565 Dino Rage (World) (Proto 1) (Jungle) (Aftermarket) (Unl).png
+b88b91e3041d9fc8f75b53df62f4636c Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06).png
+2555fa173fc02fa418ac31fa297be5f3 Ultimate Brain Games (USA) (Proto).png
+1771f57a72bac36c80eb5c3612df51a6 Action Fighter (World) (Aftermarket) (Unl).png
+c038f6e4f66bd2a8e2dc3c0da3fde81a Rayman (World) (Beta 1).png
+c496749029379e33bfaf708dca3a3d29 Attack of the Mutant Penguins (World).png
+5b00e8f94d48e1b5b4d1782b80e10fb6 Zero 5 (World) (Aftermarket) (Unl).png
 0caca301af1e0eeb17848cc1e25a5f14 Doom 2 (World) (AC 2011) (Aftermarket) (Unl).png
-d5412b5a52b0d0a79d6be0b562ad08e4 Frogger (World) (Demo) (Aftermarket) (Unl).png
-2fc1787a1689d2fb5d92de5e80ec86d1 Bubble Bobble (World) (Aftermarket) (Unl).png
-db1a1feeb9113df66e7ada8f9ba50a79 Star Wars - Return of the Jedi (World) (Aftermarket) (Unl).png
-31015fdcf4733bc4d87641c63b90326d S.p.a.c.e. (World) (Demo 2) (Aftermarket) (Unl).png
-e8c22be657e94a9779eefeb5dbfa9eb1 Maxx, The (World) (Demo) (Aftermarket) (Unl).png
-233c14cccc21335ea32abf501825aacf Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl).png
-41272a88ff5ef7b6392e47509d01be2a Boingy (World) (Demo 2) (Aftermarket) (Unl).png
-1079c340edd59039e6ef8489933dab6e Frog Feast (World) (Aftermarket) (Unl).png
-c038f6e4f66bd2a8e2dc3c0da3fde81a Rayman (World) (Beta 2).png
-db7f3716672f6ea1c691ab68164d050a Kobayashi Maru Final (World) (Digital) (Aftermarket) (Unl).png
+3471a05d1c717e03558f24b88941cb23 Hover Strike (World).png
+4730c00c6635720c6426c79ae175f568 Protector (World) (Aftermarket) (Unl).png
+b88b91e3041d9fc8f75b53df62f4636c Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26).png
+4defbc83c6a8c44a4234c386e418072e Ninja Mission (World) (Aftermarket) (Unl).png
+d9525b7cdf027f9f65291ada88753878 Jalaga (World) (GemTos 2023) (Aftermarket) (Unl).png
+dadb6303f51fd86fae2e6e256dabbc20 Fernandez Must Die (World) (Aftermarket) (Unl).png
+9bc4ab14ac49fa2a7d9b4696fb50669c Beach Volley (World) (Aftermarket) (Unl).png
+5983580fe547c312a9e100b0ac0b0147 Cybermorph (World) (Rev B).png
+31015fdcf4733bc4d87641c63b90326d S.p.a.c.e. (World) (Demo 1) (Aftermarket) (Unl).png
+1079c340edd59039e6ef8489933dab6e Frog Feast (World) (Demo) (Aftermarket) (Unl).png
+c1fb028c00821e58a1abbe3f62875b5b Classic Kong Complete (World) (Aftermarket) (Unl).png
+aec747b4416835ede18393401aae5991 Power Drive Rally (World).png
+db7f3716672f6ea1c691ab68164d050a Kobayashi Maru (World) (Aftermarket) (Unl).png
+5a3e6dca79ee03a365a123fb272100f0 Martian Attack (World) (JagCode 2007) (Aftermarket) (Unl).png
+b48719ae03ce11cc95b9df726e68d46a Shoot'em up (World) (Aftermarket) (Unl).png
 04897f65f1995aeab5157c8ee33e411f Missile Command 3D (World).png
+132d35768665ad764708cdc49dd21a65 Operation Thunderbolt (World) (Aftermarket) (Unl).png
+f6b9c2fc8f2dfe5b705f89a5f3ee1d80 Project One (World) (Demo) (Aftermarket) (Unl).png
+5983580fe547c312a9e100b0ac0b0147 Cybermorph (World) (Beta) (1993-08-23).png
+8414e0bd9b6059fd74ad42948d4c47b3 Ultra Vortex (World) (Beta) (1995-03-20).png
+2345032aca060d91c02cb8e2b41a317d Dragon Breed (World) (Aftermarket) (Unl).png
+c3765e24a2b3cf1822b0668e184bb0ca Solomon's Key (World) (Aftermarket) (Unl).png
+07da5b2de3d9c861e2ccf1a9b9aa458b Quest, The (World) (Aftermarket) (Unl).png
+22c1662eff049f6cdd65ce75850b313f Atari Karts (World).png
+950a5809b52372aef7450d9e150984c4 Degz (World) (Aftermarket) (Unl).png
+71bbf6c5129bc03112daf3adaeb8def5 Half Circle - 8biteer (World) (Aftermarket) (Unl).png
+829c23dd74cee4b68e76f7aab2afae82 Beast Busters (World) (Aftermarket) (Unl).png
+5920b6ecb2957afe65bd315d96f84126 Last Strike (World) (Demo) (Aftermarket) (Unl).png
+9f03704e2caafd27cd768d0e9329359d Skyhammer (World) (Aftermarket) (Unl).png
+db1a1feeb9113df66e7ada8f9ba50a79 Star Wars - Return of the Jedi (World) (Aftermarket) (Unl).png
+22c1662eff049f6cdd65ce75850b313f Atari Karts (World) (Beta).png
+ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World) (Beta) (1993-08-18).png
+381fe05a6139418b6934a2b668482565 Dino Rage (World) (Proto 1) (Grid) (Aftermarket) (Unl).png
+f007e222005d4b20cf9fbf3344105546 Wolfenstein 3D (World).png
+03034a9f39068cc4d07d765ccf9122a5 Brett Hull Hockey (World) (Aftermarket) (Unl).png
+1079c340edd59039e6ef8489933dab6e Frog Feast (World) (Aftermarket) (Unl).png
+b1518356155dd45ee64f2dcc73a1ba11 Star Wars - The Empire Strikes Back (World) (Aftermarket) (Unl).png
+88576fedee12deca8104af658bd802dd Gravitic Mines (World) (Demo) (Aftermarket) (Unl).png
+1e552bd43e035c90265d5cc788c1a310 Badlands (World) (Aftermarket) (Unl).png
+64a22860a93e43b3591f6eaaeb11f887 Joust (World) (Aftermarket) (Unl).png
+a7c6899059567e91f9295f8f447fefaa Native (World) (Proto) (Aftermarket) (Unl).png
+7330e5eeb0eee2c656737d32ce6e2283 Caribean Tavern (World) (Proto) (GemTos 2023) (Aftermarket) (Unl).png
+45968c64af9c3ef1abe324f17f90aed3 Doom (World).png
+516eec7b15790792d3ea9ebe1fdc741b Trevor McFur in the Crescent Galaxy (World) (Beta).png
+029efebdbfe192bf5fb7aa2acc0f35ec OSMOZYS (World) (Demo) (Aftermarket) (Unl).png
+dd3b4f8c48fbcdfc078d65eb8db2f90f Arkanoid - Revenge of DoH (World) (Aftermarket) (Unl).png
+3d5839dab45ba801fdbde70adb3a27bd Fallen Angels (World) (Aftermarket) (Unl) (Alt).png
+68bafe4aaaac77b8cd391128ca4eb8a5 Black Jag - Hyper Power League (World) (v1.01) (Demo) (Aftermarket) (Unl).png
+b3c8f8bbed118bd46276050a0e09087b Defender 2000 (World).png
+4ee9e9a682bee6e67810c3738edc8b93 1943 (World) (Aftermarket) (Unl).png
+632e7db5689c3d4f677e8ca42235e669 Checkered Flag (World) (Beta) (CES 1993).png
+dbe83d6d2cf6625d9c8cc8a97e7b63c8 Dazed VS (World) (Demo) (Aftermarket) (Unl).png
+8414e0bd9b6059fd74ad42948d4c47b3 Ultra Vortek (World).png
+713da3cfacbe941483850293a69d7490 Barkley Shut Up and Jam (USA) (Beta).png
+b80c9750b927e03769b9bc6ed370853b Hyper Force (World) (Aftermarket) (Unl).png
+24f7ea474dfe712e164efc2146bd1204 Project Two (World) (Demo) (Aftermarket) (Unl).png
+ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World).png
+fdb754d31eb058e47a341039d66fe9e0 JagZombies (World) (2017-11-11) (Demo) (Aftermarket) (Unl).png
+eaca169b6028287b865a06b63ecde09b Beebris (World) (Aftermarket) (Unl).png
+381fe05a6139418b6934a2b668482565 Dino Rage (World) (Proto 2) (Aftermarket) (Unl).png
+36c100fd4b7f998d31b46c32953fe56a R-Type (World) (Aftermarket) (Unl).png
+06392b56b3910731e60ee77b8e711e09 2048 (World) (Aftermarket) (Unl).png
+d4e092b6fa14d83e4ea3a2184b4eb3a1 Gryzzles (World) (Aftermarket) (Unl).png
+3bacf0ea1f9601f4e4e25ad2318ec22a SkyCopter II (USA) (Proto).png
+a02ecd51b4b393a0e5ba5c8822e7fd00 Strider (World) (Aftermarket) (Unl).png
+f59005d078f633a8b1be718ee87a0500 Do the Same (World) (Aftermarket) (Unl).png
+5b00e8f94d48e1b5b4d1782b80e10fb6 Zero 5 (USA) (Beta).png
+2201ae33356003d58847a231cde4ae49 STNICCC 2000 (2nd) (World) (2022-06-08) (Demo) (Aftermarket) (Unl).png
+2201ae33356003d58847a231cde4ae49 STNICCC 2000 (2nd) (World) (2022-06-01) (Demo) (Aftermarket) (Unl).png
+22e40eabb1c3f1a5b49c0231c1ad4431 Assassin, The (World) (Demo 1) (Aftermarket) (Unl).png
+abf2ecbf99b643716b207d9fb2b6f57d Ghouls'n Ghosts (World) (Aftermarket) (Unl).png
+2424ce4d004327b33de94b0fa0e92fbd Flashback - The Quest for Identity (World) (En,Fr).png
+5cfd2f943367a95ebfd07eda6b324b77 Brutal Sports Football (World).png
+82456527f075b2115f03cea8c6a68cb3 Syndicate (World).png
+b81012b15467c9f20df1da22d47766cc HMS RaptoR (World) (Demo) (Aftermarket) (Unl).png
+82ee81b07ce06910e766103dff3914e0 Speedster II (USA) (Proto).png
+5e59a18b8a3bb5f762cf40448b2b8346 Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24).png
+71cbd81e8315a7214527c89086965ad3 Bubsy in Fractured Furry Tales (World).png
+31015fdcf4733bc4d87641c63b90326d S.p.a.c.e. (World) (Demo 2) (Aftermarket) (Unl).png
+72a956ca7821dec4dddc88e574996685 Black Lamp (World) (Aftermarket) (Unl).png
+599c1a247c8aafe98282b989e1202d0c Missile Command VR (World) (Beta) (1995-07-05).png
+41272a88ff5ef7b6392e47509d01be2a Boingy (World) (Demo 1) (Aftermarket) (Unl).png
+a6c55e3628d7bfdd06bfd241dde724b2 Gem Race (World) (Aftermarket) (Unl).png
+a4630fccfce7823198b339e2bb2054e1 Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Unl).png
+f5c58cc713dda3b12aaa2947ba9c8e3d Aircars (World) (Aftermarket) (Unl).png
+2ff12321ea0bb5f9f671cd0db8a503f6 Phase Zero (World) (Aftermarket) (Unl).png
+07ed784c81125e4c509cfa902b00d5db Jumping Jack (World) (Demo) (Aftermarket) (Unl).png
+5775648bbb53889e304bb7d6cf246d7d Cannon Fodder (World).png
+68bafe4aaaac77b8cd391128ca4eb8a5 Black Jag - Hyper Power League (World) (v1.03) (Demo) (Aftermarket) (Unl).png
+da830ac80d624ba87f74cf8006f29449 Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16).png
+632e7db5689c3d4f677e8ca42235e669 Checkered Flag (World).png
+a5a43e10301eed215ce8bcd7724c54d3 Battle Sphere (World) (Aftermarket) (Unl).png
+b0f576a062fce8479b96491fc8b6c48e Block'em Sock'em (World) (Digital) (Aftermarket) (Unl).png
+d5412b5a52b0d0a79d6be0b562ad08e4 Frogger (World) (Demo) (Aftermarket) (Unl).png
+9643c83c0b59c4e4aa2a207f6827c590 Barbarian (World) (Atari ST) (Aftermarket) (Unl).png
+ea1b237ab7310f8f45904df514d06cb8 Total Carnage (World) (Aftermarket) (Unl).png
+ee529e736236ab26bb276d65dee980ac Club Drive (World).png
+7935855dfb18b6ab4df36c8ed148580d JagMania (World) (Aftermarket) (Unl).png
+68675adeb638d553bb28a2c4afad16ce Towers II - Plight of the Stargazer (USA, Europe).png
+233c14cccc21335ea32abf501825aacf Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl).png
+46e7c6dae164a3303d8fd3dcda052673 JagWorm (World) (Proto) (Aftermarket) (Unl).png
+3d5839dab45ba801fdbde70adb3a27bd Fallen Angels (World) (Aftermarket) (Unl).png
+c4565b29965f8878c000884b16292ccf Star Wars (World) (Aftermarket) (Unl).png
+2265caa0428ed3a052cfee1471ea37a2 Mr. Heli (World) (Aftermarket) (Unl).png
+41272a88ff5ef7b6392e47509d01be2a Boingy (World) (Demo 2) (Aftermarket) (Unl).png
+2d3b9a7a05ec45d5d889e0a4f48d3c65 Passing Shot (World) (Aftermarket) (Unl).png
+fc947ef90f9f152ae31f31cc606d92ca Project W (World) (Demo) (Aftermarket) (Unl).png
+4ba612a17cbbb511861006485cf47c55 Fever Pitch Soccer (World) (En,Fr,De,Es,It).png
+ae9d4ecd31f8d212c8e89fb5b743e5ad Rocks Off! (World) (Aftermarket) (Unl).png
+5a3e6dca79ee03a365a123fb272100f0 Martian Attack (World) (Aftermarket) (Unl).png
+8a1c73304c41baf36dbc2d13101759bb ScatoLOGIC Music Engine Demo (World) (Demo) (Aftermarket) (Unl).png
+f582500852de2a5a2554fc1a833f332f Abbaye des Morts, L' (World) (Demo) (Aftermarket) (Unl).png
+119db832a6d8ff8c9c2273c6fd6d1368 Mad Bodies (World) (Proto) (2009-01-17) (Aftermarket) (Unl).png
+f5c58cc713dda3b12aaa2947ba9c8e3d Aircars (USA) (Beta) (1994-11-14).png
+4c12011a322d7501d7fc50f2a6a621fa Fight for Life (USA, Europe) (Beta) (1995-03-22).png
+a6c55e3628d7bfdd06bfd241dde724b2 Gem Race (World) (Aftermarket) (Unl) (Alt).png
+4730c00c6635720c6426c79ae175f568 Protector - Special Edition (World) (Aftermarket) (Unl).png
+12de6e58075f69769f4012acf94bc0e4 Teenage Mutant Hero Turtles (World) (Aftermarket) (Unl).png
+1ed7c5b79ccda3ececb6b920cd20c029 Slam Racer (World) (Proto 2) (Aftermarket) (Unl).png
+b54dee4e79c4aae118724f529490c3c9 International Sensible Soccer (World).png
+ed18d5c09a64f731c7fe13bbbb81f4ff Alien vs Predator (World) (Beta) (1993-10-13).png
+8efe938ca084478dd66748b819c29001 Flying Shark (World) (Aftermarket) (Unl).png
+2201ae33356003d58847a231cde4ae49 STNICCC 2000 (World) (2018-11-21) (Demo) (Aftermarket) (Unl).png
+290fa1ed64b278663904190b66cc3970 Thea Realm Fighters (USA) (Proto 2).png
+e7df1ebe5191c76444b1470adf90ac36 Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Aftermarket) (Unl).png
+516eec7b15790792d3ea9ebe1fdc741b Trevor McFur in the Crescent Galaxy (World).png
+bab692943cf8630c8efa6af47176476a Flip Out! (World).png
+516eec7b15790792d3ea9ebe1fdc741b Trevor McFur in the Crescent Galaxy (World) (Rev A).png
+4c12011a322d7501d7fc50f2a6a621fa Fight for Life (USA, Europe).png
+6d0ab40b21a0db97a526065e46811cf4 Supercross 3D (USA, Europe).png
+5e59a18b8a3bb5f762cf40448b2b8346 Kasumi Ninja (World).png
+a7d7a5238b66c0ccbd415d80094df855 Shoot'em up 3D (World) (Demo) (Aftermarket) (Unl).png
+6923933dc9e2749c7443672569824be6 Pinball Fantasies (World).png
+1c8ee9df05fbc9ef9672ecd26c60652c Rampage (World) (Aftermarket) (Unl).png
+da830ac80d624ba87f74cf8006f29449 Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04).png
+b38899e4937ec7ab49aa349202b39f8b Bad Apple (World) (Color Version) (Aftermarket) (Unl).png
+ca0decb903de523acc361a8782972f30 Fantasy World Dizzy (World) (Aftermarket) (Unl).png
+2bfc510adcf07c0add40bcdc4f8b4292 Ruiner Pinball (USA, Europe).png
+d44faef07f5215db74ebf99ca853ba18 Jagmatch (World) (Aftermarket) (Unl).png
+0d8a6a58948900fc57968f589fbe0a6f Biopede (World) (v1.3) (Aftermarket) (Unl).png
+e4bbc8ec0ed334c679fd77a7f2671d6e Rick Dangerous (World) (Aftermarket) (Unl).png
+5785e7346604db4b26895eef6949c1bd Orion_'s Jaguar Collection (World) (Aftermarket) (Unl).png
+cc87e9fca5eecd87f9b69f7edc1b1b10 Tube2020 (World) (RC1) (Aftermarket) (Unl).png
+363bf8e947064925ca59d57c703bcf03 Breakout 2000 (USA, Europe) (Beta).png
+e8c22be657e94a9779eefeb5dbfa9eb1 Maxx, The (World) (Demo) (Aftermarket) (Unl).png
+2201ae33356003d58847a231cde4ae49 STNICCC 2000 (World) (2018-11-20) (Demo) (Aftermarket) (Unl).png
+fdb754d31eb058e47a341039d66fe9e0 JagZombies (World) (2017-11-18) (Demo) (Aftermarket) (Unl).png
+da830ac80d624ba87f74cf8006f29449 Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13).png
+a5f154b435ce28f762d7d95f6c8359c0 uFly (World) (v0.991) (Demo) (Aftermarket) (Unl).png
+c68bf718582914faeff720d20bb6cbc6 Double Dragon V - The Shadow Falls (World).png
+81eff3328d33fd1249bf6c974b876d60 Tube (World) (Aftermarket) (Unl).png
+6542d4a9070ac036914b49c008a3683a Alien Syndrome (World) (Aftermarket) (Unl).png
+3a2090d3c0f7539bad76654d4d35ed9f Theme Park (World).png
+d6e7eac6bede477be62df0266980d997 Abyss (World) (v0.74) (Proto) (Aftermarket) (Unl).png
+7ad57b4bcee0e6e042ebc21e053ed871 Hook (World) (Aftermarket) (Unl).png
+354abf2b0d41482245c6024717806059 Jet Set Willy (World) (Aftermarket) (Unl).png
+cb1482acbabea3b539d0a4151b2c72e7 Darius+ (World) (Aftermarket) (Unl).png
+db7f3716672f6ea1c691ab68164d050a Kobayashi Maru Final (World) (Digital) (Aftermarket) (Unl).png
+4806c599824edb34516fecd521bf6129 HalMock FurBall - Sink or Swim (World) (Demo) (Aftermarket) (Unl).png
+bac115aa52cdee99a3a5f32b0f937e0b Not Outrun (World) (Demo) (Aftermarket) (Unl).png
+65fb634cdf46d8d2954be31e0dd85663 Fast Food 64 (World) (v1.4b) (Aftermarket) (Unl).png
+4bf3ee3159cadc0f53fe707e7360b43e Bionic Commando (World) (Aftermarket) (Unl).png
+2fc1787a1689d2fb5d92de5e80ec86d1 Bubble Bobble (World) (Aftermarket) (Unl).png
+9b5739490ece8992a72f47a509ed33d0 Troy Aikman NFL Football (World).png
+f3fcbd16bfbe0137a7106fd6c283c711 Doger (World) (Aftermarket) (Unl).png
+713da3cfacbe941483850293a69d7490 Barkley Shut Up and Jam (World) (Aftermarket) (Unl).png
+6702b026f709b2e982d5309a77a71970 Stunt Car Racer (World) (Aftermarket) (Unl).png
+fcfbbdc271703d0ba09e67cb937d9d1a NBA Jam - Tournament Edition (USA, Europe).png
+b3c8f8bbed118bd46276050a0e09087b Defender 2000 (World) (Beta).png
+290fa1ed64b278663904190b66cc3970 Thea Realm Fighters (USA) (Proto 1).png
+41272a88ff5ef7b6392e47509d01be2a Boingy (World) (Demo 3) (Aftermarket) (Unl).png
+03d56b8de218ca3d087d7e91ac9939bd I-War (USA, Europe) (Beta) (1995-10-20).png
+197e230d7bc7b36fe53b5b4d4aa5233b SuperFly DX (World) (Aftermarket) (Unl).png
+dd88ec99b6f1b187fd2e1f3b76f56422 Arkanna (World) (Demo) (Aftermarket) (Unl).png
+ca0decb903de523acc361a8782972f30 Fantasy World Dizzy (World) (Aftermarket) (Unl) (Alt).png
+1ce38ef99cff3f2a6a42d233658e9f95 Lady Bug(ged) (World) (Demo) (Aftermarket) (Unl).png
+36701725c7fbd6759d5f9887104264d0 Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28).png
+0862ca1c0ab561edf8a0bda4ba47f240 SlipStream (World) (Proto) (Aftermarket) (Unl).png
+65882817441bc6dba0dfa1fe74588956 Dance Dance Xirius - Space Party (World) (Aftermarket) (Unl).png
+177869204f9d671bc7c59e4e1c094681 Burn Out (World) (Demo 2) (WCES 1995).png
+68bafe4aaaac77b8cd391128ca4eb8a5 Black Jag - Hyper Power League (World) (v1.02) (Demo) (Aftermarket) (Unl).png
+35815608d12f52ff8f728386938a422a Escape from the Planet of the Robot Monsters (World) (Aftermarket) (Unl).png
+1ed7c5b79ccda3ececb6b920cd20c029 Slam Racer (World) (Proto 1) (Aftermarket) (Unl).png
+b81012b15467c9f20df1da22d47766cc HMS RaptoR (World) (Aftermarket) (Unl).png
 de77b12bf99661125e685520a68959ac Painter (World) (1995-12-29) (Unl).png
+a5f154b435ce28f762d7d95f6c8359c0 uFly (World) (0.99) (Demo) (Aftermarket) (Unl).png
+c038f6e4f66bd2a8e2dc3c0da3fde81a Rayman (World).png
+b19c9eaa9282bec7f82772f4e216b8af Zool 2 (World).png
+80b5f4c34d4361042989837a1199e026 Zoop (USA, Europe).png
+e1907b27dd61ae047fbbb81ff20960d4 Raiden (World).png
+c038f6e4f66bd2a8e2dc3c0da3fde81a Rayman (World) (Beta 2).png
+4c12011a322d7501d7fc50f2a6a621fa Fight for Life (USA, Europe) (Beta) (1995-09-07).png
+728c38da1c3d696b01ec73f1e19d70c8 Soccer Kid (World) (Aftermarket) (Unl).png
+aad468bcb641b449f59009ee862b2353 Impulse X (World) (Aftermarket) (Unl).png
+2201ae33356003d58847a231cde4ae49 STNICCC 2000 (2nd) (World) (2022-05-31) (Demo) (Aftermarket) (Unl).png
+e4cde52c6044ab2e63277924a53cdc9c Jaguar Hockey Legends 2013 (World) (Unl).png
+5eb7845c604de9f2a18801f480efb71a Diam Jag (World) (Aftermarket) (Unl).png
+1fecc7bfb1e729fe9dc2074ad090f514 Tube - Second Edition (World) (Aftermarket) (Unl).png
+5e59a18b8a3bb5f762cf40448b2b8346 Kasumi Ninja (World) (v0.01) (Beta).png
+ece9b22b47d3ae09903652abf712839d Golden Axe (World) (AMIGA) (Aftermarket) (Unl).png
+6cf5ac0d4aec29d1c91df5c7a15e93fe Asteroids (World) (Aftermarket) (Unl).png
+728c38da1c3d696b01ec73f1e19d70c8 Soccer Kid (World) (Beta) (Aftermarket) (Unl).png
+a93c6cbedcb3897e5e60e21b9aef4e80 Evolution - Dino Dudes (World).png
+2881ea3c2414603b5e9fd88d7de434ff White Men Can't Jump (USA, Europe).png
+b81012b15467c9f20df1da22d47766cc HMS RaptoR (World) (v1.1) (U-235) (Aftermarket) (Unl).png
+24f7ea474dfe712e164efc2146bd1204 Project Two (World) (Demo) (Aftermarket) (Unl) (Alt).png
+3807fbfa6775995340b816301dcdcc1b Kaboom (World) (Demo) (Aftermarket) (Unl).png
+b88b91e3041d9fc8f75b53df62f4636c Dragon - The Bruce Lee Story (World).png
+e1907b27dd61ae047fbbb81ff20960d4 Raiden (World) (Rev A).png
+8b8443c58f591719a013d35bed6150ab Worms (World) (Aftermarket) (Unl).png
+22942651cd8a382592cad66eb19b1017 Tiny Toon Adventures (USA) (Proto).png
+3d698ef25cce835d4a48e98f4fafcd1b Iron Soldier 2 (World) (Aftermarket) (Unl).png
+b71002379978a6a3cbe880b89c4e7d9f Jungle Jag (World) (Aftermarket) (Unl).png
+f59005d078f633a8b1be718ee87a0500 Do the Same (World) (Aftermarket) (Unl) (Alt).png
+8008c3ca53a7f5e8e80f348d188732af Virtual VCS (USA) (Proto).png
+f5e76492f4731fc61519925e6e314169 DragonKeep (World) (v1.01) (Aftermarket) (Unl).png
 fea51618587c4ef2b6ca5887ff258fd3 High Voltage C Maze (USA) (Demo).png
+177869204f9d671bc7c59e4e1c094681 Super Burnout (World).png
+af1fa27fe58e1bf6defd6095c1f7241e Outrun (World) (v1.1) (Aftermarket) (Unl).png
+9209026b49c749e2ca7f6c823a95f89c Snowman, The (World) (Aftermarket) (Unl).png
+aa70bca3e200925111cff37bb26158ac Moon Patrol (World) (Aftermarket) (Unl).png
+b61907de5fbbcf851011066c597eed9e Elansar (World) (Demo) (Aftermarket) (Unl).png
+d511211ec5e1538eb9ccda184d2e1824 Blackhole (World) (Proto) (Aftermarket) (Unl).png
+af1fa27fe58e1bf6defd6095c1f7241e Outrun (World) (Aftermarket) (Unl).png
+8941ffd8150be30882e1e17e63091530 Pitfall - The Mayan Adventure (USA, Europe).png
+ee529e736236ab26bb276d65dee980ac Club Drive (World) (Beta).png
+a1c3e134517774246077b37efdf7658e Duckie Egg (World) (Aftermarket) (Unl).png
+363bf8e947064925ca59d57c703bcf03 Breakout 2000 (USA, Europe).png
+ea1b237ab7310f8f45904df514d06cb8 Total Carnage (USA) (Beta).png
+177869204f9d671bc7c59e4e1c094681 Burn Out (World) (Demo 1).png
+5983580fe547c312a9e100b0ac0b0147 Cybermorph (World) (Rev A).png
+a5a43e10301eed215ce8bcd7724c54d3 Battle Sphere Gold (World) (Aftermarket) (Unl).png
+c3c8e495b63e8c49ed23c814034a94ab Clicks! (World) (Aftermarket) (Unl).png
+0cab03d9aedf0e471fcdb6100a6c4d8d Dark Guardian Episode 1 - Unknown Enemy (World) (Proto) (Aftermarket) (Unl).png
+00b1e977b622201d1c7a51f47001b96f Tube2020 (World) (RC2) (Aftermarket) (Unl).png
+da0c2d38edd3890904b2b9a3eb855cb1 Iron Soldier (World).png
+06f340f457ebb6726bb68b56880df0b8 Burger Time (World) (Demo) (Aftermarket) (Unl).png
+9643c83c0b59c4e4aa2a207f6827c590 Barbarian (World) (AMIGA) (Aftermarket) (Unl).png
+209f35f3566effad0a3855be369ff4b1 Jaguar Tetris (World) (Aftermarket) (Unl).png
+ece9b22b47d3ae09903652abf712839d Golden Axe (World) (Atari ST) (Aftermarket) (Unl).png
+2dba3638599537910c3191e558a0414c Midnight Resistance (World) (Aftermarket) (Unl).png

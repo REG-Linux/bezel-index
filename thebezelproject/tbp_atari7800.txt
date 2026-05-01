@@ -1,232 +1,232 @@
-2694df56cf307408d7078b61a5273d60 Ace of Aces (Europe).png
-111e94aacaeeeb5b9a29784a473020f6 Sentinel (Europe).png
-afd35e7ae58e2d91305ad73ceda82496 Hat Trick (USA).png
-35ec2baf3f90010d1814974c05e49618 Frenzy (World) (v1.06) (Aftermarket) (Unl).png
-87bd9f6e302a10f3215d857c188d0e15 Pole Position II (USA).png
-f980a7850a1bafe92e7285b6eb7c9837 K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl).png
-6d49a5c8c04fc6714904489c1b7bee46 Basketbrawl (USA).png
 26b37a001ff5699010e082c9223d7644 Donkey Kong Junior (Europe).png
-881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl).png
-2fb8ec155e104f3fa2b2f491ed9efc85 Midnight Mutants (USA).png
-04715e176c87cfb3129b3a218ae9f27c Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl).png
-4af626c59deaadd7c366aecb0c7fad88 Centipede (USA).png
-5028dd464c3cbec3c5486f88b5b270e8 Food Fight (Europe).png
-e9227d8bef9d5df70f10104d449cba89 Barnyard Blaster (Europe).png
-e9227d8bef9d5df70f10104d449cba89 Barnyard Blaster (USA).png
-a31e2a34f0e0b68e30d85a416c6c1eea Fatal Run (Europe).png
-5a20de2fcc6422c8d9a691cb651c7103 Crack'ed (Europe).png
-ffa9e80f25d4d5d1f4d12d7174751f88 Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl).png
-3d9626e9cf2beceb85511c4dae25ee6a Pit Fighter (USA) (Proto).png
-09c6c18a1247a1cf65990a6fe3a22016 Alien Brigade (Europe).png
-3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl).png
-d39d5dd0a3c9dd9826b339c68e8adadf Summer Games (USA).png
-751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl).png
-2665051c682b864d1364ead99364c842 Wordle (World) (v1.07) (Aftermarket) (Unl).png
-136dbda6f97b6fa2f317677869ae5064 Ikari Warriors (USA).png
-296f889e53a721022d6572c59600c978 Serpentine (World) (Aftermarket) (Unl).png
-f619b7cebe2b887731cc7beecd19a7ef Desert Falcon (Europe).png
-4d282d1d06d2242683e19d439afffc84 Kung-Fu Master (USA).png
-4af626c59deaadd7c366aecb0c7fad88 Centipede (Europe).png
-02afc6c6c6f8d1c1f40de6e775491ebc Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl).png
-cc83791bded63f3afe14f8f822f610fb Impossible Mission (Europe).png
-f5569984dec4c42b1e73e1d6c09c7d5f UniWarS (World) (v1.06) (Aftermarket) (Unl).png
-669f1beaa4d8da2258d72ab6fc292fcd Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl).png
-737b35430a3f8b157e9d0d5fcb9356b9 Atari 7800 Development Card (USA).png
-1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl).png
-5028dd464c3cbec3c5486f88b5b270e8 Food Fight (USA) (Beta).png
-37f381f3df0fd6e58f1c52dcdc8f1f86 Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl).png
-1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl).png
-e08857b8dc03102aa53b8d6d5127e126 Drelbs (World) (Aftermarket) (Unl).png
-c579eb4ca5428635a53fddfb44b6b8e1 Donkey Kong (USA).png
-f671d83b6c9e14808504fedd817f9dd5 Pete Rose Baseball (USA).png
-751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl).png
-edf42d1cc217105eae521a7151e86648 Galaga (Europe).png
-0b80b8cd7731828f04d2f56b6f3896cd Space Race (World) (v0.96) (Aftermarket) (Unl).png
-881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl).png
-1ac8d2662abfd380f6d696d6634d19e9 Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl).png
-65faff96b027ccc56261bc2d808997ce Title Match Pro Wrestling (USA).png
-ea4bb3572ee2faa449a7333a217fd19d Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl).png
-2694df56cf307408d7078b61a5273d60 Ace of Aces (USA).png
-879a90130afa496503e2857486c49672 Fight Night (Europe).png
-ac465586c84f0ca42431ea0d49771797 Galaxian (World) (Aftermarket) (Unl).png
-3b674e289dfa9e10e4725f8b7cb69bbf Super Huey UH-IX (USA).png
-64f03ced8f6676d081f250884386542a Mean 18 Ultimate Golf (USA).png
-35d3015081320e6b7ce34a4f4f48c9b5 1942 (Small) (World) (Aftermarket) (Unl).png
-1d78eabaaf15b81cd2b46a99277d6a3b Shuriken (World) (Aftermarket) (Unl).png
-3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl).png
-bcd2d24a1e72c4430f135515b84e1113 Diagnostic Test Cartrige (USA).png
-cc83791bded63f3afe14f8f822f610fb Impossible Mission (USA).png
-727ba2dc459455a178f485096c4d2156 One-on-One Basketball (USA).png
-adc77c864060fcf009efe3ac69d00259 Meltdown (USA).png
-91c1abc4decbd137a65569eb614d7b68 Atlas (World) (Aftermarket) (Unl).png
-78de9a3a2fa87ebc1740769546c86a04 RealSports Baseball (USA).png
-4d87af9dcdb6fe032606767aa8d5617c Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl).png
-4d87af9dcdb6fe032606767aa8d5617c Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl).png
-6657f40f0b8d6e646cec0feb2b913d74 Tower Toppler (USA).png
-b8e7a3b5a844238cc11520297eb9d8c1 Xevious (Europe).png
-5e54dfea53ae475d062a99b243f85c12 Ms. Pac-Man (USA).png
-5a20de2fcc6422c8d9a691cb651c7103 Crack'ed (USA).png
-b79f600c1a99682921a05f3d12fc7702 Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl).png
-5e54dfea53ae475d062a99b243f85c12 Ms. Pac-Man (Europe).png
-545449f3e64d428ee4bf726e16b23f73 Ninja Golf (USA).png
-b3451d3afed673924a81d3934d0f2233 Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl).png
-86b7953535850994c8523e8a7e5b96e6 Scrapyard Dog (USA).png
-9dc0cc19fb63465aee14043703b7b602 Asteroids (USA) (Beta).png
-6c2f4a01488c9e55173fb854a5abdc7e Motor Psycho (Europe).png
-5d82d75ed3710df37db48ec02d5cb729 Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl).png
-1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl).png
-35d3015081320e6b7ce34a4f4f48c9b5 1942 (World) (Aftermarket) (Unl).png
-0e42bec5892fd42bae59e7cb913ccb2b 7800 Monitor Cart (USA) (Program) (Unl).png
-26b37a001ff5699010e082c9223d7644 Donkey Kong Junior (USA).png
-edf42d1cc217105eae521a7151e86648 Galaga (USA).png
-64f03ced8f6676d081f250884386542a Mean 18 Ultimate Golf (Europe).png
-0a6a58312f179d31292463b8d57e983a Super Skateboardin' (USA).png
-efe77b61ef4b70e813a9f1f016a871b3 Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl).png
-111e94aacaeeeb5b9a29784a473020f6 Sentinel (USA) (Proto).png
-a9cde9648ef796b28c31e8372f6c6b73 bonQ (World) (Aftermarket) (Unl).png
-cc3dd1e66e9d500f6b283ff0aa1f9d07 Cartesian Chaos (World) (Aftermarket) (Unl).png
-0cedbce3ac2351a5afc9a172f5b90811 Easter Klondike Solitaire (World) (Aftermarket) (Unl).png
-6a7f56c8e61377d7e0a95bac5dc5e5de 2048 (World) (Aftermarket) (Unl).png
-71928b9319284a48a4cbd474a7f29ee7 Commando (USA).png
-d7f201fc5ce747ebe1583057b016b65f GoSub (World) (Digital) (Aftermarket) (Unl).png
-695e1bfd8a78d4e407459c1bf7418a61 Shoot the UFO 2015 (World) (Aftermarket) (Unl).png
-b293a350b62324281b3c6b20011918ca Pirate Cove (World) (Aftermarket) (Unl).png
-f5986912b5a0fb1d5c696f91636d90a9 Mat Mania Challenge (USA).png
-1f40397e01858ee06aa048333b20a220 Rescue on Fractalus (USA) (Proto).png
-c2ebcd62e62383d19a91e9e7f79e44a8 Planet Smashers (Europe).png
-15284c2ef3e4c50e478e45de8b0653b4 Poetiru (World) (Aftermarket) (Unl).png
-017d4c116d3bb765b1d08ad7f4445a55 Dig Dug (USA).png
-d6db3e9260d204bb011f99007aa695dc Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl).png
-545449f3e64d428ee4bf726e16b23f73 Ninja Golf (Europe).png
-6c2f4a01488c9e55173fb854a5abdc7e Motor Psycho (USA).png
-8b2f676937ef05423f8edf81cf77f1cf Arkanoid (World) (Demo) (Aftermarket) (Unl).png
-5903980fab54d873cc6f52bbdee72b3a Plutos XM (World) (Aftermarket) (Unl).png
-80da77455ebf47e3020505e851b43992 Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl).png
-f171b835a4a08e1cf3ec928cb446e77c Dark Chambers (USA).png
-bcd2d24a1e72c4430f135515b84e1113 Diagnostic Test Cartrige (USA) (Beta).png
-bdd59b3d520f8cc5ab337ce54fd095cc Astro Fighter (World) (Aftermarket) (Unl).png
-211c912af976a095db0cf4138a5dda75 Moon Cresta (World) (PAL) (Aftermarket) (Unl).png
-67fec115c480bc061386b1a6167fc466 F-18 Hornet (Europe).png
-b8e7a3b5a844238cc11520297eb9d8c1 Xevious (USA) (Beta).png
-49b77facc81db2fa16b6fdc44dceab3c FailSafe (World) (PAL) (Aftermarket) (Unl).png
-02afc6c6c6f8d1c1f40de6e775491ebc Keystone Koppers (World) (Aftermarket) (Unl).png
-535cc04d7b4ef0a0524822717da7c22a Winter Games (USA).png
-1a62a2741ae6588660187770a9abf658 Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl).png
-142c80040da31dc058fc626a0ffdfabe Santa Simon (World) (Aftermarket) (Unl).png
-f980a7850a1bafe92e7285b6eb7c9837 K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl).png
-6657f40f0b8d6e646cec0feb2b913d74 Tower Toppler (Europe).png
-1b662f76c1ec9101567f1d9ef1111371 Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl).png
-3db13cb98bf630b9077bb3147cdec831 Astro Blaster (World) (Aftermarket) (Unl).png
-5d82d75ed3710df37db48ec02d5cb729 Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl).png
-1cf189f12b77c9fc4df0d8cd80891c6e Crazy Bricks (World) (Aftermarket) (Unl).png
-7abd3756490a7b334638aa700c826771 Tomcat - The F-14 Fighter Simulator (Europe).png
-559f523173353c3bfaf53b112c842e0e Oozy the Goo Gaiden (World) (Aftermarket) (Unl).png
-211c912af976a095db0cf4138a5dda75 Moon Cresta (World) (NTSC) (Aftermarket) (Unl).png
-80da77455ebf47e3020505e851b43992 Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl).png
-0bbfdf1f0bfe11a1df179661e7b17cf9 Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl).png
-415ea3bb4fe6742fe5dc27d821cb472e Xenophobe (Europe).png
-f5986912b5a0fb1d5c696f91636d90a9 Mat Mania Challenge (Europe).png
-bddb05bf901b75fc019f567e6930ce9e GATO (USA) (Proto).png
-d3cf6b9ef60f12a0020e0919855e564e Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl).png
-415ea3bb4fe6742fe5dc27d821cb472e Xenophobe (USA).png
-dfac74f88e7d484cef65698f122b2c7b Armor Attack II (World) (Aftermarket) (Unl).png
-efe77b61ef4b70e813a9f1f016a871b3 Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl).png
-04715e176c87cfb3129b3a218ae9f27c Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl).png
-19d68759e43cd3ac2e05fd2b0b66f59d Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl).png
-b16d6143c302d48dd1e9181445d1a9be Stinger (World) (Aftermarket) (Unl).png
-ac405f70cc1419ea0580275ebe175c18 Karateka (USA).png
-f171b835a4a08e1cf3ec928cb446e77c Dark Chambers (Europe).png
-c2ebcd62e62383d19a91e9e7f79e44a8 Planet Smashers (USA).png
-35ec2baf3f90010d1814974c05e49618 Frenzy (World) (v1.07) (Aftermarket) (Unl).png
-7abd3756490a7b334638aa700c826771 Tomcat - The F-14 Fighter Simulator (USA).png
-1a62a2741ae6588660187770a9abf658 Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl).png
-b531796fb2a05d01f90ee3861c957df1 Rampage (USA).png
-cfd56ab73825b2a5e00810fcd197bab5 Boom! (World) (Demo) (Aftermarket) (Unl).png
-607ab1ee1b83c0a544f300c9706a6083 Joust (USA).png
-f3db24f11b73f95a846b26196d502069 DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl).png
-167b105b562821a3ed57c2a32ec2cecb Tank Command (USA).png
-9dc0cc19fb63465aee14043703b7b602 Asteroids (USA).png
-d5cb4eaa222985b1cfe70388b8f593ee Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl).png
-5028dd464c3cbec3c5486f88b5b270e8 Food Fight (USA).png
-2fb8ec155e104f3fa2b2f491ed9efc85 Midnight Mutants (Europe).png
-751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl).png
-1ac8d2662abfd380f6d696d6634d19e9 Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl).png
-879a90130afa496503e2857486c49672 Fight Night (USA).png
-1ac8d2662abfd380f6d696d6634d19e9 Space Invaders (World) (v2.02) (Aftermarket) (Unl).png
-4424121b0ae2b01ee9f3f0f3e0011495 Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl).png
-09c6c18a1247a1cf65990a6fe3a22016 Alien Brigade (USA).png
-ee4320d359d83b14dcb5e05512984c2e Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl).png
-1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl).png
-b3ece802f82fa52b8284a5b5671ca6c2 Tunnels of Hyperion (World) (Aftermarket) (Unl).png
-9006caf4845ddbe00116418444b903b2 Baseball (Europe).png
-d6db3e9260d204bb011f99007aa695dc Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl).png
-65faff96b027ccc56261bc2d808997ce Title Match Pro Wrestling (Europe).png
-e54e493a50d2bddb141b1aa6c3ed48a3 Rampart (USA) (Proto).png
-c3639349ddcf8744795e4259199e3834 Mario Bros. (USA).png
-16e32fda36df8b47ccb8a1a443c34075 Ballblazer (Europe).png
-881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl).png
-ea4bb3572ee2faa449a7333a217fd19d Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl).png
 4fa87f21e080d87132aa5bd87be0d2ae Sirius XM (World) (Aftermarket) (Unl).png
-a836e726dc88294b8d0a9d857884e4a2 Alpha Race (World) (Aftermarket) (Unl).png
-607ab1ee1b83c0a544f300c9706a6083 Joust (Europe).png
-830b634d6bf97b4e28db28ffb9db652b Crossbow (Europe).png
-a31e2a34f0e0b68e30d85a416c6c1eea Fatal Run (USA).png
-017d4c116d3bb765b1d08ad7f4445a55 Dig Dug (Europe).png
-c18c01d277ea076860b609549a4956d7 Wizard's Dungeon (World) (Aftermarket) (Unl).png
-19d68759e43cd3ac2e05fd2b0b66f59d Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl).png
-fd336237610336aa62ba5a780649ddad Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl).png
-481c00b9e3ea00220ce620cc9bac36e1 Touchdown Football (USA).png
-f5569984dec4c42b1e73e1d6c09c7d5f UniWarS (World) (v1.05) (Aftermarket) (Unl).png
-881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl).png
-86b7953535850994c8523e8a7e5b96e6 Scrapyard Dog (Europe).png
-df06ed2f793a6e4cd3c9abd856da64fb Worm! (World) (Aftermarket) (Unl).png
-6d49a5c8c04fc6714904489c1b7bee46 Basketbrawl (Europe).png
-b79f600c1a99682921a05f3d12fc7702 Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl).png
-4560d4c056eb3134cb29b475b765173f Double Dragon (Europe).png
-afd35e7ae58e2d91305ad73ceda82496 Hat Trick (Europe).png
-0b17b899bb36a104e3b65c92a330fee7 Robotron - 2084 (USA).png
-87bd9f6e302a10f3215d857c188d0e15 Pole Position II (USA) (Beta).png
-71928b9319284a48a4cbd474a7f29ee7 Commando (Europe).png
-b8e7a3b5a844238cc11520297eb9d8c1 Xevious (USA).png
-727ba2dc459455a178f485096c4d2156 One-on-One Basketball (Europe).png
-4fa87f21e080d87132aa5bd87be0d2ae Sirius (USA) (Proto).png
-5f5cdebdb6fa2f9dacb61e42ed516e43 Sick Pickles (World) (Aftermarket) (Unl).png
-3b674e289dfa9e10e4725f8b7cb69bbf Super Huey UH-IX (Europe).png
-078831d656908d1b0af93d8a0fd9cd8e Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl).png
-ea4bb3572ee2faa449a7333a217fd19d Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl).png
-a6b6cc37da2267fd8f58ce6526a07a02 Wasp! (World) (Aftermarket) (Unl).png
-35d3015081320e6b7ce34a4f4f48c9b5 1942 (Extended) (World) (Aftermarket) (Unl).png
-0a6a58312f179d31292463b8d57e983a Super Skateboardin' (Europe).png
-dab8566d312d2f0f146284be2bbe730f Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl).png
-751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl).png
-0f867ca806c02763fd172bae19de8fe4 Choplifter! (USA).png
-ac405f70cc1419ea0580275ebe175c18 Karateka (Europe).png
-f619b7cebe2b887731cc7beecd19a7ef Desert Falcon (USA).png
-d5cb4eaa222985b1cfe70388b8f593ee Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl).png
-2f852a0a7f0a9ad90f46b9da2d59a8d6 High Score Cartridge (USA) (Proto).png
-c579eb4ca5428635a53fddfb44b6b8e1 Donkey Kong (Europe).png
-b8627aaba480c02dede62aa35f8a6c04 Jinks (USA).png
-b8627aaba480c02dede62aa35f8a6c04 Jinks (Europe).png
-4d282d1d06d2242683e19d439afffc84 Kung-Fu Master (Europe).png
-fd336237610336aa62ba5a780649ddad Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl).png
-16e32fda36df8b47ccb8a1a443c34075 Ballblazer (USA).png
-67fec115c480bc061386b1a6167fc466 F-18 Hornet (USA).png
-dab8566d312d2f0f146284be2bbe730f Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl).png
-3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl).png
-f745b050744d6c927e2b69265910488b Missing in Action (USA) (Proto).png
-0f867ca806c02763fd172bae19de8fe4 Choplifter! (Europe).png
-38276022620d651dd1dc38f8a9d22eec Plink (World) (Aftermarket) (Unl).png
-3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl).png
+111e94aacaeeeb5b9a29784a473020f6 Sentinel (Europe).png
+9dc0cc19fb63465aee14043703b7b602 Asteroids (USA).png
+1a62a2741ae6588660187770a9abf658 Asteroids Deluxe (World) (NTSC) (Aftermarket) (Unl).png
 830b634d6bf97b4e28db28ffb9db652b Crossbow (USA).png
-adc77c864060fcf009efe3ac69d00259 Meltdown (Europe).png
-c3639349ddcf8744795e4259199e3834 Mario Bros. (Europe).png
+5a20de2fcc6422c8d9a691cb651c7103 Crack'ed (USA).png
 3a6b0fe2c8c29eec2cd11e4d20c59ef7 Water Ski (USA).png
-4424121b0ae2b01ee9f3f0f3e0011495 Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl).png
-76b90527f7b859a783543cfaed0f01a3 Froggie (World) (Aftermarket) (Unl).png
-5903980fab54d873cc6f52bbdee72b3a Plutos (USA) (Proto).png
-49b77facc81db2fa16b6fdc44dceab3c FailSafe (World) (NTSC) (Aftermarket) (Unl).png
-136dbda6f97b6fa2f317677869ae5064 Ikari Warriors (Europe).png
+b16d6143c302d48dd1e9181445d1a9be Stinger (World) (Aftermarket) (Unl).png
+f171b835a4a08e1cf3ec928cb446e77c Dark Chambers (USA).png
+d39d5dd0a3c9dd9826b339c68e8adadf Summer Games (USA).png
+3d9626e9cf2beceb85511c4dae25ee6a Pit Fighter (USA) (Proto).png
+87bd9f6e302a10f3215d857c188d0e15 Pole Position II (USA).png
 832123732964a4be03f8f7c5f4b0ef60 Klax (USA) (Proto).png
-364ccb668149fe80acdf9927dcfc9eb0 Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl).png
-87bd9f6e302a10f3215d857c188d0e15 Pole Position II (Europe).png
+e9227d8bef9d5df70f10104d449cba89 Barnyard Blaster (USA).png
+545449f3e64d428ee4bf726e16b23f73 Ninja Golf (Europe).png
+19d68759e43cd3ac2e05fd2b0b66f59d Donkey Kong XM (World) (Demo) (NTSC) (Aftermarket) (Unl).png
+481c00b9e3ea00220ce620cc9bac36e1 Touchdown Football (USA).png
+b3451d3afed673924a81d3934d0f2233 Pac-Man - Energy Drink Edition (World) (v1.02) (Aftermarket) (Unl).png
+3b674e289dfa9e10e4725f8b7cb69bbf Super Huey UH-IX (USA).png
+1f40397e01858ee06aa048333b20a220 Rescue on Fractalus (USA) (Proto).png
+415ea3bb4fe6742fe5dc27d821cb472e Xenophobe (USA).png
+b8627aaba480c02dede62aa35f8a6c04 Jinks (Europe).png
+f980a7850a1bafe92e7285b6eb7c9837 K.C. Munchkin (World) (v1.01) (Aftermarket) (Unl).png
+67fec115c480bc061386b1a6167fc466 F-18 Hornet (USA).png
+7abd3756490a7b334638aa700c826771 Tomcat - The F-14 Fighter Simulator (USA).png
+0f867ca806c02763fd172bae19de8fe4 Choplifter! (USA).png
+cc83791bded63f3afe14f8f822f610fb Impossible Mission (Europe).png
+0a6a58312f179d31292463b8d57e983a Super Skateboardin' (USA).png
+f5986912b5a0fb1d5c696f91636d90a9 Mat Mania Challenge (USA).png
+02afc6c6c6f8d1c1f40de6e775491ebc Keystone Koppers (World) (2022-12-22) (Demo) (Aftermarket) (Unl).png
+830b634d6bf97b4e28db28ffb9db652b Crossbow (Europe).png
+d3cf6b9ef60f12a0020e0919855e564e Dragon's Descent (World) (2021-07-31) (Aftermarket) (Unl).png
+6d49a5c8c04fc6714904489c1b7bee46 Basketbrawl (Europe).png
+607ab1ee1b83c0a544f300c9706a6083 Joust (USA).png
+15284c2ef3e4c50e478e45de8b0653b4 Poetiru (World) (Aftermarket) (Unl).png
+d5cb4eaa222985b1cfe70388b8f593ee Pac-Man Collection - Remastered Edition (World) (PAL) (TIA) (Aftermarket) (Unl).png
+2694df56cf307408d7078b61a5273d60 Ace of Aces (USA).png
+b531796fb2a05d01f90ee3861c957df1 Rampage (USA).png
+ea4bb3572ee2faa449a7333a217fd19d Dragon's Cache (World) (2020-10-24) (Aftermarket) (Unl).png
+26b37a001ff5699010e082c9223d7644 Donkey Kong Junior (USA).png
+5903980fab54d873cc6f52bbdee72b3a Plutos (USA) (Proto).png
+b8627aaba480c02dede62aa35f8a6c04 Jinks (USA).png
+edf42d1cc217105eae521a7151e86648 Galaga (Europe).png
+1b662f76c1ec9101567f1d9ef1111371 Dungeon Stalker (World) (1.245d) (Aftermarket) (Unl).png
+edf42d1cc217105eae521a7151e86648 Galaga (USA).png
+881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.15) (PAL) (Aftermarket) (Unl).png
+211c912af976a095db0cf4138a5dda75 Moon Cresta (World) (NTSC) (Aftermarket) (Unl).png
+35d3015081320e6b7ce34a4f4f48c9b5 1942 (World) (Aftermarket) (Unl).png
+c2ebcd62e62383d19a91e9e7f79e44a8 Planet Smashers (USA).png
+2f852a0a7f0a9ad90f46b9da2d59a8d6 High Score Cartridge (USA) (Proto).png
+ea4bb3572ee2faa449a7333a217fd19d Dragon's Cache (World) (2021-02-07) (Aftermarket) (Unl).png
+017d4c116d3bb765b1d08ad7f4445a55 Dig Dug (Europe).png
 4560d4c056eb3134cb29b475b765173f Double Dragon (USA).png
+bcd2d24a1e72c4430f135515b84e1113 Diagnostic Test Cartrige (USA).png
+0e42bec5892fd42bae59e7cb913ccb2b 7800 Monitor Cart (USA) (Program) (Unl).png
+751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.05) (PAL) (Aftermarket) (Unl).png
+2fb8ec155e104f3fa2b2f491ed9efc85 Midnight Mutants (USA).png
+b8e7a3b5a844238cc11520297eb9d8c1 Xevious (Europe).png
+0bbfdf1f0bfe11a1df179661e7b17cf9 Orion Assault (World) (v01.78b) (Proto) (Aftermarket) (Unl).png
+64f03ced8f6676d081f250884386542a Mean 18 Ultimate Golf (USA).png
+09c6c18a1247a1cf65990a6fe3a22016 Alien Brigade (USA).png
+4d87af9dcdb6fe032606767aa8d5617c Super Circus AtariAge (World) (PAL) (Aftermarket) (Unl).png
+0b80b8cd7731828f04d2f56b6f3896cd Space Race (World) (v0.96) (Aftermarket) (Unl).png
+f5569984dec4c42b1e73e1d6c09c7d5f UniWarS (World) (v1.06) (Aftermarket) (Unl).png
+adc77c864060fcf009efe3ac69d00259 Meltdown (Europe).png
+4d282d1d06d2242683e19d439afffc84 Kung-Fu Master (Europe).png
+cc3dd1e66e9d500f6b283ff0aa1f9d07 Cartesian Chaos (World) (Aftermarket) (Unl).png
+e9227d8bef9d5df70f10104d449cba89 Barnyard Blaster (Europe).png
+607ab1ee1b83c0a544f300c9706a6083 Joust (Europe).png
+04715e176c87cfb3129b3a218ae9f27c Pac-Man Collection - Ultimate Edition (World) (NTSC) (Pokey) (Aftermarket) (Unl).png
+a6b6cc37da2267fd8f58ce6526a07a02 Wasp! (World) (Aftermarket) (Unl).png
+1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.06) (PAL) (Aftermarket) (Unl).png
+f745b050744d6c927e2b69265910488b Missing in Action (USA) (Proto).png
+37f381f3df0fd6e58f1c52dcdc8f1f86 Touchdown Challenge (World) (v2.21) (Aftermarket) (Unl).png
+35d3015081320e6b7ce34a4f4f48c9b5 1942 (Small) (World) (Aftermarket) (Unl).png
+dab8566d312d2f0f146284be2bbe730f Pac-Man 320 (World) (v1.05) (PAL) (Aftermarket) (Unl).png
+3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl).png
+b293a350b62324281b3c6b20011918ca Pirate Cove (World) (Aftermarket) (Unl).png
+38276022620d651dd1dc38f8a9d22eec Plink (World) (Aftermarket) (Unl).png
+afd35e7ae58e2d91305ad73ceda82496 Hat Trick (Europe).png
+881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.15) (NTSC) (Aftermarket) (Unl).png
+4af626c59deaadd7c366aecb0c7fad88 Centipede (USA).png
+4d282d1d06d2242683e19d439afffc84 Kung-Fu Master (USA).png
+cc83791bded63f3afe14f8f822f610fb Impossible Mission (USA).png
+0cedbce3ac2351a5afc9a172f5b90811 Easter Klondike Solitaire (World) (Aftermarket) (Unl).png
+4d87af9dcdb6fe032606767aa8d5617c Super Circus AtariAge (World) (NTSC) (Aftermarket) (Unl).png
+bddb05bf901b75fc019f567e6930ce9e GATO (USA) (Proto).png
+5d82d75ed3710df37db48ec02d5cb729 Robot Finds Kitten (World) (2005-06-19) (Aftermarket) (Unl).png
+415ea3bb4fe6742fe5dc27d821cb472e Xenophobe (Europe).png
+71928b9319284a48a4cbd474a7f29ee7 Commando (USA).png
+80da77455ebf47e3020505e851b43992 Space Duel (World) (v1.09) (NTSC) (Aftermarket) (Unl).png
+19d68759e43cd3ac2e05fd2b0b66f59d Donkey Kong XM (World) (Demo) (PAL) (Aftermarket) (Unl).png
+09c6c18a1247a1cf65990a6fe3a22016 Alien Brigade (Europe).png
+c3639349ddcf8744795e4259199e3834 Mario Bros. (USA).png
+a9cde9648ef796b28c31e8372f6c6b73 bonQ (World) (Aftermarket) (Unl).png
+86b7953535850994c8523e8a7e5b96e6 Scrapyard Dog (Europe).png
+136dbda6f97b6fa2f317677869ae5064 Ikari Warriors (Europe).png
+78de9a3a2fa87ebc1740769546c86a04 RealSports Baseball (USA).png
+adc77c864060fcf009efe3ac69d00259 Meltdown (USA).png
+017d4c116d3bb765b1d08ad7f4445a55 Dig Dug (USA).png
+afd35e7ae58e2d91305ad73ceda82496 Hat Trick (USA).png
+545449f3e64d428ee4bf726e16b23f73 Ninja Golf (USA).png
+e08857b8dc03102aa53b8d6d5127e126 Drelbs (World) (Aftermarket) (Unl).png
+87bd9f6e302a10f3215d857c188d0e15 Pole Position II (Europe).png
+b79f600c1a99682921a05f3d12fc7702 Ms. Pac-Man 320 (World) (NTSC) (Aftermarket) (Unl).png
+0f867ca806c02763fd172bae19de8fe4 Choplifter! (Europe).png
+6a7f56c8e61377d7e0a95bac5dc5e5de 2048 (World) (Aftermarket) (Unl).png
+4560d4c056eb3134cb29b475b765173f Double Dragon (Europe).png
+2694df56cf307408d7078b61a5273d60 Ace of Aces (Europe).png
+ee4320d359d83b14dcb5e05512984c2e Harpy's Curse (World) (2023-09-17) (Proto) (Aftermarket) (Unl).png
+f619b7cebe2b887731cc7beecd19a7ef Desert Falcon (Europe).png
+167b105b562821a3ed57c2a32ec2cecb Tank Command (USA).png
+1ac8d2662abfd380f6d696d6634d19e9 Space Invaders (World) (v2.01) (NTSC) (Aftermarket) (Unl).png
+65faff96b027ccc56261bc2d808997ce Title Match Pro Wrestling (Europe).png
+c579eb4ca5428635a53fddfb44b6b8e1 Donkey Kong (Europe).png
+751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.06) (PAL) (Aftermarket) (Unl).png
+8b2f676937ef05423f8edf81cf77f1cf Arkanoid (World) (Demo) (Aftermarket) (Unl).png
+879a90130afa496503e2857486c49672 Fight Night (Europe).png
+87bd9f6e302a10f3215d857c188d0e15 Pole Position II (USA) (Beta).png
+6d49a5c8c04fc6714904489c1b7bee46 Basketbrawl (USA).png
+ac405f70cc1419ea0580275ebe175c18 Karateka (Europe).png
+b8e7a3b5a844238cc11520297eb9d8c1 Xevious (USA) (Beta).png
+296f889e53a721022d6572c59600c978 Serpentine (World) (Aftermarket) (Unl).png
+0b17b899bb36a104e3b65c92a330fee7 Robotron - 2084 (USA).png
+a836e726dc88294b8d0a9d857884e4a2 Alpha Race (World) (Aftermarket) (Unl).png
+c3639349ddcf8744795e4259199e3834 Mario Bros. (Europe).png
+c18c01d277ea076860b609549a4956d7 Wizard's Dungeon (World) (Aftermarket) (Unl).png
+5e54dfea53ae475d062a99b243f85c12 Ms. Pac-Man (Europe).png
+ea4bb3572ee2faa449a7333a217fd19d Dragon's Cache (World) (2020-10-24) (BupSystem) (Aftermarket) (Unl).png
+c579eb4ca5428635a53fddfb44b6b8e1 Donkey Kong (USA).png
+1ac8d2662abfd380f6d696d6634d19e9 Space Invaders (World) (v2.02) (Aftermarket) (Unl).png
+efe77b61ef4b70e813a9f1f016a871b3 Jr. Pac-Man (World) (NTSC) (Aftermarket) (Unl).png
+71928b9319284a48a4cbd474a7f29ee7 Commando (Europe).png
+737b35430a3f8b157e9d0d5fcb9356b9 Atari 7800 Development Card (USA).png
+4af626c59deaadd7c366aecb0c7fad88 Centipede (Europe).png
+9006caf4845ddbe00116418444b903b2 Baseball (Europe).png
+1a62a2741ae6588660187770a9abf658 Asteroids Deluxe (World) (PAL) (Aftermarket) (Unl).png
+669f1beaa4d8da2258d72ab6fc292fcd Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl).png
+1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl).png
+559f523173353c3bfaf53b112c842e0e Oozy the Goo Gaiden (World) (Aftermarket) (Unl).png
+cfd56ab73825b2a5e00810fcd197bab5 Boom! (World) (Demo) (Aftermarket) (Unl).png
+f671d83b6c9e14808504fedd817f9dd5 Pete Rose Baseball (USA).png
+727ba2dc459455a178f485096c4d2156 One-on-One Basketball (USA).png
+1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.05) (PAL) (Aftermarket) (Unl).png
+86b7953535850994c8523e8a7e5b96e6 Scrapyard Dog (USA).png
+49b77facc81db2fa16b6fdc44dceab3c FailSafe (World) (NTSC) (Aftermarket) (Unl).png
+ac465586c84f0ca42431ea0d49771797 Galaxian (World) (Aftermarket) (Unl).png
+bdd59b3d520f8cc5ab337ce54fd095cc Astro Fighter (World) (Aftermarket) (Unl).png
+1b02fe98cfe41ba0348b890d3c7a7953 Meteor Shower (World) (v1.06) (NTSC) (Aftermarket) (Unl).png
+35d3015081320e6b7ce34a4f4f48c9b5 1942 (Extended) (World) (Aftermarket) (Unl).png
+881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.14) (NTSC) (Aftermarket) (Unl).png
+9dc0cc19fb63465aee14043703b7b602 Asteroids (USA) (Beta).png
+4fa87f21e080d87132aa5bd87be0d2ae Sirius (USA) (Proto).png
+ffa9e80f25d4d5d1f4d12d7174751f88 Destroyer 7800 (World) (v1.03) (Aftermarket) (Unl).png
+535cc04d7b4ef0a0524822717da7c22a Winter Games (USA).png
+695e1bfd8a78d4e407459c1bf7418a61 Shoot the UFO 2015 (World) (Aftermarket) (Unl).png
+0a6a58312f179d31292463b8d57e983a Super Skateboardin' (Europe).png
+f171b835a4a08e1cf3ec928cb446e77c Dark Chambers (Europe).png
+751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.05) (NTSC) (Aftermarket) (Unl).png
+751081f3f7f73e490992d1656bc6af1d Rip-Off (World) (v1.06) (NTSC) (Aftermarket) (Unl).png
+2665051c682b864d1364ead99364c842 Wordle (World) (v1.07) (Aftermarket) (Unl).png
+1d78eabaaf15b81cd2b46a99277d6a3b Shuriken (World) (Aftermarket) (Unl).png
+142c80040da31dc058fc626a0ffdfabe Santa Simon (World) (Aftermarket) (Unl).png
+d6db3e9260d204bb011f99007aa695dc Pac-Man Plus 320 (World) (NTSC) (Aftermarket) (Unl).png
+078831d656908d1b0af93d8a0fd9cd8e Dragon's Havoc (World) (2022-12-31) (Demo) (Aftermarket) (Unl).png
+f619b7cebe2b887731cc7beecd19a7ef Desert Falcon (USA).png
+16e32fda36df8b47ccb8a1a443c34075 Ballblazer (USA).png
+5903980fab54d873cc6f52bbdee72b3a Plutos XM (World) (Aftermarket) (Unl).png
+f980a7850a1bafe92e7285b6eb7c9837 K.C. Munchkin (World) (v1.00) (Aftermarket) (Unl).png
+fd336237610336aa62ba5a780649ddad Slide Boy in Maze Land (World) (2021-05-10) (Beta) (Aftermarket) (Unl).png
+16e32fda36df8b47ccb8a1a443c34075 Ballblazer (Europe).png
+5e54dfea53ae475d062a99b243f85c12 Ms. Pac-Man (USA).png
+bcd2d24a1e72c4430f135515b84e1113 Diagnostic Test Cartrige (USA) (Beta).png
+6c2f4a01488c9e55173fb854a5abdc7e Motor Psycho (Europe).png
+efe77b61ef4b70e813a9f1f016a871b3 Jr. Pac-Man (World) (PAL) (Aftermarket) (Unl).png
+df06ed2f793a6e4cd3c9abd856da64fb Worm! (World) (Aftermarket) (Unl).png
+ac405f70cc1419ea0580275ebe175c18 Karateka (USA).png
+211c912af976a095db0cf4138a5dda75 Moon Cresta (World) (PAL) (Aftermarket) (Unl).png
+f5569984dec4c42b1e73e1d6c09c7d5f UniWarS (World) (v1.05) (Aftermarket) (Unl).png
+b3ece802f82fa52b8284a5b5671ca6c2 Tunnels of Hyperion (World) (Aftermarket) (Unl).png
+35ec2baf3f90010d1814974c05e49618 Frenzy (World) (v1.06) (Aftermarket) (Unl).png
+6657f40f0b8d6e646cec0feb2b913d74 Tower Toppler (USA).png
+5028dd464c3cbec3c5486f88b5b270e8 Food Fight (Europe).png
+80da77455ebf47e3020505e851b43992 Space Duel (World) (v1.09) (PAL) (Aftermarket) (Unl).png
+3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.10) (PAL) (Aftermarket) (Unl).png
+65faff96b027ccc56261bc2d808997ce Title Match Pro Wrestling (USA).png
+111e94aacaeeeb5b9a29784a473020f6 Sentinel (USA) (Proto).png
+1cf189f12b77c9fc4df0d8cd80891c6e Crazy Bricks (World) (Aftermarket) (Unl).png
+02afc6c6c6f8d1c1f40de6e775491ebc Keystone Koppers (World) (Aftermarket) (Unl).png
+f5986912b5a0fb1d5c696f91636d90a9 Mat Mania Challenge (Europe).png
+5f5cdebdb6fa2f9dacb61e42ed516e43 Sick Pickles (World) (Aftermarket) (Unl).png
+727ba2dc459455a178f485096c4d2156 One-on-One Basketball (Europe).png
+6657f40f0b8d6e646cec0feb2b913d74 Tower Toppler (Europe).png
+b79f600c1a99682921a05f3d12fc7702 Ms. Pac-Man 320 (World) (PAL) (Aftermarket) (Unl).png
+3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.09) (PAL) (Aftermarket) (Unl).png
+dfac74f88e7d484cef65698f122b2c7b Armor Attack II (World) (Aftermarket) (Unl).png
+64f03ced8f6676d081f250884386542a Mean 18 Ultimate Golf (Europe).png
+3ec87285dc69435a1f12dc7537b83db2 Super Pac-Man (World) (v1.10) (NTSC) (Aftermarket) (Unl).png
+49b77facc81db2fa16b6fdc44dceab3c FailSafe (World) (PAL) (Aftermarket) (Unl).png
+4424121b0ae2b01ee9f3f0f3e0011495 Legend of Silverpeak (World) (v1.01) (Aftermarket) (Unl).png
+5d82d75ed3710df37db48ec02d5cb729 Robot Finds Kitten (World) (2022-03-31) (Aftermarket) (Unl).png
+d7f201fc5ce747ebe1583057b016b65f GoSub (World) (Digital) (Aftermarket) (Unl).png
+1ac8d2662abfd380f6d696d6634d19e9 Space Invaders (World) (v2.01) (PAL) (Aftermarket) (Unl).png
+91c1abc4decbd137a65569eb614d7b68 Atlas (World) (Aftermarket) (Unl).png
+5a20de2fcc6422c8d9a691cb651c7103 Crack'ed (Europe).png
+d6db3e9260d204bb011f99007aa695dc Pac-Man Plus 320 (World) (PAL) (Aftermarket) (Unl).png
+881eb238eaefeb8a1ccc07c8175f59a2 Scramble (World) (v1.14) (PAL) (Aftermarket) (Unl).png
+136dbda6f97b6fa2f317677869ae5064 Ikari Warriors (USA).png
+d5cb4eaa222985b1cfe70388b8f593ee Pac-Man Collection - Remastered Edition (World) (NTSC) (TIA) (Aftermarket) (Unl).png
+a31e2a34f0e0b68e30d85a416c6c1eea Fatal Run (Europe).png
+dab8566d312d2f0f146284be2bbe730f Pac-Man 320 (World) (v1.05) (NTSC) (Aftermarket) (Unl).png
+f3db24f11b73f95a846b26196d502069 DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl).png
+6c2f4a01488c9e55173fb854a5abdc7e Motor Psycho (USA).png
+76b90527f7b859a783543cfaed0f01a3 Froggie (World) (Aftermarket) (Unl).png
+04715e176c87cfb3129b3a218ae9f27c Pac-Man Collection - Ultimate Edition (World) (PAL) (Pokey) (Aftermarket) (Unl).png
+5028dd464c3cbec3c5486f88b5b270e8 Food Fight (USA) (Beta).png
+879a90130afa496503e2857486c49672 Fight Night (USA).png
+3b674e289dfa9e10e4725f8b7cb69bbf Super Huey UH-IX (Europe).png
+a31e2a34f0e0b68e30d85a416c6c1eea Fatal Run (USA).png
+7abd3756490a7b334638aa700c826771 Tomcat - The F-14 Fighter Simulator (Europe).png
+35ec2baf3f90010d1814974c05e49618 Frenzy (World) (v1.07) (Aftermarket) (Unl).png
+4424121b0ae2b01ee9f3f0f3e0011495 Legend of Silverpeak (World) (v1.00) (Aftermarket) (Unl).png
+364ccb668149fe80acdf9927dcfc9eb0 Jacks or Better Poker (World) (v1.37) (Aftermarket) (Unl).png
+b8e7a3b5a844238cc11520297eb9d8c1 Xevious (USA).png
+5028dd464c3cbec3c5486f88b5b270e8 Food Fight (USA).png
+c2ebcd62e62383d19a91e9e7f79e44a8 Planet Smashers (Europe).png
+2fb8ec155e104f3fa2b2f491ed9efc85 Midnight Mutants (Europe).png
+fd336237610336aa62ba5a780649ddad Slide Boy in Maze Land (World) (Digital) (Aftermarket) (Unl).png
+e54e493a50d2bddb141b1aa6c3ed48a3 Rampart (USA) (Proto).png
+3db13cb98bf630b9077bb3147cdec831 Astro Blaster (World) (Aftermarket) (Unl).png
+67fec115c480bc061386b1a6167fc466 F-18 Hornet (Europe).png

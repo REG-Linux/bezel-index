@@ -1,43 +1,43 @@
 a3e1e6de25c8edf96033d2afd6a8e73b Last Blade, The - Beyond the Destiny.png
-dc104f0c2f11953b907a0a77d6af1a0a Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png
-f824e327fa7623d603729d6d2a196ccb Puzzle Link 2 (USA, Europe).png
 5ea29ceef939c0860a68fbab412f326c Sonic the Hedgehog - Pocket Adventure (World).png
-aa4eec7b52cbaeac528e8de21c3a41d7 Bust-A-Move Pocket (USA).png
-2c053cf2b7669e2657adcff97deba2fe King of Fighters R-2 (World) (En,Ja).png
-df0b68c86474bbed8ea081322963aafe Delta Warp (Japan) (En,Ja).png
-22872c83de77fad2d88a5665c692ddb6 Puyo Pop (World) (En,Ja) (v1.06).png
-af19e938a5e734b31e6917f5dfce9032 SNK Gals' Fighters (USA, Europe).png
-43da4467b669c801fb2d1075e3aca63e Faselei! (Europe).png
+69543e9d5ec337d096b5ef8fe952c77a Dive Alert - Becky's Version (USA, Europe).png
 2a2c2c651b8aa9517217da4a7d59fb26 Evolution - Eternal Dungeons (Europe).png
-6be9a3ff88cf57bd8e6e348cbe136a22 Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png
-3d42d1482674b97ac2f87e5cfdd1aa09 Metal Slug - 2nd Mission (World) (En,Ja).png
+58d1f0ed81f4cba468b87c4ae85eeb29 Metal Slug - 1st Mission (World) (En,Ja).png
 6bd5ace3bc21d11115e56f34e941fe3b Pac-Man (World) (En,Ja).png
-83707c4a4b5f07a6ceb78b8272368371 Puzzle Bobble Mini (Japan, Europe) (v1.10).png
-06a386b6d1927582dc1f5926559d6725 Dynamite Slugger (Japan, Europe) (En,Ja).png
+2c053cf2b7669e2657adcff97deba2fe King of Fighters R-2 (World) (En,Ja).png
 8746c1dd97bfe4c14bec070a002dc8c8 Neo 21 - Real Casino Series (World).png
+4f901c9c9021755f5fc3d872fa1f3839 Cool Boarders Pocket (Japan, Europe) (En,Ja).png
+0f48240ee179c43b9bd629bcc13005ec Magical Drop Pocket (USA, Europe).png
+e5f78fc8198c2fcc9bededfdb7843d0c Neo Turf Masters (World) (En,Ja).png
+ab1a9c7401cffde9b0701114fcf5c326 Dive Alert - Matt's Version (USA, Europe).png
+724196931f412a20778fa57cb3d4a1cc Shanghai Mini (World) (En,Ja).png
 d0c149aa543ae0879ea7ad84c1bebd35 Picture Puzzle (USA, Europe).png
-b916222d2b1197622d293b1f1630bdfc SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png
-cd608dee667aa856a43f2867793eda67 Dark Arms - Beast Buster 1999 (World) (En,Ja).png
+5e0ed51f0251635e52cdd97a6fcb72cc Pocket Reversi (Europe).png
+10e71aa17106d363c8df4a2b84fcda6b Puzzle Link (Europe).png
+df0b68c86474bbed8ea081322963aafe Delta Warp (Japan) (En,Ja).png
 7cac4a7ce8e96070927dd9e131b8e4cd Biomotor Unitron (USA, Europe).png
 1c1a0927e58794b90df61eac70fe9c09 Fantastic Night Dreams Cotton (Europe).png
-c25ad61015243ad97234622b9e56831b SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png
-e5f78fc8198c2fcc9bededfdb7843d0c Neo Turf Masters (World) (En,Ja).png
-58d1f0ed81f4cba468b87c4ae85eeb29 Metal Slug - 1st Mission (World) (En,Ja).png
-efceaa9607941696f979b94740eb9bce Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png
-69543e9d5ec337d096b5ef8fe952c77a Dive Alert - Becky's Version (USA, Europe).png
-5e0ed51f0251635e52cdd97a6fcb72cc Pocket Reversi (Europe).png
-724196931f412a20778fa57cb3d4a1cc Shanghai Mini (World) (En,Ja).png
-fc04786baeb2b6a1782c159d0f975260 SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png
-46a2fb31657481abc921c94db33b55d5 Neo Mystery Bonus - Real Casino Series (World) (En,Ja).png
-4f901c9c9021755f5fc3d872fa1f3839 Cool Boarders Pocket (Japan, Europe) (En,Ja).png
-8da3b51df4f25054ca062d6a2a55884c Crush Roller (World) (En,Ja).png
-ab1a9c7401cffde9b0701114fcf5c326 Dive Alert - Matt's Version (USA, Europe).png
-d2f0b25944ff26158b55c0696f92aacf Neo Baccarat - Real Casino Series (World).png
-10e71aa17106d363c8df4a2b84fcda6b Puzzle Link (Europe).png
-b1a93a7a709bb87f4835191cfee18bee Fatal Fury F-Contact (World) (En,Ja).png
-302a334a15fee85e4091e3b108438dc0 Delta Warp (Japan) (Demo).png
-62d78b59ea64a47f8904d5ec745485c3 Neo Geo Cup '98 Plus (World) (En,Ja).png
+43da4467b669c801fb2d1075e3aca63e Faselei! (Europe).png
 e2de4946b537fa7b325458296f232a4e Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png
+62d78b59ea64a47f8904d5ec745485c3 Neo Geo Cup '98 Plus (World) (En,Ja).png
+f824e327fa7623d603729d6d2a196ccb Puzzle Link 2 (USA, Europe).png
+3d42d1482674b97ac2f87e5cfdd1aa09 Metal Slug - 2nd Mission (World) (En,Ja).png
+22872c83de77fad2d88a5665c692ddb6 Puyo Pop (World) (En,Ja) (v1.06).png
+b916222d2b1197622d293b1f1630bdfc SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).png
+af19e938a5e734b31e6917f5dfce9032 SNK Gals' Fighters (USA, Europe).png
+c25ad61015243ad97234622b9e56831b SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).png
+83707c4a4b5f07a6ceb78b8272368371 Puzzle Bobble Mini (Japan, Europe) (v1.10).png
+dc104f0c2f11953b907a0a77d6af1a0a Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).png
+302a334a15fee85e4091e3b108438dc0 Delta Warp (Japan) (Demo).png
+cd608dee667aa856a43f2867793eda67 Dark Arms - Beast Buster 1999 (World) (En,Ja).png
+efceaa9607941696f979b94740eb9bce Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png
+46a2fb31657481abc921c94db33b55d5 Neo Mystery Bonus - Real Casino Series (World) (En,Ja).png
+06a386b6d1927582dc1f5926559d6725 Dynamite Slugger (Japan, Europe) (En,Ja).png
+d2f0b25944ff26158b55c0696f92aacf Neo Baccarat - Real Casino Series (World).png
 e34902646cecad3a8067eb3168d2aedc Big Bang Pro Wrestling (Japan) (En,Ja).png
 c37eec85adf5c851983b0bbee7b7a2d2 Baseball Stars Color (World) (En,Ja).png
-0f48240ee179c43b9bd629bcc13005ec Magical Drop Pocket (USA, Europe).png
+aa4eec7b52cbaeac528e8de21c3a41d7 Bust-A-Move Pocket (USA).png
+6be9a3ff88cf57bd8e6e348cbe136a22 Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png
+8da3b51df4f25054ca062d6a2a55884c Crush Roller (World) (En,Ja).png
+fc04786baeb2b6a1782c159d0f975260 SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).png
+b1a93a7a709bb87f4835191cfee18bee Fatal Fury F-Contact (World) (En,Ja).png
