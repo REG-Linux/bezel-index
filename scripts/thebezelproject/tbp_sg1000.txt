@@ -1,89 +1,212 @@
-00f59e71768aeba758a8210cdcfed3a9 Safari Race (Europe).png
-771bbeabe1e08e59643ffc9661b514ed Champion Pro Wrestling (Japan).png
-ec120a2ecdbeac57a8a2cdacae17b54e Orguss (Japan, Europe).png
-dfe6ef529849004ac91b10eb2e2ec158 Borderline (Japan, Europe).png
-db5d7fd7087291afd693cb0296ab7cdb Flicky (Japan).png
-33c240c7faa702850e8db45df195be2e Home Mahjong (Japan).png
-403387b9d05c076ba6457de0acd7f293 Congo Bongo (Japan, Europe).png
-65c04277bc580b5d363d88175d8e8b04 Chack'n Pop (Japan) (Translated En).png
-34cb625fb56d2a4ca03b248c1c3b81ae Drol (Japan).png
-f61a5a25076709ce750f9aa0a4ac0025 Q-bert (Japan).png
-cf30d17a61ce0bc75faf351cc88a0cd5 Castle, The (Japan).png
-db9f72b27035388723769a9c6d2087ce Hyper Sports (Japan).png
-00f59e71768aeba758a8210cdcfed3a9 Safari Race (Japan).png
-b6d4b417cab34d9302415047aa6b8f7f Pachinko (Japan).png
-adf0116f8482e1b7fc2593bd85a864dc Super Tank (Japan).png
-70cdc9d74e9448d03b6afb1a66ee179f Sindbad Mystery (Japan, Europe).png
-33c240c7faa702850e8db45df195be2e Home Mahjong (Japan) (v1.1).png
-5094b19af624e86ff03855256dc77d6f San-nin Mahjong (Japan).png
-a243e945f37f12a22605a438140dee72 Sega Flipper (Japan, Europe).png
-5f68904ff42c9bdfa4e770e04c02c597 Dokidoki Penguin Land (Japan).png
-0f98c04430466dc931616bf89127b6fd Space Armor (Japan).png
-e667ae526ab0e8468cd64ecedaf0f863 Wonder Boy (Japan).png
-a4f0185d29460b1234a03162b383bcb8 Bank Panic (Japan).png
-048dec1e9bdd39efcf70981b705c5ec8 Hustle Chumy (Japan).png
-e66016d88ced467b40e73cc9df522852 Serizawa Hachidan no Tsumeshogi (Japan).png
-59afbc9ecf6d86c441918956e7142fde James Bond 007 (Japan).png
-e479049298520c810b4a131518e73a61 Safari Hunting (Japan).png
-9b663694c5b04584bfa20824107e424d Black Onyx, The (Japan) (Translated En).png
-f4591727cb2fb3895f506b74ba9749ac Champion Baseball (Japan).png
-65bd0470ad78ab03611c68d226d7d6f1 Dragon Wang (Japan) (Alt).png
-3e1bc6ec60904c6dd5c6c8933c0cda01 N-Sub (Europe).png
-a3ef31829948cf00e2511d2aaba5947c GP World (Japan).png
-00aa1ffc6d3639f4c518cfb2e4c9e340 Sega-Galaga (Japan).png
-f3910d882ee2af775bbb473e3c091a91 Golgo 13 (Japan).png
-e101178e89f97a2b66bfc8e638ae2500 Champion Ice Hockey (Japan).png
 75e3b2248e11e46d0d537bfb49660ce0 Othello (Japan).png
-9341418a5b4ca73bccc4ff6934f51dc8 Bomb Jack (Japan).png
-9c7242e2b29d760af9e589a6399a2ace Space Slalom (Japan).png
-f57afd2a01c00bc60dcbfd46bea806c1 Zippy Race (Japan).png
-a82fd95d21111804bae9639d36b29db0 Championship Lode Runner (Japan).png
-c8742395ec87025adc1ffc2888a35272 Zaxxon (Japan).png
-a7b25702a87ecfcc9f6268a01cf13bc8 Pitfall II - The Lost Caverns (Japan).png
-9aa1bab3143597c396ceceb61615395c Chack'n Pop (Japan).png
-27d5d5df43033758b1e288daae47332e Space Invaders (Japan).png
+87205b8db9dbb07fbd3c2bc97bc69328 Exerion (Taiwan) (Unl).png
+65bd0470ad78ab03611c68d226d7d6f1 Dragon Wang (Taiwan) (Chinese Logo) (Unl).png
+403387b9d05c076ba6457de0acd7f293 Congo Bongo (Japan, Europe, Australia, New Zealand) (En) (Rev 1).png
 6a744323ccebb92efea38125be5d052c Gulkave (Japan).png
-169e0762c6128561459069870c1497c7 Black Onyx, The (Japan).png
-7a8b933c58a6433527d11cb175a3f11c Ninja Princess (Japan) (Translated En).png
-9ad26b14b0668c861ec089f0580edad2 Girl's Garden (Japan).png
-eb085bedfbfc428431121e772f9048f6 Okamoto Ayako no Match Play Golf (Japan).png
-403387b9d05c076ba6457de0acd7f293 Congo Bongo (Japan, Europe) (Alt).png
-a05a02942200dfce2a4f5029d69a289f Star Jacker (Japan, Europe).png
-f0e81c0679c45b715139cc8c0aaf9a48 Mahjong (Japan).png
-59afbc9ecf6d86c441918956e7142fde James Bond 007 (Japan) (v2.7) (OM).png
-cc67253a11d63deb8e53095706494add Space Mountain (Japan) (OM).png
-f1b156dc16f6b7adfc797731c6c43d5b Rock n' Bolt (Japan).png
-cda192eecfa92a35f63b2c4c998a4d38 Star Force (Japan).png
-f31f891bcb0ab33fbd33170c2131a6ad Zoom 909 (Japan).png
-9f2acbb6ae00820eb88932b707a79326 Monaco GP (Japan).png
-491dd195d18720d92e5ab259f8450d97 Loretta no Shouzou - Sherlock Holmes (Japan).png
-cc67253a11d63deb8e53095706494add Space Mountain (Japan).png
-2abf8fc6264f922d8cb6256765e4185a Soukoban (Japan).png
-f61a5a25076709ce750f9aa0a4ac0025 Q-bert (Japan) (OM).png
-3e1bc6ec60904c6dd5c6c8933c0cda01 N-Sub (Europe) (1988).png
-a7b25702a87ecfcc9f6268a01cf13bc8 Pitfall II - The Lost Caverns (Japan) (Alt).png
-0c7133e591235501d728459035c01d57 Guzzler (Japan) (OM).png
-48dde86501967c8d1cf4acbab190698f Champion Boxing (Japan).png
-5b31d61fe174ba1d769bcd3cb8913e03 Pacar (Japan, Europe).png
-42e3c040cf724fe2e8685da7598b7023 Champion Kendou (Japan).png
-48165dca58d5d9431a9865e732bd0de9 Elevator Action (Japan).png
-fe5a7198bcd6bb8f704023f472b66d4c Champion Soccer (Japan).png
+a243e945f37f12a22605a438140dee72 Sega Flipper (Japan) (Alt).png
+2abf8fc6264f922d8cb6256765e4185a I.Q. (Korea) (Unl).png
+771bbeabe1e08e59643ffc9661b514ed Champion Pro Wrestling (Japan).png
+f57afd2a01c00bc60dcbfd46bea806c1 Zippy Race (Japan, Australia) (Ja).png
+a82fd95d21111804bae9639d36b29db0 Championship Lode Runner (Taiwan) (Unl).png
+fcc19c55afb26a99a4b074de0b4e06ad Challenge Derby (Japan) (Rev 1) (Othello Multivision).png
+db5d7fd7087291afd693cb0296ab7cdb Flicky (Japan, New Zealand) (Ja).png
+fcc19c55afb26a99a4b074de0b4e06ad Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt).png
+9f2acbb6ae00820eb88932b707a79326 Monaco GP (Japan, Europe) (Ja) (Rev 2).png
+eb085bedfbfc428431121e772f9048f6 Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).png
+9ad26b14b0668c861ec089f0580edad2 Girl's Garden (Taiwan) (Unl).png
+f4591727cb2fb3895f506b74ba9749ac Champion Baseball (Taiwan) (Unl).png
+cda192eecfa92a35f63b2c4c998a4d38 Star Force (Taiwan) (Unl).png
+65bd0470ad78ab03611c68d226d7d6f1 Dragon Wang (Taiwan) (English Logo) (Unl).png
+2abf8fc6264f922d8cb6256765e4185a Soukoban (Korea) (Unl).png
+a05a02942200dfce2a4f5029d69a289f Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1).png
+f61a5a25076709ce750f9aa0a4ac0025 Q-bert (Japan) (Othello Multivision).png
+00f59e71768aeba758a8210cdcfed3a9 Safari Race (Japan, Europe, Australia, New Zealand) (Ja).png
+75a184b42fd3e03ea597af8b8989e532 Yie Ar Kung-Fu (Taiwan) (Unl).png
+529f4b7f8f5063288e7d90808a9ba0c3 Cabbage Patch Kids (Taiwan) (Unl).png
+a05a02942200dfce2a4f5029d69a289f Star Jacker (Taiwan) (Unl).png
+bbd57b5185c19bf55995fe7c30faa8ae Road Fighter (Taiwan) (English Logo) (Unl).png
+59afbc9ecf6d86c441918956e7142fde 007 James Bond (Japan) (Othello Multivision) (Alt).png
+5094b19af624e86ff03855256dc77d6f San-nin Mahjong (Japan) (Othello Multivision).png
+048dec1e9bdd39efcf70981b705c5ec8 Hustle Chumy (Taiwan) (Unl).png
+2abf8fc6264f922d8cb6256765e4185a Soukoban (Japan, Australia) (Ja).png
+34cb625fb56d2a4ca03b248c1c3b81ae Drol (Korea) (Unl).png
+ee2dbed759f683e7c8aa6f81f884e20d Champion Golf (Korea) (En) (Unl).png
+70cdc9d74e9448d03b6afb1a66ee179f Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).png
+e859a0f645752d356d72a2e5a43d8da2 Hyper Sports 2 (Taiwan) (Unl).png
+5b31d61fe174ba1d769bcd3cb8913e03 Pacar (Japan) (Alt).png
+836e9142b6a12b594731891e412842cc Yamato (Taiwan) (Unl).png
+2b129dac4346ea8eb959e16b9e2e69d2 Vexed (World) (v1.03) (Aftermarket) (Unl).png
+9aa1bab3143597c396ceceb61615395c Chack'n Pop (Japan).png
+9341418a5b4ca73bccc4ff6934f51dc8 Bomb Jack (Korea) (En) (English Logo) (Unl).png
 65bd0470ad78ab03611c68d226d7d6f1 Dragon Wang (Japan).png
-40a30017a1da35bedd386490109dce84 C_So! (Japan).png
-1106cce927e67d581e45a6790fcda378 H.E.R.O. (Japan).png
-0c7133e591235501d728459035c01d57 Guzzler (Japan).png
-3b38d9e118b5e369ec5c0175708ab190 Lode Runner (Japan, Europe).png
-1b7582d0857ca751bbefcf60ad9741c4 Shinnyushain Tooru Kun (Japan).png
+926f950b3b5afc452c39afbfc24395e1 Arno Dash (World) (v1.03) (Aftermarket) (Unl).png
+eb085bedfbfc428431121e772f9048f6 Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision) (Unl).png
+48dde86501967c8d1cf4acbab190698f Champion Boxing (Japan) (Rev 1).png
 482c92d85ff7e63419789734163aa0cd Champion Billiards (Japan).png
-fbc5cd737322b0962673181e727a2342 Pop Flamer (Japan, Europe).png
-ee2dbed759f683e7c8aa6f81f884e20d Champion Golf (Japan).png
-b8e62a45953abe1dca517758ac6e93de Choplifter (Japan).png
-1927ed19c2d4db763801fd1e798c6777 Terebi Oekaki (Japan).png
-1106cce927e67d581e45a6790fcda378 H.E.R.O.png
-fcc19c55afb26a99a4b074de0b4e06ad Challenge Derby (Japan).png
-87205b8db9dbb07fbd3c2bc97bc69328 Exerion (Japan, Europe).png
-a05a02942200dfce2a4f5029d69a289f Star Jacker (Japan, Europe) (v1.2).png
-5c6792a97e6fa0072b2f8303869cad0c Champion Tennis (Japan).png
+5094b19af624e86ff03855256dc77d6f San-nin Mahjong (Taiwan) (Othello Multivision) (Unl).png
+34cb625fb56d2a4ca03b248c1c3b81ae Drol (Japan, Australia) (Ja).png
+5c6792a97e6fa0072b2f8303869cad0c Champion Tennis (Japan, Europe, Australia, New Zealand) (Ja).png
+65bd0470ad78ab03611c68d226d7d6f1 Dragon Wang (Japan) (Rev 1).png
+adf0116f8482e1b7fc2593bd85a864dc Super Tank (Taiwan) (Unl).png
+9c7242e2b29d760af9e589a6399a2ace Space Slalom (Japan).png
+cda192eecfa92a35f63b2c4c998a4d38 Star Force (Japan, Australia) (Ja).png
+27d5d5df43033758b1e288daae47332e Space Invaders (Taiwan) (Unl).png
+3e1bc6ec60904c6dd5c6c8933c0cda01 N-Sub (Taiwan) (Unl).png
+4107fcbf9c3667943a9afc8e7b865a00 Cheril Perils Classic (World) (PAL) (Aftermarket) (Unl).png
+d79f54644646be38ea5835bc481eae87 King's Valley (Taiwan) (Unl).png
+a05a02942200dfce2a4f5029d69a289f Star Jacker (Japan).png
+1106cce927e67d581e45a6790fcda378 H.E.R.O. (Taiwan) (Chinese Logo) (Unl).png
+48165dca58d5d9431a9865e732bd0de9 Elevator Action (Japan).png
+6a744323ccebb92efea38125be5d052c Gulkave (Korea) (Unl).png
+ee2dbed759f683e7c8aa6f81f884e20d Champion Golf (Japan) (Rev 1).png
+59afbc9ecf6d86c441918956e7142fde 007 James Bond (Taiwan) (Othello Multivision) (Unl).png
+b8e62a45953abe1dca517758ac6e93de Choplifter (Taiwan) (No Logo) (Unl).png
+c8742395ec87025adc1ffc2888a35272 Zaxxon (Taiwan) (Unl).png
+87205b8db9dbb07fbd3c2bc97bc69328 Exerion (Korea) (Unl).png
+42e3c040cf724fe2e8685da7598b7023 Champion Kendou (Taiwan) (Unl).png
+a1660bb33b12f7ea58c71d4a3635898f Magical Tree (Taiwan) (Unl).png
+5f68904ff42c9bdfa4e770e04c02c597 Doki Doki Penguin Land (Japan).png
+56570cf402c257a46b2888156bec8d3e Knightmare (Taiwan) (Unl).png
+fbc5cd737322b0962673181e727a2342 Pop Flamer (Taiwan) (Unl).png
+00aa1ffc6d3639f4c518cfb2e4c9e340 Sega-Galaga (Japan).png
+169e0762c6128561459069870c1497c7 Black Onyx, The (Japan).png
+7a8b933c58a6433527d11cb175a3f11c Ninja Princess (Japan, Australia) (Ja).png
+adf0116f8482e1b7fc2593bd85a864dc Super Tank (Japan).png
+926f950b3b5afc452c39afbfc24395e1 Arno Dash (World) (v1.00) (Aftermarket) (Unl).png
+48dde86501967c8d1cf4acbab190698f Champion Boxing (Japan, New Zealand) (Ja).png
+59afbc9ecf6d86c441918956e7142fde 007 James Bond (Japan) (Othello Multivision).png
+ee2dbed759f683e7c8aa6f81f884e20d Champion Golf (Japan, Europe, Australia, New Zealand) (Ja).png
+c938088aa0ebfe0d88dcb0a5d05b4216 Magical Kid Wiz (Taiwan) (Unl).png
+a05a02942200dfce2a4f5029d69a289f Star Jacker (Japan, Europe) (En) (Rev 2).png
+0c7133e591235501d728459035c01d57 Guzzler (Japan) (Othello Multivision).png
+fcc19c55afb26a99a4b074de0b4e06ad Challenge Derby (Japan) (Othello Multivision).png
+1106cce927e67d581e45a6790fcda378 H.E.R.O. (Japan).png
+dfe6ef529849004ac91b10eb2e2ec158 Borderline (Japan, Europe, Australia, New Zealand) (En).png
 621d74c44d71193a36f8c5a1fcd58744 Pachinko II (Japan).png
-836e9142b6a12b594731891e412842cc Yamato (Japan, Europe).png
-bce2c38d542e15ba92251cdd7facaa99 Hang-On II (Japan).png
+fe5a7198bcd6bb8f704023f472b66d4c Champion Soccer (Taiwan) (Unl).png
+cd29af6b3ee8f0cf29f9f43ea9af9265 Complete Arcade Pack Collection, The (New Zealand) (SF-7000).png
+00aa1ffc6d3639f4c518cfb2e4c9e340 Sega-Galaga (Japan, Australia) (Ja).png
+db5d7fd7087291afd693cb0296ab7cdb Flicky (Japan) (Rev 1).png
+b8e62a45953abe1dca517758ac6e93de Choplifter (Korea) (En) (Unl).png
+00aa1ffc6d3639f4c518cfb2e4c9e340 Sega-Galaga (Taiwan) (Unl).png
+40a30017a1da35bedd386490109dce84 C_So! (Taiwan) (Unl).png
+e101178e89f97a2b66bfc8e638ae2500 Champion Ice Hockey (Taiwan) (Unl).png
+a4f0185d29460b1234a03162b383bcb8 Bank Panic (Taiwan) (Unl).png
+a82fd95d21111804bae9639d36b29db0 Championship Lode Runner (Japan, Australia) (Ja).png
+8ee79c47b76c6b0708e259fba93a3722 Yie Ar Kung-Fu II (Taiwan) (Unl).png
+5f68904ff42c9bdfa4e770e04c02c597 Doki Doki Penguin Land (Taiwan) (Unl).png
+48165dca58d5d9431a9865e732bd0de9 Elevator Action (Taiwan) (Unl).png
+3e1bc6ec60904c6dd5c6c8933c0cda01 N-Sub (Japan) (Alt).png
+27d5d5df43033758b1e288daae47332e Space Invaders (Japan).png
+5b31d61fe174ba1d769bcd3cb8913e03 Pacar (Japan, Europe, Australia, New Zealand) (En).png
+048dec1e9bdd39efcf70981b705c5ec8 Hustle Chumy (Japan).png
+9341418a5b4ca73bccc4ff6934f51dc8 Bomb Jack (Taiwan) (English Logo) (Unl).png
+ae17236c157597e17c9bb452a70d523f Bomberman Special (Taiwan) (English Logo) (Unl).png
+0f98c04430466dc931616bf89127b6fd Space Armor (Japan) (Othello Multivision).png
+9341418a5b4ca73bccc4ff6934f51dc8 Bomb Jack (Korea) (En) (Korean Logo) (Unl).png
+db9f72b27035388723769a9c6d2087ce Hyper Sports (Japan).png
+9341418a5b4ca73bccc4ff6934f51dc8 Bomb Jack (Taiwan) (Chinese Logo) (Unl).png
+cf30d17a61ce0bc75faf351cc88a0cd5 Castle, The (Japan).png
+1b7582d0857ca751bbefcf60ad9741c4 Shinnyushain Tooru-kun (Japan).png
+bbd57b5185c19bf55995fe7c30faa8ae Road Fighter (Taiwan) (Chinese Logo) (Unl).png
+e556903701d841eb4b8f78507b9de37f Legend of Kage, The (Taiwan) (Unl).png
+33c240c7faa702850e8db45df195be2e Home Mahjong (Japan) (Rev 1).png
+31391413f74d7591d90bbce271009575 Star Soldier (Taiwan) (Unl).png
+4107fcbf9c3667943a9afc8e7b865a00 Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl).png
+adf0116f8482e1b7fc2593bd85a864dc Super Tank (Korea) (Unl).png
+a7b25702a87ecfcc9f6268a01cf13bc8 Pitfall II - The Lost Caverns (Japan) (Rev 1).png
+c8742395ec87025adc1ffc2888a35272 Zaxxon (Japan).png
+1106cce927e67d581e45a6790fcda378 H.E.R.O. (Taiwan) (English Logo) (Unl).png
+1b7582d0857ca751bbefcf60ad9741c4 Shinnyushain Tooru-kun (Taiwan) (Unl).png
+e667ae526ab0e8468cd64ecedaf0f863 Wonder Boy (Japan) (Rev 1).png
+b8e62a45953abe1dca517758ac6e93de Choplifter (Taiwan) (English Logo) (Unl).png
+836e9142b6a12b594731891e412842cc Yamato (Japan) (Alt).png
+ae17236c157597e17c9bb452a70d523f Bomberman Special (Taiwan) (Chinese Logo) (Unl).png
+f3910d882ee2af775bbb473e3c091a91 Golgo 13 (Japan).png
+f1b156dc16f6b7adfc797731c6c43d5b Rock n' Bolt (Taiwan) (English Logo) (Unl).png
+42e3c040cf724fe2e8685da7598b7023 Champion Kendou (Japan).png
+3b38d9e118b5e369ec5c0175708ab190 Lode Runner (Korea) (Unl).png
+e66016d88ced467b40e73cc9df522852 Serizawa Hachidan no Tsumeshougi (Japan).png
+9f2acbb6ae00820eb88932b707a79326 Monaco GP (Taiwan) (Unl).png
+48dde86501967c8d1cf4acbab190698f Champion Boxing (Taiwan) (Unl).png
+06e515de1c1ecdf63337be999d338412 Kamikaze (France) (En) (SF-7000) (Unl).png
+635e2ad490f342b1f6d89b4d13c545ae Rally-X (Taiwan) (Chinese Logo) (Unl).png
+a3ef31829948cf00e2511d2aaba5947c GP World (Japan).png
+7a8b933c58a6433527d11cb175a3f11c Ninja Princess (Taiwan) (Unl).png
+bce2c38d542e15ba92251cdd7facaa99 Hang On II (Taiwan) (English Logo) (Unl).png
+0f98c04430466dc931616bf89127b6fd Space Armor (Japan) (Othello Multivision) (Alt).png
+33c240c7faa702850e8db45df195be2e Home Mahjong (Japan).png
+a4f0185d29460b1234a03162b383bcb8 Bank Panic (Japan).png
+fbc5cd737322b0962673181e727a2342 Pop Flamer (Japan, Europe, Australia, New Zealand) (En).png
+0c7133e591235501d728459035c01d57 Guzzler (Taiwan) (Othello Multivision) (Unl).png
+db9f72b27035388723769a9c6d2087ce Hyper Sports (Korea) (Unl).png
+8e050bba733516521a8ecc437113e03a Circus Charlie (Taiwan) (Unl).png
+5b31d61fe174ba1d769bcd3cb8913e03 Pacar (Taiwan) (Unl).png
+a7b25702a87ecfcc9f6268a01cf13bc8 Pitfall II (Taiwan) (English Logo) (Unl).png
+75e3b2248e11e46d0d537bfb49660ce0 Othello (Taiwan) (Unl).png
+db5d7fd7087291afd693cb0296ab7cdb Flicky (Taiwan) (Unl).png
+cda192eecfa92a35f63b2c4c998a4d38 Star Force (Taiwan) (Unl) (Alt).png
+e479049298520c810b4a131518e73a61 Safari Hunting (Taiwan) (Unl).png
+f4591727cb2fb3895f506b74ba9749ac Champion Baseball (Japan).png
+3e1bc6ec60904c6dd5c6c8933c0cda01 N-Sub (Japan, Europe, Australia, New Zealand) (Ja).png
+db9f72b27035388723769a9c6d2087ce Hyper Sports (Taiwan) (Unl).png
+cc67253a11d63deb8e53095706494add Space Mountain (Japan) (Othello Multivision).png
+b8e62a45953abe1dca517758ac6e93de Choplifter (Japan, Australia) (Ja).png
+00f59e71768aeba758a8210cdcfed3a9 Safari Race (Taiwan) (Unl).png
+e101178e89f97a2b66bfc8e638ae2500 Champion Ice Hockey (Korea) (En) (Unl).png
+30acfcfad2a9a4f80b53f77a51b8dde6 Pippols (Taiwan) (Unl).png
+f31f891bcb0ab33fbd33170c2131a6ad Zoom 909 (Taiwan) (Unl).png
+403387b9d05c076ba6457de0acd7f293 Congo Bongo (Japan).png
+a3ef31829948cf00e2511d2aaba5947c GP World (Japan) (Rev 1).png
+e667ae526ab0e8468cd64ecedaf0f863 Wonder Boy (Taiwan) (Unl).png
+fe5a7198bcd6bb8f704023f472b66d4c Champion Soccer (Japan, Europe) (Ja).png
+b6d4b417cab34d9302415047aa6b8f7f Pachinko (Japan).png
+e479049298520c810b4a131518e73a61 Safari Hunting (Japan, Europe, Australia, New Zealand) (Ja).png
+f4591727cb2fb3895f506b74ba9749ac Champion Baseball (Japan, Australia, New Zealand) (Ja).png
+f57afd2a01c00bc60dcbfd46bea806c1 Zippy Race (Taiwan) (Unl).png
+521cf4ef37fbf867558e6bed9e157663 Poseidon Wars + Space Panic + Rambo (France) (En) (SF-7000) (Unl).png
+0f98c04430466dc931616bf89127b6fd Space Armor (Japan) (Rev 1) (Othello Multivision).png
+3b38d9e118b5e369ec5c0175708ab190 Lode Runner (Taiwan) (Unl).png
+eb085bedfbfc428431121e772f9048f6 Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).png
+a243e945f37f12a22605a438140dee72 Sega Flipper (Taiwan) (Unl).png
+34cb625fb56d2a4ca03b248c1c3b81ae Drol (Taiwan) (Unl).png
+a3ef31829948cf00e2511d2aaba5947c GP World (Taiwan) (Unl).png
+33c240c7faa702850e8db45df195be2e Home Mahjong (Taiwan) (Unl).png
+a7b25702a87ecfcc9f6268a01cf13bc8 Pitfall II (Taiwan) (Chinese Logo) (Unl).png
+f0e81c0679c45b715139cc8c0aaf9a48 Mahjong (Japan).png
+87205b8db9dbb07fbd3c2bc97bc69328 Exerion (Japan, Europe, Australia, New Zealand) (En).png
+65c04277bc580b5d363d88175d8e8b04 Chack'n Pop (Taiwan) (Unl).png
+9341418a5b4ca73bccc4ff6934f51dc8 Bomb Jack (Japan, Australia) (Ja).png
+5094b19af624e86ff03855256dc77d6f San-nin Mahjong (Japan) (Othello Multivision) (Alt).png
+bce2c38d542e15ba92251cdd7facaa99 Hang On II (Taiwan) (Chinese Logo) (Unl).png
+2d76f71d816382056659b41b531c147a TwinBee (Taiwan) (Unl).png
+f31f891bcb0ab33fbd33170c2131a6ad Zoom 909 (Japan).png
+f1b156dc16f6b7adfc797731c6c43d5b Rock n' Bolt (Taiwan) (Chinese Logo) (Unl).png
+9f2acbb6ae00820eb88932b707a79326 Monaco GP (Japan) (Rev 1).png
+f0e81c0679c45b715139cc8c0aaf9a48 Mahjong (Taiwan) (Unl).png
+635e2ad490f342b1f6d89b4d13c545ae Rally-X (Taiwan) (English Logo) (Unl).png
+621d74c44d71193a36f8c5a1fcd58744 Pachinko II (Taiwan) (Unl).png
+ec120a2ecdbeac57a8a2cdacae17b54e Orguss (Japan, Europe, Australia, New Zealand) (En).png
+cf30d17a61ce0bc75faf351cc88a0cd5 Castle, The (Taiwan) (Unl).png
+8e050bba733516521a8ecc437113e03a Circus Charlie (Korea) (Unl).png
+403387b9d05c076ba6457de0acd7f293 Congo Bongo (Taiwan) (Unl).png
+9ad26b14b0668c861ec089f0580edad2 Girl's Garden (Japan, Australia) (Ja).png
+bea9cdf1d8ff9e8e9eaa3b8665126a6a Ping Pong (Taiwan) (Unl).png
+a243e945f37f12a22605a438140dee72 Sega Flipper (Japan, Europe, Australia, New Zealand) (En).png
+bce2c38d542e15ba92251cdd7facaa99 Hang On II (Japan, Australia) (Ja).png
+b8e62a45953abe1dca517758ac6e93de Choplifter (Taiwan) (Chinese Logo) (Unl).png
+b8e62a45953abe1dca517758ac6e93de Choplifter (Japan, Australia) (Ja) (Beta).png
+e101178e89f97a2b66bfc8e638ae2500 Champion Ice Hockey (Japan).png
+403387b9d05c076ba6457de0acd7f293 Congo Bongo (Japan, Europe) (Ja) (Rev 1) (Alt).png
+2abf8fc6264f922d8cb6256765e4185a Soukoban (Taiwan) (Unl).png
+9f2acbb6ae00820eb88932b707a79326 Monaco GP (Japan, Europe, Australia, New Zealand) (Ja).png
+a7b25702a87ecfcc9f6268a01cf13bc8 Pitfall II - The Lost Caverns (Japan).png
+f1b156dc16f6b7adfc797731c6c43d5b Rock n' Bolt (Japan).png
+df0ea864e818dd120594bb92e86b2ae5 Tank Battalion (Taiwan) (Unl).png
+836e9142b6a12b594731891e412842cc Yamato (Japan, Europe, Australia, New Zealand) (En).png
+40a30017a1da35bedd386490109dce84 C_So! (Japan).png
+70cdc9d74e9448d03b6afb1a66ee179f Sindbad Mystery (Taiwan) (Unl).png
+f0e81c0679c45b715139cc8c0aaf9a48 Mahjong (Japan) (Rev 1).png
+e667ae526ab0e8468cd64ecedaf0f863 Wonder Boy (Japan, Australia) (Ja).png
+482c92d85ff7e63419789734163aa0cd Champion Billiards (Taiwan) (Unl).png
+3b38d9e118b5e369ec5c0175708ab190 Lode Runner (Japan, Europe, Australia) (En).png
