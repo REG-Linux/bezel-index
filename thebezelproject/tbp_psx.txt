@@ -2554,11 +2554,11 @@ b34ba418a59358000dd5d88cc4540f61 Fire Woman Matoigumi (Japan).png
 8d528cecc267b8176379dcbed7e87c98 Firemen 2, The - Pete & Danny (Japan).png
 58552a5f43dd2433b8b0ac4664b79009 Firestorm - Thunderhawk 2 (Europe) (En,Fr).png
 58552a5f43dd2433b8b0ac4664b79009 Firestorm - Thunderhawk 2 (Germany).png
-5e0324948e5198e9176f7e65ea99b2a1 Firo & Klawd (Europe).png
-5e0324948e5198e9176f7e65ea99b2a1 Firo & Klawd (France).png
-5e0324948e5198e9176f7e65ea99b2a1 Firo & Klawd (Germany).png
-5e0324948e5198e9176f7e65ea99b2a1 Firo & Klawd (Japan).png
-5e0324948e5198e9176f7e65ea99b2a1 Firo & Klawd (Spain).png
+39093f6a8121a846f58636dd4edc987f Firo & Klawd (Europe).png
+39093f6a8121a846f58636dd4edc987f Firo & Klawd (France).png
+39093f6a8121a846f58636dd4edc987f Firo & Klawd (Germany).png
+39093f6a8121a846f58636dd4edc987f Firo & Klawd (Japan).png
+39093f6a8121a846f58636dd4edc987f Firo & Klawd (Spain).png
 acc886b671ddf2b0c41475a887c65a02 First Kiss Story (Japan) (Disc 1).png
 acc886b671ddf2b0c41475a887c65a02 First Kiss Story (Japan) (Disc 2).png
 325407735ffc14375498c227ee38d967 First Queen IV - Varcia Senki (Japan).png
@@ -2569,8 +2569,8 @@ fd765e2c5ee56f8d0103178819c92376 Fisher's Road (Japan).png
 12158e5136be4e6461422d7b79f0fead Fisher-Price Rescue Heroes - Helden in Gefahr (Germany).png
 12158e5136be4e6461422d7b79f0fead Fisher-Price Rescue Heroes - Molten Menace (Europe).png
 12158e5136be4e6461422d7b79f0fead Fisher-Price Rescue Heroes - Molten Menace (USA).png
-825fad3662876c9d8975b24f8c202de9 Fisherman's Bait - A Bass Challenge (USA).png
-825fad3662876c9d8975b24f8c202de9 Fisherman's Bait - Bass Challenge (Europe).png
+4955a76b811062d03ade057effaf7aa0 Fisherman's Bait - A Bass Challenge (USA).png
+4955a76b811062d03ade057effaf7aa0 Fisherman's Bait - Bass Challenge (Europe).png
 affda67831c45f305dee413c07413ef9 Fisherman's Bait 2 - Big Ol' Bass (Europe).png
 affda67831c45f305dee413c07413ef9 Fisherman's Bait 2 - Big Ol' Bass (USA).png
 abf196be27fac645eab1d2db9068b4d2 Fisherman's Bait 3 (Europe).png
@@ -2646,7 +2646,7 @@ f59c339384b87172892fc0703cb69cfa Formula One 99 (USA, Canada) (En,Fr,Es).png
 fe0e37a256b343c7955a94b28f8401cf Fox Hunt (USA) (Disc 3).png
 b9168aae4b8ef658ed609ce7b2dda689 Fox Junction (Japan).png
 3a5ea1858a33dcabef53cdc16e4dbab8 Fox Sports Golf '99 (USA).png
-fa2be6168e37be50f103040c678c4b63 Fox Sports Soccer '99 (USA) (En,Es).png
+64be14e585c103b7e36d4782e6314317 Fox Sports Soccer '99 (USA) (En,Es).png
 7db3dc30df0317e514e49212acf80a48 FoxKids.com - Micro Maniacs Racing (USA).png
 a0baa0f21cd5e0b7fc5566e604c03d2c Frank Thomas Big Hurt Baseball (Europe).png
 a0baa0f21cd5e0b7fc5566e604c03d2c Frank Thomas Big Hurt Baseball (Japan).png
