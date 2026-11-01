@@ -597,14 +597,14 @@ b583231a8761152301f2da08e7666eef Battle of Olympus, The (USA).png
 6e1be1a115ddbc3f1a7cefb4a45528cc Battleship (Russia) (Pirate).png
 6e1be1a115ddbc3f1a7cefb4a45528cc Battleship (USA).png
 b084f66360dcb3588fbdb6ad169de048 Battletoad II (Asia) (En) (Pirate).png
-688f5d3a6d9a1d4a9587f46d7d7a0c6d Battletoads (Brazil) (En,Pt-BR) (Conector) (Unl).png
-688f5d3a6d9a1d4a9587f46d7d7a0c6d Battletoads (Europe).png
-688f5d3a6d9a1d4a9587f46d7d7a0c6d Battletoads (USA) (Sample).png
-688f5d3a6d9a1d4a9587f46d7d7a0c6d Battletoads (USA) (iam8bit).png
-688f5d3a6d9a1d4a9587f46d7d7a0c6d Battletoads (USA).png
-b084f66360dcb3588fbdb6ad169de048 Battletoads-Double Dragon (Europe).png
-b084f66360dcb3588fbdb6ad169de048 Battletoads-Double Dragon (USA).png
-b084f66360dcb3588fbdb6ad169de048 Battletoads-Double Dragon (USA, Europe) (Retro-Bit).png
+155ec3c359f193a463b0bef235db6016 Battletoads (Brazil) (En,Pt-BR) (Conector) (Unl).png
+155ec3c359f193a463b0bef235db6016 Battletoads (Europe).png
+155ec3c359f193a463b0bef235db6016 Battletoads (USA) (Sample).png
+155ec3c359f193a463b0bef235db6016 Battletoads (USA) (iam8bit).png
+155ec3c359f193a463b0bef235db6016 Battletoads (USA).png
+f19b8440a6b36e7f613b4442e52af02a Battletoads-Double Dragon (Europe).png
+f19b8440a6b36e7f613b4442e52af02a Battletoads-Double Dragon (USA).png
+f19b8440a6b36e7f613b4442e52af02a Battletoads-Double Dragon (USA, Europe) (Retro-Bit).png
 0fc65dc151bab5c6784c238cc275cb52 Battlezone (USA) (Atari Flashback) (Aftermarket) (Unl).png
 a23f23ebab88e9de2402b8466a92efe4 Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate).png
 16abf22fd4dbee80fa66056bdc3fcc5a Be a Pirate (World) (Proto 1) (Aftermarket) (Unl).png
@@ -789,8 +789,8 @@ e4259e1742ab7f31af3ca41b471b0f70 Brush Roller (Taiwan) (En) (Unl).png
 8497ba49eef98d56b0c1276cfe3a4b4f Bubble Bobble (USA) (Virtual Console).png
 8497ba49eef98d56b0c1276cfe3a4b4f Bubble Bobble (USA).png
 e35a6d78d987fa8cd10ab6d550d154fc Bubble Bobble Part 2 (USA).png
-4cfbba1a2b7c223202d48b89486f7f2d Bucky O'Hare (Europe).png
-4cfbba1a2b7c223202d48b89486f7f2d Bucky O'Hare (USA).png
+3734f3653bda636aff167e4dcfb15701 Bucky O'Hare (Europe).png
+3734f3653bda636aff167e4dcfb15701 Bucky O'Hare (USA).png
 ea4332f41ee5378c33ab1443408fe08e Bug Squashers (World) (Demo) (Aftermarket) (Unl).png
 43533ff3f593853013702dfdb102a252 BugTris (Korea) (En) (Unl).png
 1cb1cf615cab546c9215544c5effa0f6 Buggy Popper (Asia) (En) (Aftermarket) (Pirate).png
@@ -874,17 +874,17 @@ c98f8323b4848937473fb9577e09c65d Castelian (USA).png
 1d6b311c4feba1246ebb4cf8c64bcda9 Castle of Deceit (USA) (Unl).png
 3aad8d68eb59f43738e7270a2687559f Castle of Dragon (USA).png
 d2e6c2a87680141c137a93c658519c6d Castlequest (USA).png
-8728b9575e5e227449132a3067ab41d9 Castlevania (Europe) (Virtual Console).png
-8728b9575e5e227449132a3067ab41d9 Castlevania (Europe).png
-8728b9575e5e227449132a3067ab41d9 Castlevania (USA) (Rev 1) (Virtual Console).png
-8728b9575e5e227449132a3067ab41d9 Castlevania (USA) (Rev 1).png
-8728b9575e5e227449132a3067ab41d9 Castlevania (USA).png
-8728b9575e5e227449132a3067ab41d9 Castlevania (World) (Castlevania Anniversary Collection).png
-8728b9575e5e227449132a3067ab41d9 Castlevania (World) (Konami Collector's Series).png
-4c871fff0f769a7a64bdab07a3ad8eb1 Castlevania II - Simon's Quest (Europe).png
+478b83856dc20a109eec3b31a4d61d7e Castlevania (Europe) (Virtual Console).png
+478b83856dc20a109eec3b31a4d61d7e Castlevania (Europe).png
+478b83856dc20a109eec3b31a4d61d7e Castlevania (USA) (Rev 1) (Virtual Console).png
+478b83856dc20a109eec3b31a4d61d7e Castlevania (USA) (Rev 1).png
+478b83856dc20a109eec3b31a4d61d7e Castlevania (USA).png
+478b83856dc20a109eec3b31a4d61d7e Castlevania (World) (Castlevania Anniversary Collection).png
+478b83856dc20a109eec3b31a4d61d7e Castlevania (World) (Konami Collector's Series).png
+75d77324ad513470e317fda69c1705be Castlevania II - Simon's Quest (Europe).png
 75d77324ad513470e317fda69c1705be Castlevania II - Simon's Quest (USA).png
-4c871fff0f769a7a64bdab07a3ad8eb1 Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection).png
-4c871fff0f769a7a64bdab07a3ad8eb1 Castlevania II - Simon's Quest (World) (Konami Collector's Series).png
+75d77324ad513470e317fda69c1705be Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection).png
+75d77324ad513470e317fda69c1705be Castlevania II - Simon's Quest (World) (Konami Collector's Series).png
 5d4a5f8049d4b84d82ab4b35482ebee8 Castlevania III - Dracula's Curse (Europe) (Wii Virtual Console).png
 5d4a5f8049d4b84d82ab4b35482ebee8 Castlevania III - Dracula's Curse (Europe).png
 d635ee81c387c981b2f972c19c9960c4 Castlevania III - Dracula's Curse (USA).png
